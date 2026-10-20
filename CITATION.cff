@@ -2,6 +2,8 @@ cff-version: 1.2.0
 message: "If you use this software or data, please cite it as below."
 title: "Liverwort genomes through economic complexity: code and data"
 abstract: "Code and data that apply revealed comparative advantage and the method of reflections to the orthogroup content of eleven green plant proteomes, testing how liverwort genomes cover metabolic functions with fewer gene copies."
+version: v1.0.0
+doi: 10.5281/zenodo.23510585
 authors:
   - family-names: Vergara
     given-names: Alexander

@@ -87,4 +87,6 @@ Every external tool (busco, orthofinder, diamond, famsa, fasttree, hmmsearch, hm
 
 ## Citation and licence
 
-Please cite the article once published; the archived DOI (Zenodo) will be added at release. The scripts are released under the MIT licence (`LICENSE`) and the data files under CC BY 4.0 (`LICENSE-DATA`).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23510585.svg)](https://doi.org/10.5281/zenodo.23510585)
+
+The code and data are archived on Zenodo at https://doi.org/10.5281/zenodo.23510585. Please cite the article once published, and this archived release by its DOI. The scripts are released under the MIT licence (`LICENSE`) and the data files under CC BY 4.0 (`LICENSE-DATA`).
