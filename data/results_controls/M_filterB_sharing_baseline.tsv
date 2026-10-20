@@ -1,0 +1,10 @@
+context	set	n	Ppatens	Smoellendorffii	either
+primary_metabolism	all orthogroups of the context	908	0.5474	0.3491	0.7236
+primary_metabolism	no angiosperm enriched	324	0.5864	0.5370	0.8549
+primary_metabolism	Filter B	212	0.5330	0.5047	0.8255
+C_metabolism	all orthogroups of the context	388	0.5438	0.3170	0.7268
+C_metabolism	no angiosperm enriched	125	0.5680	0.4880	0.8320
+C_metabolism	Filter B	84	0.5476	0.4524	0.8095
+N_metabolism	all orthogroups of the context	270	0.6259	0.3148	0.7481
+N_metabolism	no angiosperm enriched	82	0.7439	0.4390	0.8780
+N_metabolism	Filter B	56	0.7679	0.4464	0.9107

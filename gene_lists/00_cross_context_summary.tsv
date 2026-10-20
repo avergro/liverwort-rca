@@ -1,0 +1,4 @@
+context	total_ogs	filter_A_ogs	filter_B_ogs	filter_C_ogs	genes_Mpolymorpha	genes_Lcruciata	genes_Ppatens
+C_metabolism	388	104	84	55	192	189	285
+N_metabolism	270	68	56	49	142	156	177
+primary_metabolism	908	265	212	144	454	519	634

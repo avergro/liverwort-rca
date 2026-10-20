@@ -1,0 +1,17 @@
+# BUSCO version is: 6.0.0 
+# The lineage dataset is: embryophyta_odb10 (Creation date: 2024-01-08, number of genomes: 50, number of BUSCOs: 1614)
+# Summarized benchmarking in BUSCO notation for file ./data/proteomes/filtered/Slycopersicum.primary.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:91.3%[S:89.7%,D:1.7%],F:5.0%,M:3.7%,n:1614	   
+	1474	Complete BUSCOs (C)			   
+	1447	Complete and single-copy BUSCOs (S)	   
+	27	Complete and duplicated BUSCOs (D)	   
+	80	Fragmented BUSCOs (F)			   
+	60	Missing BUSCOs (M)			   
+	1614	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4

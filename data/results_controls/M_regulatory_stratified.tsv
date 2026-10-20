@@ -1,0 +1,7 @@
+comparison	category	orthogroups	median_angiosperm_copies	n up to one	median ratio up to one	P up to one	n one to two	median ratio one to two	P one to two	n two to four	median ratio two to four	P two to four	n more than four	median ratio more than four	P more than four
+KEGG regulatory vs KEGG primary	KEGG regulatory	111	7	5	1	0.263	9	0.75	0.5473	27	0.45	0.8968	70	0.2106	3.295e-05
+KEGG regulatory vs KEGG primary	KEGG primary	845	1.667	209	1		306	0.75		203	0.4286		127	0.375	
+GO regulatory vs GO primary	GO regulatory	429	3	76	1	0.3715	98	0.75	0.5758	89	0.4286	0.3445	166	0.1938	2.163e-07
+GO regulatory vs GO primary	GO primary	1703	1.667	488	1		566	0.75		372	0.4286		277	0.3	
+transcription factors vs KEGG primary	transcription factors	161	6	16	1	0.3093	24	0.75	0.3931	27	0.4286	0.8355	94	0.1818	3.116e-08
+transcription factors vs KEGG primary	KEGG primary	879	1.667	212	1		315	0.75		212	0.4286		140	0.3725	

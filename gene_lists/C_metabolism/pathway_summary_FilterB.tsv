@@ -1,0 +1,55 @@
+pathway	pathway_name	n_OGs	mean_ubiquity
+ath01200	Carbon metabolism	22	5.318181818181818
+ath00190	Oxidative phosphorylation	15	5.2
+ath00500	Starch and sucrose metabolism	11	5.090909090909091
+ath01250	Biosynthesis of nucleotide sugars	10	4.6
+ath00010	Glycolysis / Gluconeogenesis	9	5.555555555555555
+ath00195	Photosynthesis	9	5.444444444444445
+ath00520	Amino sugar and nucleotide sugar metabolism	9	4.777777777777778
+ath00620	Pyruvate metabolism	8	5.5
+ath00630	Glyoxylate and dicarboxylate metabolism	7	5.428571428571429
+ath00640	Propanoate metabolism	7	5.428571428571429
+ath00030	Pentose phosphate pathway	6	5.333333333333333
+ath00562	Inositol phosphate metabolism	6	5.0
+ath00020	Citrate cycle (TCA cycle)	5	5.6
+ath00650	Butanoate metabolism	5	5.4
+ath00710	Carbon fixation by Calvin cycle	5	5.2
+ath00785	Lipoic acid metabolism	5	5.4
+ath01210	2-Oxocarboxylic acid metabolism	5	5.2
+ath04142	Lysosome biogenesis	5	5.4
+ath04145	Phagocytosis	5	5.2
+ath00052	Galactose metabolism	4	5.25
+ath00053	Ascorbate and aldarate metabolism	4	4.75
+ath00280	Valine, leucine and isoleucine degradation	4	5.0
+ath00410	beta-Alanine metabolism	4	5.25
+ath00040	Pentose and glucuronate interconversions	3	4.333333333333333
+ath00051	Fructose and mannose metabolism	3	4.333333333333333
+ath00196	Photosynthesis - antenna proteins	3	4.0
+ath00260	Glycine, serine and threonine metabolism	3	5.333333333333333
+ath01240	Biosynthesis of cofactors	3	5.0
+ath04070	Phosphatidylinositol signaling system	3	4.333333333333333
+ath04146	Peroxisome	3	5.333333333333333
+ath00071	Fatty acid degradation	2	5.5
+ath00230	Purine metabolism	2	5.0
+ath00250	Alanine, aspartate and glutamate metabolism	2	5.0
+ath00360	Phenylalanine metabolism	2	5.0
+ath00380	Tryptophan metabolism	2	5.0
+ath00541	Biosynthesis of various nucleotide sugars	2	4.0
+ath00670	One carbon pool by folate	2	5.5
+ath00860	Porphyrin metabolism	2	5.5
+ath01212	Fatty acid metabolism	2	5.5
+ath01230	Biosynthesis of amino acids	2	4.5
+ath00310	Lysine degradation	1	5.0
+ath00480	Glutathione metabolism	1	6.0
+ath00511	Other glycan degradation	1	6.0
+ath00531	Glycosaminoglycan degradation	1	6.0
+ath00561	Glycerolipid metabolism	1	6.0
+ath00564	Glycerophospholipid metabolism	1	5.0
+ath00566	Sulfoquinovose metabolism	1	6.0
+ath00592	alpha-Linolenic acid metabolism	1	6.0
+ath00600	Sphingolipid metabolism	1	6.0
+ath00604	Glycosphingolipid biosynthesis - ganglio series	1	6.0
+ath01040	Biosynthesis of unsaturated fatty acids	1	6.0
+ath03450	Non-homologous end-joining	1	6.0
+ath04016	MAPK signaling pathway - plant	1	5.0
+ath04136	Autophagy - other	1	5.0

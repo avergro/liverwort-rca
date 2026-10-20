@@ -1,0 +1,12 @@
+species	Species	BUSCO dataset	C (%)	S (%)	D (%)	F (%)	M (%)
+Afiliculoides	Azolla filiculoides	embryophyta_odb10	73.7	66.2	7.4	5.9	20.4
+Athaliana	Arabidopsis thaliana	embryophyta_odb10	99.6	98.4	1.2	0.1	0.4
+Creinhardtii	Chlamydomonas reinhardtii	chlorophyta_odb10	99.0	98.2	0.9	0.3	0.7
+Lcruciata	Lunularia cruciata	embryophyta_odb10	74.0	70.6	3.3	6.3	19.7
+Mpolymorpha	Marchantia polymorpha	embryophyta_odb10	87.4	86.1	1.2	1.1	11.6
+Pabies	Picea abies	embryophyta_odb10	88.2	80.9	7.2	5.1	6.7
+Pamericana	Persea americana	embryophyta_odb10	92.7	87.9	4.8	3.3	4.0
+Ppatens	Physcomitrium patens	embryophyta_odb10	88.5	72.7	15.8	1.4	10.1
+Scucullata	Salvinia cucullata	embryophyta_odb10	72.3	68.2	4.2	5.1	22.6
+Slycopersicum	Solanum lycopersicum	embryophyta_odb10	91.3	89.7	1.7	5.0	3.7
+Smoellendorffii	Selaginella moellendorffii	embryophyta_odb10	76.9	61.9	15.0	6.0	17.1

@@ -1,0 +1,61 @@
+setting	context	model	lambda_ML	beta_log_genes	t_log_genes	beta_busco	t_busco
+all species, root 750 Ma	whole_genome	log_genes	1.0	-0.5521161601309911	-3.4297711330033476		
+all species, root 750 Ma	whole_genome	log_genes+busco	1.0	-0.5420179996921793	-3.899205486133319	-0.009528870273150922	-2.0212255996881394
+all species, root 750 Ma	primary_metabolism	log_genes	1.0	-0.5243566237704347	-2.8157854835275105		
+all species, root 750 Ma	primary_metabolism	log_genes+busco	0.91	-0.5292295290873078	-3.8064853522416677	-0.013254084045926475	-2.7878925025085537
+all species, root 750 Ma	C_metabolism	log_genes	1.0	-0.6517088094404937	-3.8888288994652696		
+all species, root 750 Ma	C_metabolism	log_genes+busco	1.0	-0.6441473256023259	-3.986916591642023	-0.007135200416252426	-1.3021741814437728
+all species, root 750 Ma	N_metabolism	log_genes	0.0	-0.7312577273323764	-5.477487174113611		
+all species, root 750 Ma	N_metabolism	log_genes+busco	0.0	-0.69400129333354	-5.158018368462522	-0.005660532707858074	-1.1753190857589961
+all species, root 750 Ma	regulatory_networks	log_genes	1.0	-0.6600767135053713	-4.239220247462703		
+all species, root 750 Ma	regulatory_networks	log_genes+busco	1.0	-0.651068079656283	-4.667503342038072	-0.008500766432302513	-1.7969139475985163
+all species, root 1000 Ma	whole_genome	log_genes	1.0	-0.5650383986599445	-3.455754450557642		
+all species, root 1000 Ma	whole_genome	log_genes+busco	1.0	-0.5415941601936066	-3.796157449107818	-0.00954273866239892	-1.97568173576099
+all species, root 1000 Ma	primary_metabolism	log_genes	1.0	-0.5401089858460794	-2.857932742737098		
+all species, root 1000 Ma	primary_metabolism	log_genes+busco	0.0	-0.6195786986596173	-5.03047316193024	-0.012945013500382066	-2.9362345576873565
+all species, root 1000 Ma	C_metabolism	log_genes	1.0	-0.6680666915298354	-3.939241928045003		
+all species, root 1000 Ma	C_metabolism	log_genes+busco	0.0	-0.6913878860127712	-4.955533728934697	-0.007480668050814458	-1.4979072888250784
+all species, root 1000 Ma	N_metabolism	log_genes	0.0	-0.7312577273323764	-5.477487174113611		
+all species, root 1000 Ma	N_metabolism	log_genes+busco	0.0	-0.69400129333354	-5.158018368462522	-0.005660532707858074	-1.1753190857589961
+all species, root 1000 Ma	regulatory_networks	log_genes	1.0	-0.6776174518452613	-4.316724882753907		
+all species, root 1000 Ma	regulatory_networks	log_genes+busco	1.0	-0.6572282945734884	-4.601200932191187	-0.008299198955447135	-1.7161878917655249
+all species, root 1500 Ma	whole_genome	log_genes	1.0	-0.5769395878545035	-3.481778966588081		
+all species, root 1500 Ma	whole_genome	log_genes+busco	1.0	-0.5411647486219887	-3.699377953320859	-0.009556789374620988	-1.9327916834205612
+all species, root 1500 Ma	primary_metabolism	log_genes	0.0	-0.7047800508964567	-4.3326413986811625		
+all species, root 1500 Ma	primary_metabolism	log_genes+busco	0.0	-0.6195786986596173	-5.03047316193024	-0.012945013500382066	-2.9362345576873565
+all species, root 1500 Ma	C_metabolism	log_genes	0.0	-0.7406240674617925	-5.119871403523193		
+all species, root 1500 Ma	C_metabolism	log_genes+busco	0.0	-0.6913878860127712	-4.955533728934697	-0.007480668050814458	-1.4979072888250784
+all species, root 1500 Ma	N_metabolism	log_genes	0.0	-0.7312577273323764	-5.477487174113611		
+all species, root 1500 Ma	N_metabolism	log_genes+busco	0.0	-0.69400129333354	-5.158018368462522	-0.005660532707858074	-1.1753190857589961
+all species, root 1500 Ma	regulatory_networks	log_genes	1.0	-0.6937722105681753	-4.392571030340465		
+all species, root 1500 Ma	regulatory_networks	log_genes+busco	1.0	-0.6634694957309429	-4.54058080794167	-0.00809498153985944	-1.6390044787902172
+all species, node ages at the younger bounds	whole_genome	log_genes	1.0	-0.5506322751149778	-3.313947161939723		
+all species, node ages at the younger bounds	whole_genome	log_genes+busco	1.0	-0.5356099622611843	-3.720898835446101	-0.009604883520286692	-2.0059990399410337
+all species, node ages at the younger bounds	primary_metabolism	log_genes	1.0	-0.52663231158134	-2.778851189415688		
+all species, node ages at the younger bounds	primary_metabolism	log_genes+busco	0.98	-0.5131070591153071	-3.553247793691321	-0.013167386298735735	-2.7290754426670154
+all species, node ages at the younger bounds	C_metabolism	log_genes	1.0	-0.6582204553673064	-3.8457569065901667		
+all species, node ages at the younger bounds	C_metabolism	log_genes+busco	0.0	-0.6913878860127712	-4.955533728934697	-0.007480668050814458	-1.4979072888250784
+all species, node ages at the younger bounds	N_metabolism	log_genes	0.0	-0.7312577273323764	-5.477487174113611		
+all species, node ages at the younger bounds	N_metabolism	log_genes+busco	0.0	-0.69400129333354	-5.158018368462522	-0.005660532707858074	-1.1753190857589961
+all species, node ages at the younger bounds	regulatory_networks	log_genes	1.0	-0.6654171739280365	-4.189489293931365		
+all species, node ages at the younger bounds	regulatory_networks	log_genes+busco	1.0	-0.6525241654077655	-4.526604686613701	-0.008243460662052301	-1.7191942136948108
+all species, node ages at the older bounds	whole_genome	log_genes	1.0	-0.5729551640785543	-3.5286760941711766		
+all species, node ages at the older bounds	whole_genome	log_genes+busco	1.0	-0.5456712999680884	-3.8387419187028926	-0.00953862006023521	-1.9637163246542422
+all species, node ages at the older bounds	primary_metabolism	log_genes	0.97	-0.5675205747664868	-3.0202026111109346		
+all species, node ages at the older bounds	primary_metabolism	log_genes+busco	0.0	-0.6195786986596173	-5.03047316193024	-0.012945013500382066	-2.9362345576873565
+all species, node ages at the older bounds	C_metabolism	log_genes	1.0	-0.6725386887462399	-3.958032515086884		
+all species, node ages at the older bounds	C_metabolism	log_genes+busco	0.0	-0.6913878860127712	-4.955533728934697	-0.007480668050814458	-1.4979072888250784
+all species, node ages at the older bounds	N_metabolism	log_genes	0.0	-0.7312577273323764	-5.477487174113611		
+all species, node ages at the older bounds	N_metabolism	log_genes+busco	0.0	-0.69400129333354	-5.158018368462522	-0.005660532707858074	-1.1753190857589961
+all species, node ages at the older bounds	regulatory_networks	log_genes	1.0	-0.6843273240478429	-4.369212784369853		
+all species, node ages at the older bounds	regulatory_networks	log_genes+busco	1.0	-0.6604362865443048	-4.6244474987257655	-0.008352465349791484	-1.7115082869516165
+Chlamydomonas removed	whole_genome	log_genes	1.0	-0.6287018456432322	-3.4235239948711405		
+Chlamydomonas removed	whole_genome	log_genes+busco	1.0	-0.5715822589815521	-3.3601681342815044	-0.00946627966755686	-1.6511111049967078
+Chlamydomonas removed	primary_metabolism	log_genes	1.0	-0.6645460142590618	-3.3855433669109694		
+Chlamydomonas removed	primary_metabolism	log_genes+busco	0.9400000000000001	-0.6029815548027692	-3.511884787936673	-0.01150687074928263	-1.9798175212265001
+Chlamydomonas removed	C_metabolism	log_genes	1.0	-0.7150291879181393	-3.9287019557025467		
+Chlamydomonas removed	C_metabolism	log_genes+busco	1.0	-0.6590963197041656	-3.891597101662822	-0.009269607923779476	-1.6238841724806397
+Chlamydomonas removed	N_metabolism	log_genes	0.0	-0.8752012253164526	-5.954890648506436		
+Chlamydomonas removed	N_metabolism	log_genes+busco	0.0	-0.824331112594143	-4.31225599865292	-0.002984167879163691	-0.4538830461402321
+Chlamydomonas removed	regulatory_networks	log_genes	1.0	-0.7913452312335704	-4.388698581559794		
+Chlamydomonas removed	regulatory_networks	log_genes+busco	1.0	-0.7504425983097591	-4.132141453094523	-0.006778686349565535	-1.1074342223971887

@@ -1,0 +1,165 @@
+counts matrix: 26,258 OGs x 11 species
+
+A. correlation of MCi-RCA with gene number
+            context  spearman_MCi_vs_genes  pearson_MCi_vs_log_genes  spearman_MCi_vs_diversity  spearman_MCi_vs_busco
+       whole_genome              -0.763636                 -0.733969                   0.654545                    NaN
+ primary_metabolism              -0.781818                 -0.717341                   0.981818                    NaN
+       C_metabolism              -0.763636                 -0.687946                   0.900000                    NaN
+       N_metabolism              -0.836364                 -0.706229                   0.874655                    NaN
+regulatory_networks              -0.881818                 -0.710936                   0.347036                    NaN
+
+B. rarefaction
+  rarefying every proteome to 12,470 genes, 100 replicates
+    whole_genome: done
+    primary_metabolism: done
+    C_metabolism: done
+    N_metabolism: done
+    regulatory_networks: done
+            context         species  mean_rank  sd_rank  best_rank  worst_rank  mean_MCi_z  frac_top2
+       C_metabolism       Lcruciata       2.19 1.481843        1.0         7.0    0.908162       0.65
+       C_metabolism    Creinhardtii       2.39 1.127212        1.0         5.0    0.880662       0.54
+       C_metabolism     Mpolymorpha       3.21 1.249606        1.0         6.0    0.814766       0.36
+       C_metabolism         Ppatens       3.50 1.623688        1.0         7.0    0.802457       0.28
+       C_metabolism   Afiliculoides       4.87 1.599590        1.0         7.0    0.613703       0.13
+       C_metabolism Smoellendorffii       5.38 1.339229        1.0         7.0    0.563947       0.04
+       C_metabolism      Scucullata       6.46 0.809290        3.0         7.0    0.415700       0.00
+       C_metabolism      Pamericana       8.69 0.825050        8.0        11.0   -0.890621       0.00
+       C_metabolism   Slycopersicum       8.98 0.778239        8.0        11.0   -1.015120       0.00
+       C_metabolism          Pabies       9.61 0.983654        8.0        11.0   -1.286339       0.00
+       C_metabolism       Athaliana      10.72 0.587410        8.0        11.0   -1.807317       0.00
+       N_metabolism       Lcruciata       2.20 1.318095        1.0         6.0    0.839186       0.66
+       N_metabolism   Afiliculoides       3.21 2.114381        1.0         7.0    0.788008       0.49
+       N_metabolism         Ppatens       3.39 1.734353        1.0         7.0    0.776055       0.36
+       N_metabolism    Creinhardtii       3.68 1.293964        1.0         7.0    0.753783       0.20
+       N_metabolism     Mpolymorpha       3.90 1.417780        1.0         7.0    0.742257       0.17
+       N_metabolism Smoellendorffii       5.64 1.672837        1.0         7.0    0.590813       0.09
+       N_metabolism      Scucullata       5.98 1.230751        1.0         7.0    0.602081       0.03
+       N_metabolism          Pabies       8.22 0.483673        8.0        10.0   -0.781501       0.00
+       N_metabolism       Athaliana       9.61 0.886430        8.0        11.0   -1.351003       0.00
+       N_metabolism   Slycopersicum       9.70 0.822659        8.0        11.0   -1.330348       0.00
+       N_metabolism      Pamericana      10.47 0.834302        8.0        11.0   -1.629331       0.00
+ primary_metabolism       Lcruciata       1.22 0.578748        1.0         4.0    0.947486       0.96
+ primary_metabolism    Creinhardtii       2.68 1.071957        1.0         6.0    0.837349       0.54
+ primary_metabolism     Mpolymorpha       3.61 1.262473        1.0         7.0    0.780650       0.22
+ primary_metabolism         Ppatens       4.26 1.345550        1.0         7.0    0.737095       0.08
+ primary_metabolism Smoellendorffii       4.52 1.466667        1.0         7.0    0.712580       0.10
+ primary_metabolism   Afiliculoides       4.98 1.517441        1.0         7.0    0.679715       0.10
+ primary_metabolism      Scucullata       6.73 0.617178        3.0         7.0    0.488372       0.00
+ primary_metabolism      Pamericana       8.72 0.817486        8.0        11.0   -1.110045       0.00
+ primary_metabolism          Pabies       9.29 1.066430        8.0        11.0   -1.233041       0.00
+ primary_metabolism   Slycopersicum       9.43 0.977060        8.0        11.0   -1.287479       0.00
+ primary_metabolism       Athaliana      10.56 0.700937        8.0        11.0   -1.552681       0.00
+regulatory_networks    Creinhardtii       1.51 0.926545        1.0         4.0    0.954368       0.86
+regulatory_networks         Ppatens       2.45 1.095215        1.0         5.0    0.841772       0.63
+regulatory_networks     Mpolymorpha       3.27 1.135782        1.0         6.0    0.792217       0.25
+regulatory_networks       Lcruciata       3.58 1.393926        1.0         7.0    0.773909       0.21
+regulatory_networks Smoellendorffii       5.34 1.249000        2.0         7.0    0.645726       0.03
+regulatory_networks   Afiliculoides       5.48 1.176195        2.0         7.0    0.625981       0.01
+regulatory_networks      Scucullata       6.37 0.970837        2.0         7.0    0.556398       0.01
+regulatory_networks   Slycopersicum       8.74 0.836298        8.0        11.0   -1.135335       0.00
+regulatory_networks          Pabies       9.56 1.166190        8.0        11.0   -1.334785       0.00
+regulatory_networks       Athaliana       9.74 1.115728        8.0        11.0   -1.332573       0.00
+regulatory_networks      Pamericana       9.96 0.941952        8.0        11.0   -1.387677       0.00
+       whole_genome       Lcruciata       1.00 0.000000        1.0         1.0    1.488091       1.00
+       whole_genome     Mpolymorpha       2.00 0.000000        2.0         2.0    1.265002       1.00
+       whole_genome    Creinhardtii       3.00 0.000000        3.0         3.0    0.700869       0.00
+       whole_genome         Ppatens       4.00 0.000000        4.0         4.0    0.579808       0.00
+       whole_genome Smoellendorffii       5.00 0.000000        5.0         5.0    0.457529       0.00
+       whole_genome   Afiliculoides       6.19 0.394277        6.0         7.0    0.214415       0.00
+       whole_genome      Scucullata       6.81 0.394277        6.0         7.0    0.186145       0.00
+       whole_genome          Pabies       8.09 0.287623        8.0         9.0   -1.050541       0.00
+       whole_genome       Athaliana       8.91 0.287623        8.0         9.0   -1.122980       0.00
+       whole_genome   Slycopersicum      10.16 0.368453       10.0        11.0   -1.338088       0.00
+       whole_genome      Pamericana      10.84 0.368453       10.0        11.0   -1.380249       0.00
+
+fraction of replicates with both liverworts in the top two:
+context
+C_metabolism           0.21
+N_metabolism           0.08
+primary_metabolism     0.22
+regulatory_networks    0.02
+whole_genome           1.00
+
+C. species jackknife
+species                              Lcruciata  Mpolymorpha
+context             dropped                                
+C_metabolism        Afiliculoides          2.0          1.0
+                    Athaliana              3.0          1.0
+                    Creinhardtii           2.0          1.0
+                    Lcruciata              NaN          3.0
+                    Mpolymorpha            3.0          NaN
+                    Pabies                 1.0          2.0
+                    Pamericana             3.0          2.0
+                    Ppatens                3.0          2.0
+                    Scucullata             3.0          2.0
+                    Slycopersicum          3.0          2.0
+                    Smoellendorffii        3.0          2.0
+                    none                   3.0          2.0
+N_metabolism        Afiliculoides          1.0          2.0
+                    Athaliana              1.0          2.0
+                    Creinhardtii           2.0          1.0
+                    Lcruciata              NaN          3.0
+                    Mpolymorpha            2.0          NaN
+                    Pabies                 1.0          3.0
+                    Pamericana             1.0          2.0
+                    Ppatens                1.0          3.0
+                    Scucullata             1.0          2.0
+                    Slycopersicum          1.0          3.0
+                    Smoellendorffii        1.0          2.0
+                    none                   1.0          2.0
+primary_metabolism  Afiliculoides          1.0          2.0
+                    Athaliana              2.0          1.0
+                    Creinhardtii           1.0          2.0
+                    Lcruciata              NaN          2.0
+                    Mpolymorpha            2.0          NaN
+                    Pabies                 1.0          2.0
+                    Pamericana             1.0          2.0
+                    Ppatens                1.0          2.0
+                    Scucullata             1.0          2.0
+                    Slycopersicum          2.0          1.0
+                    Smoellendorffii        2.0          1.0
+                    none                   2.0          1.0
+regulatory_networks Afiliculoides          1.0          2.0
+                    Athaliana              4.0          3.0
+                    Creinhardtii           3.0          1.0
+                    Lcruciata              NaN          3.0
+                    Mpolymorpha            3.0          NaN
+                    Pabies                 4.0          2.0
+                    Pamericana             4.0          3.0
+                    Ppatens                2.0          3.0
+                    Scucullata             1.0          2.0
+                    Slycopersicum          1.0          3.0
+                    Smoellendorffii        2.0          4.0
+                    none                   3.0          2.0
+whole_genome        Afiliculoides          1.0          2.0
+                    Athaliana              1.0          2.0
+                    Creinhardtii           1.0          2.0
+                    Lcruciata              NaN          3.0
+                    Mpolymorpha            2.0          NaN
+                    Pabies                 1.0          2.0
+                    Pamericana             1.0          2.0
+                    Ppatens                1.0          2.0
+                    Scucullata             1.0          2.0
+                    Slycopersicum          1.0          2.0
+                    Smoellendorffii        1.0          2.0
+                    none                   1.0          2.0
+
+D. degree-preserving null model (curveball)
+    whole_genome: done (500 null matrices)
+    primary_metabolism: done (500 null matrices)
+    C_metabolism: done (500 null matrices)
+    N_metabolism: done (500 null matrices)
+    regulatory_networks: done (500 null matrices)
+            context     species  MCi_z_observed  null_mean  null_sd  z_vs_null  p_one_sided
+       whole_genome   Lcruciata        1.109902   0.288995 0.046523  17.645069     0.001996
+       whole_genome Mpolymorpha        1.012791   0.273181 0.038593  19.164127     0.001996
+ primary_metabolism   Lcruciata        0.903655   0.218441 0.165589   4.138041     0.001996
+ primary_metabolism Mpolymorpha        0.904267   0.199675 0.136879   5.147562     0.001996
+       C_metabolism   Lcruciata        0.877315   0.173451 0.244934   2.873685     0.003992
+       C_metabolism Mpolymorpha        0.920408   0.148269 0.209769   3.680901     0.001996
+       N_metabolism   Lcruciata        0.852703   0.190815 0.245236   2.698982     0.003992
+       N_metabolism Mpolymorpha        0.802709   0.193833 0.209080   2.912169     0.001996
+regulatory_networks   Lcruciata        0.836740   0.206784 0.431067   1.461388     0.077844
+regulatory_networks Mpolymorpha        0.854046   0.239108 0.371150   1.656845     0.059880
+
+written to ./data/results_controls

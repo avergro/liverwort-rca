@@ -1,0 +1,353 @@
+context	orthogroup	copies_Afiliculoides	copies_Athaliana	copies_Creinhardtii	copies_Lcruciata	copies_Mpolymorpha	copies_Pabies	copies_Pamericana	copies_Ppatens	copies_Scucullata	copies_Slycopersicum	copies_Smoellendorffii	kegg_pathways	Athaliana	Mpolymorpha	Lcruciata
+primary_metabolism	OG0000186	5	13	3	27	16	18	14	12	4	4	1	Glutathione metabolism	AT1G02920.1, AT1G02930.1, AT1G02940.2, AT1G02950.5, AT1G49860.1, AT2G02930.1, AT2G30860.1, AT2G30870.1, AT2G47730.1, AT3G03190.1, AT3G62760.1, AT4G02520.1, AT5G17220.1	Mp1g26760.1.cds, Mp2g02670.1.cds, Mp2g02680.1.cds, Mp2g04220.1.cds, Mp2g18340.1.cds1, Mp2g22390.1.cds, Mp2g22410.1.cds, Mp2g24970.1.cds, Mp5g00330.1.cds, Mp5g00690.1.cds, Mp5g04090.1.cds, Mp5g16180.2.cds, Mp7g00790.1.cds, Mp7g02980.2.cds, Mp7g11560.1.cds, Mp7g13390.1.cds	Lc_female_00059, Lc_female_00548, Lc_female_01223, Lc_female_03172, Lc_female_04330, Lc_female_07145, Lc_female_07148, Lc_female_07847, Lc_female_08254, Lc_female_08256, Lc_female_11360, Lc_female_12497, Lc_female_12500, Lc_female_12910, Lc_female_13821, Lc_female_16950, Lc_female_16989, Lc_female_17147, Lc_female_17514, Lc_female_19544, Lc_female_20271, Lc_female_21594, Lc_female_23111, Lc_female_23702, Lc_female_23758, Lc_female_23761, Lc_female_23767
+primary_metabolism	OG0000272	5	9	1	15	17	3	10	22	3	5	3	Photosynthesis - antenna proteins	AT1G29910.1, AT1G29920.1, AT1G29930.1, AT2G05070.1, AT2G05100.2, AT2G34420.1, AT2G34430.1, AT3G27690.2, AT5G54270.1	Mp2g13460.1.cds, Mp7g05530.1.cds, Mp7g05880.1.cds, Mp7g05890.1.cds, Mp7g05980.1.cds, Mp7g06710.1.cds, Mp7g06720.1.cds, Mp7g06730.1.cds, Mp7g06740.1.cds, Mp7g06750.1.cds, Mp7g06760.1.cds, Mp7g06770.1.cds, Mp7g06780.1.cds, Mp7g06790.1.cds, Mp7g08940.1.cds, Mp7g09180.1.cds, Mp7g09340.1.cds	Lc_female_01204, Lc_female_01211, Lc_female_04014, Lc_female_04780, Lc_female_04791, Lc_female_04994, Lc_female_09265, Lc_female_16382, Lc_female_18699, Lc_female_19957, Lc_female_20547, Lc_female_20548, Lc_female_20550, Lc_female_20551, Lc_female_20558
+primary_metabolism	OG0000342	7	4	0	11	10	7	4	27	6	5	1	Phenylalanine metabolism; Phenylpropanoid biosynthesis	AT2G37040.1, AT3G10340.1, AT3G53260.1, AT5G04230.2	Mp1g05190.1.cds1, Mp1g05220.1.cds1, Mp1g10150.1.cds1, Mp4g03590.1.cds1, Mp4g10060.1.cds1, Mp4g14110.1.cds1, Mp4g14140.1.cds1, Mp4g14160.1.cds1, Mp4g14210.1.cds1, Mp7g14880.1.cds1	Lc_female_01399, Lc_female_01786, Lc_female_01792, Lc_female_03137, Lc_female_10447, Lc_female_11944, Lc_female_19881, Lc_female_19892, Lc_female_19901, Lc_female_23962, Lc_female_23964
+primary_metabolism	OG0000423	2	8	3	14	23	3	3	9	1	5	2	Nitrogen metabolism	AT1G08090.1, AT1G08100.1, AT1G12940.1, AT3G45060.1, AT4G14358.1, AT5G14570.1, AT5G60770.1, AT5G60780.1	Mp4g16320.1.cds, Mp4g22650.1.cds1, Mp4g22670.1.cds, Mp4g22680.1.cds, Mp4g22700.1.cds, Mp4g22720.1.cds, Mp4g22740.1.cds, Mp4g22760.1.cds, Mp4g22800.1.cds, Mp4g22810.1.cds, Mp4g22820.1.cds, Mp4g22830.1.cds, Mp4g22840.1.cds, Mp4g22880.1.cds, Mp5g07750.1.cds1, Mp5g10710.1.cds1, Mp5g10760.1.cds1, Mp5g10780.1.cds1, Mp5g10790.1.cds1, Mp7g09240.1.cds, Mp8g04780.1.cds, Mp8g04800.1.cds1, Mp8g18730.1.cds	Lc_female_04458, Lc_female_06688, Lc_female_08133, Lc_female_08332, Lc_female_08334, Lc_female_08336, Lc_female_08339, Lc_female_08340, Lc_female_11895, Lc_female_18078, Lc_female_19823, Lc_female_19826, Lc_female_19828, Lc_female_25327
+primary_metabolism	OG0000530	5	7	1	5	4	8	8	7	7	7	4	Starch and sucrose metabolism	AT2G32290.1, AT2G45880.1, AT3G23920.1, AT4G00490.1, AT4G15210.1, AT4G17090.1, AT5G45300.3	Mp1g06910.1.cds, Mp1g06930.1.cds, Mp5g02130.1.cds, Mp8g10500.1.cds	Lc_female_06022, Lc_female_07457, Lc_female_08206, Lc_female_08914, Lc_female_16786
+primary_metabolism	OG0000579	5	3	1	9	6	5	5	12	2	4	8	Fatty acid biosynthesis	AT1G08510.1, AT3G25110.1, AT4G13050.1	Mp2g10900.1.cds, Mp2g10910.1.cds, Mp2g18080.1.cds, Mp2g25150.2.cds, Mp3g19540.1.cds, Mp4g23270.1.cds	Lc_female_08796, Lc_female_09341, Lc_female_12104, Lc_female_14280, Lc_female_14958, Lc_female_20856, Lc_female_23433, Lc_female_24612, Lc_female_24613
+primary_metabolism	OG0000600	5	6	0	4	4	21	3	4	2	3	7	Phenylpropanoid biosynthesis; Ubiquinone and other terpenoid-quinone biosynthesis; alpha-Linolenic acid metabolism	AT1G20480.1, AT1G20490.1, AT1G20500.1, AT1G20510.1, AT4G05160.1, AT5G38120.1	Mp1g04990.1.cds1, Mp1g05060.1.cds, Mp1g27780.1.cds, Mp5g07170.1.cds	Lc_female_14264, Lc_female_14266, Lc_female_17020, Lc_female_22776
+primary_metabolism	OG0000729	6	4	2	5	5	5	2	9	6	3	4	Porphyrin metabolism	AT1G44000.1, AT4G11910.1, AT4G11911.1, AT4G22920.1	Mp1g02610.1.cds, Mp1g08290.1.cds, Mp1g17090.1.cds, Mp1g23660.1.cds, Mp5g13460.1.cds	Lc_female_00893, Lc_female_04405, Lc_female_14648, Lc_female_23518, Lc_female_25127
+primary_metabolism	OG0000995	3	4	1	3	3	3	5	6	4	3	7	Glycerophospholipid metabolism; Glyoxylate and dicarboxylate metabolism; One carbon pool by folate	AT1G10780.2, AT4G16700.1, AT4G17360.1, AT5G47435.2	Mp1g02570.1.cds, Mp5g09820.1.cds, Mp6g16990.1.cds	Lc_female_01274, Lc_female_06324, Lc_female_11037
+primary_metabolism	OG0001075	1	1	0	5	3	20	2	2	1	1	4	Arginine and proline metabolism; beta-Alanine metabolism	AT5G13700.1	Mp2g18520.1.cds, Mp3g07160.1.cds, Mp7g01430.1.cds	Lc_female_08812, Lc_female_09099, Lc_female_11456, Lc_female_11458, Lc_female_20392
+primary_metabolism	OG0001105	2	4	1	6	3	4	5	6	3	3	2	Amino sugar and nucleotide sugar metabolism; Starch and sucrose metabolism	AT1G27680.1, AT2G21590.6, AT4G39210.1, AT5G19220.1	Mp2g11530.1.cds, Mp4g10120.1.cds1, Mp4g20740.1.cds	Lc_female_06755, Lc_female_17438, Lc_female_18449, Lc_female_21546, Lc_female_22045, Lc_female_24370
+primary_metabolism	OG0001191	2	2	2	4	4	7	2	5	2	3	4	Starch and sucrose metabolism	AT1G76130.1, AT4G25000.1	Mp1g16240.1.cds, Mp1g24800.1.cds, Mp2g22120.4.cds, Mp4g22350.1.cds	Lc_female_11410, Lc_female_14587, Lc_female_19276, Lc_female_25706
+primary_metabolism	OG0001216	2	2	4	4	5	8	2	1	1	4	4	Porphyrin metabolism	AT1G19670.1, AT5G43860.1	Mp3g12200.3.cds, Mp3g12210.1.cds, Mp8g10440.1.cds1, Mp8g10450.1.cds, Mp8g10460.1.cds	Lc_female_02045, Lc_female_09543, Lc_female_09544, Lc_female_14223
+primary_metabolism	OG0001433	4	3	1	3	3	2	2	5	4	2	4	Citrate cycle (TCA cycle); Glycolysis / Gluconeogenesis; Lipoic acid metabolism; Pyruvate metabolism	AT1G16000.1, AT1G34430.1, AT1G80890.1	Mp4g15570.1.cds, Mp4g20170.1.cds, Mp7g07300.1.cds	Lc_female_05645, Lc_female_24389, Lc_female_24524
+primary_metabolism	OG0001456	2	3	1	5	4	5	2	5	1	3	2	Inositol phosphate metabolism; Phosphatidylinositol signaling system	AT3G19420.1, AT3G50110.1, AT5G39400.1	Mp2g21810.1.cds, Mp5g16940.1.cds, Mp5g21110.1.cds, Mp6g11400.1.cds	Lc_female_08689, Lc_female_12291, Lc_female_18276, Lc_female_19243, Lc_female_22239
+primary_metabolism	OG0001458	2	1	0	3	3	6	4	4	6	3	1	Flavonoid biosynthesis; Phenylpropanoid biosynthesis; Stilbenoid, diarylheptanoid and gingerol biosynthesis; Ubiquinone and other terpenoid-quinone biosynthesis	AT2G30490.1	Mp6g00020.1.cds, Mp8g05070.1.cds1, Mp8g05080.1.cds1	Lc_female_12649, Lc_female_15260, Lc_female_15261
+primary_metabolism	OG0001514	3	3	2	7	4	2	2	3	3	2	1	Arginine biosynthesis	AT1G44180.1, AT1G44820.1, AT4G38220.2	Mp2g10700.1.cds, Mp5g18680.1.cds, Mp5g18690.1.cds, Mp6g11350.1.cds	Lc_female_07078, Lc_female_08147, Lc_female_08521, Lc_female_15053, Lc_female_20382, Lc_female_21392, Lc_female_24450
+primary_metabolism	OG0001561	1	2	1	3	3	3	2	9	3	2	2	Cysteine and methionine metabolism	AT1G16770.1, AT1G77670.1	Mp1g17160.1.cds, Mp1g21050.1.cds, Mp4g00120.1.cds	Lc_female_01199, Lc_female_04723, Lc_female_10033
+primary_metabolism	OG0001657	1	1	0	3	2	2	2	8	2	1	8	Ether lipid metabolism; Glycerophospholipid metabolism	AT2G45670.1	Mp7g07720.1.cds, Mp8g04190.1.cds	Lc_female_06093, Lc_female_09998, Lc_female_11941
+primary_metabolism	OG0001719	2	2	1	2	2	2	3	7	3	3	2	Biotin metabolism; Fatty acid biosynthesis	AT1G26460.1, AT1G74960.2	Mp1g25580.1.cds, Mp6g02510.1.cds	Lc_female_02500, Lc_female_05337
+primary_metabolism	OG0001735	4	2	1	3	3	4	2	4	3	2	1	Carbon fixation by Calvin cycle; Citrate cycle (TCA cycle); Glycolysis / Gluconeogenesis; Pyruvate metabolism	AT4G37870.1, AT5G65690.2	Mp3g19060.1.cds1, Mp8g02130.1.cds1, Mp8g02810.1.cds1	Lc_female_08329, Lc_female_20492, Lc_female_25470
+primary_metabolism	OG0001752	3	2	1	3	2	3	2	7	1	1	4	Lysine degradation	AT2G23740.2, AT3G03750.2	Mp3g11570.1.cds1, Mp7g11940.1.cds	Lc_female_14087, Lc_female_17524, Lc_female_18034
+primary_metabolism	OG0001816	5	1	1	2	2	1	3	7	3	1	2	Pyrimidine metabolism	AT4G25280.2	Mp2g06730.1.cds1, Mp2g08630.1.cds	Lc_female_00379, Lc_female_09916
+primary_metabolism	OG0001833	3	3	1	2	2	2	3	5	3	2	2	Glutathione metabolism	AT1G65710.1, AT1G65820.3, AT5G37010.1	Mp2g03200.1.cds, Mp6g15370.1.cds	Lc_female_20339, Lc_female_21245
+primary_metabolism	OG0001993	2	3	1	3	3	4	3	2	2	2	2	Glyoxylate and dicarboxylate metabolism; MAPK signaling pathway - plant; Peroxisome; Tryptophan metabolism	AT1G20620.6, AT1G20630.1, AT4G35090.3	Mp4g06600.1.cds, Mp5g07320.1.cds, Mp5g07340.1.cds	Lc_female_10716, Lc_female_17989, Lc_female_17998
+primary_metabolism	OG0002042	2	2	1	4	2	2	2	2	4	2	3	Starch and sucrose metabolism	AT1G03310.1, AT4G09020.1	Mp3g08480.1.cds, Mp3g09040.1.cds	Lc_female_01188, Lc_female_09810, Lc_female_17207, Lc_female_23062
+primary_metabolism	OG0002150	2	2	1	3	2	3	2	3	2	2	3	Folate biosynthesis; Ribosome	AT1G07830.1, AT1G29810.1	Mp7g07470.1.cds, Mp7g13440.1.cds	Lc_female_01765, Lc_female_08421, Lc_female_22057
+primary_metabolism	OG0002166	2	1	1	3	2	2	2	1	3	2	6	Purine metabolism; Ribosome biogenesis in eukaryotes	AT5G60340.1	Mp8g02560.1.cds, Mp8g04060.1.cds	Lc_female_03746, Lc_female_05841, Lc_female_12187
+primary_metabolism	OG0002343	2	2	1	2	2	3	2	3	1	2	4	Galactose metabolism; Glycosaminoglycan degradation; Glycosphingolipid biosynthesis - ganglio series; Lysosome biogenesis; Non-homologous end-joining; Other glycan degradation; Sphingolipid metabolism	AT1G72990.4, AT5G57160.1	Mp1g02660.2.cds, Mp1g17990.1.cds	Lc_female_02602, Lc_female_13968
+primary_metabolism	OG0002345	2	2	1	3	2	3	2	3	3	2	1	Oxidative phosphorylation; Photosynthesis	AT4G00895.1, AT4G09650.1	Mp3g05790.1.cds1, Mp6g06680.1.cds1	Lc_female_04691, Lc_female_22871, Lc_female_26574
+primary_metabolism	OG0002594	1	2	1	3	2	2	2	4	1	1	3	Purine metabolism	AT4G04955.1, AT5G54090.1	Mp2g11550.1.cds, Mp7g09530.1.cds	Lc_female_12456, Lc_female_12871, Lc_female_18453
+primary_metabolism	OG0002716	1	1	1	4	5	2	1	4	1	1	1	Carbon fixation by Calvin cycle; Pentose phosphate pathway	AT5G13420.1	Mp5g06510.1.cds1, Mp5g12330.1.cds, Mp5g12340.1.cds, Mp5g12350.1.cds, Mp5g23050.1.cds	Lc_female_02289, Lc_female_02956, Lc_female_17225, Lc_female_18691
+primary_metabolism	OG0002825	1	1	3	2	2	1	2	3	2	2	2	Glycolysis / Gluconeogenesis; Glyoxylate and dicarboxylate metabolism; Propanoate metabolism; Pyruvate metabolism	AT5G36880.2	Mp3g22910.1.cds, Mp4g17780.1.cds	Lc_female_05783, Lc_female_15503
+primary_metabolism	OG0003058	3	2	1	2	2	2	2	1	1	2	2	Citrate cycle (TCA cycle); Lipoic acid metabolism	AT3G55410.1, AT5G65750.1	Mp2g10720.1.cds, Mp6g11470.1.cds	Lc_female_05908, Lc_female_15443
+primary_metabolism	OG0003068	2	1	0	2	2	2	2	4	2	2	1	Glycolysis / Gluconeogenesis; Pyruvate metabolism	AT3G22960.1	Mp1g23440.1.cds, Mp4g14240.1.cds	Lc_female_01598, Lc_female_20028
+primary_metabolism	OG0003114	1	1	0	3	2	2	2	2	2	2	3	Steroid biosynthesis	AT3G19820.3	Mp1g14660.1.cds, Mp5g20140.1.cds	Lc_female_00783, Lc_female_15584, Lc_female_25994
+primary_metabolism	OG0003216	2	2	1	2	3	1	2	3	1	1	1	Photosynthesis	AT1G06680.1, AT2G30790.1	Mp2g17390.1.cds, Mp5g20290.1.cds, Mp5g20300.1.cds	Lc_female_04062, Lc_female_12158
+primary_metabolism	OG0003261	1	1	1	3	2	1	2	4	1	1	2	Alanine, aspartate and glutamate metabolism; Glycine, serine and threonine metabolism; Glyoxylate and dicarboxylate metabolism; Peroxisome	AT2G13360.2	Mp1g21010.1.cds, Mp4g00500.1.cds1	Lc_female_01358, Lc_female_17452, Lc_female_17458
+primary_metabolism	OG0003269	2	1	1	2	2	1	1	2	1	2	4	Valine, leucine and isoleucine degradation	AT3G45300.1	Mp8g15810.2.cds, Mp8g16280.1.cds	Lc_female_00303, Lc_female_16061
+primary_metabolism	OG0003329	2	1	0	5	3	2	2	1	1	1	1	Porphyrin metabolism	AT4G37000.1	Mp1g25550.1.cds, Mp1g25560.1.cds, Mp3g01630.1.cds	Lc_female_00933, Lc_female_04403, Lc_female_05101, Lc_female_12229, Lc_female_21232
+primary_metabolism	OG0003372	0	2	0	3	4	1	1	4	1	2	1	Biosynthesis of various nucleotide sugars; Fructose and mannose metabolism	AT3G51160.1, AT5G66280.1	Mp1g09600.1.cds1, Mp1g09610.1.cds1, Mp2g21830.1.cds1, Mp6g07110.1.cds1	Lc_female_11728, Lc_female_11741, Lc_female_17477
+primary_metabolism	OG0003472	1	1	0	3	2	3	1	3	1	1	2	Glutathione metabolism; Phenylpropanoid biosynthesis	AT1G48130.1	Mp2g14680.1.cds1, Mp7g05690.1.cds	Lc_female_07604, Lc_female_16195, Lc_female_21908
+primary_metabolism	OG0003489	2	1	1	2	2	1	2	3	1	2	1	Lysosome biogenesis; Oxidative phosphorylation; Phagocytosis	AT1G78900.2	Mp2g14700.1.cds1, Mp4g11270.1.cds	Lc_female_16193, Lc_female_20429
+primary_metabolism	OG0003496	4	1	1	4	3	0	1	2	1	0	1	Folate biosynthesis	AT5G42370.2	Mp3g03860.1.cds, Mp6g21440.4.cds, Mp8g07430.1.cds	Lc_female_01458, Lc_female_03602, Lc_female_04462, Lc_female_24833
+primary_metabolism	OG0003524	1	2	1	2	2	1	2	1	0	2	4	Arginine biosynthesis	AT2G22910.1, AT4G37670.2	Mp4g13070.1.cds, Mp5g02370.1.cds	Lc_female_11490, Lc_female_14615
+primary_metabolism	OG0003532	1	2	1	3	3	2	1	2	1	1	1	Lysosome biogenesis; Oxidative phosphorylation; Phagocytosis	AT3G28710.1, AT3G28715.1	Mp3g03870.1.cds, Mp3g07040.1.cds, Mp3g18180.2.cds	Lc_female_08005, Lc_female_18286, Lc_female_18288
+primary_metabolism	OG0003535	2	1	1	3	2	2	1	2	1	1	2	Glycerolipid metabolism	AT3G06510.2	Mp2g15680.1.cds, Mp2g17840.1.cds	Lc_female_06484, Lc_female_18777, Lc_female_23896
+primary_metabolism	OG0003549	1	1	1	5	2	2	1	1	1	1	2	Steroid biosynthesis	AT1G20050.1	Mp2g13410.1.cds, Mp2g22650.1.cds	Lc_female_01724, Lc_female_06118, Lc_female_06907, Lc_female_23145, Lc_female_24836
+primary_metabolism	OG0003575	2	2	1	3	2	1	1	2	1	2	1	Inositol phosphate metabolism; Phosphatidylinositol signaling system	AT1G49340.2, AT1G51040.1	Mp1g18900.1.cds, Mp1g21170.1.cds	Lc_female_05276, Lc_female_05281, Lc_female_26504
+primary_metabolism	OG0003635	0	1	1	2	2	1	2	4	1	2	2	Photosynthesis	AT1G79040.1	Mp1g17690.1.cds, Mp3g05840.1.cds	Lc_female_07813, Lc_female_10754
+primary_metabolism	OG0003780	1	1	1	3	3	2	1	3	0	1	1	Nicotinate and nicotinamide metabolism	AT2G01350.1	Mp4g10820.1.cds, Mp4g10840.1.cds1, Mp5g18800.1.cds1	Lc_female_00836, Lc_female_07276, Lc_female_07281
+primary_metabolism	OG0003832	2	1	1	2	2	2	1	1	1	1	3	Arginine and proline metabolism	AT2G14260.1	Mp1g20070.1.cds, Mp3g18660.1.cds1	Lc_female_02986, Lc_female_13583
+primary_metabolism	OG0003897	1	1	1	3	2	1	2	3	1	1	1	Ascorbate and aldarate metabolism	AT3G47930.1	Mp7g03660.1.cds1, Mp8g00510.1.cds	Lc_female_07987, Lc_female_16377, Lc_female_26042
+primary_metabolism	OG0004001	1	1	1	2	2	1	1	2	2	1	2	Porphyrin metabolism	AT4G13250.1	Mp2g20360.1.cds, Mp4g07280.1.cds	Lc_female_05469, Lc_female_11695
+primary_metabolism	OG0004338	1	1	1	2	1	1	1	1	1	1	4	Valine, leucine and isoleucine degradation	AT1G03090.2	Mp8g15290.1.cds	Lc_female_25603, Lc_female_25617
+primary_metabolism	OG0004445	3	1	1	2	1	1	1	2	1	1	1	Nicotinate and nicotinamide metabolism	AT5G55760.1	Mp3g11500.1.cds	Lc_female_09681, Lc_female_23063
+primary_metabolism	OG0004525	1	1	0	2	1	1	1	2	1	1	4	Amino sugar and nucleotide sugar metabolism; Galactose metabolism	AT5G18200.1	Mp1g00240.1.cds	Lc_female_13242, Lc_female_13380
+primary_metabolism	OG0004646	1	1	1	2	1	2	1	3	1	1	1	Starch and sucrose metabolism	AT5G64860.1	Mp3g00810.1.cds	Lc_female_11188, Lc_female_19305
+primary_metabolism	OG0004662	1	1	3	2	1	1	1	1	1	1	2	Fructose and mannose metabolism; Purine metabolism; Starch and sucrose metabolism	AT4G11980.1	Mp5g10980.1.cds	Lc_female_10929, Lc_female_17406
+primary_metabolism	OG0004812	1	1	1	1	1	1	1	1	4	1	1	Lipoic acid metabolism	AT2G20860.1	Mp8g05940.1.cds	Lc_female_00389
+primary_metabolism	OG0004863	2	1	1	1	1	1	1	2	1	1	2	Nicotinate and nicotinamide metabolism	AT1G55090.1	Mp6g02650.1.cds	Lc_female_17518
+primary_metabolism	OG0004896	2	1	1	1	2	1	1	2	1	1	1	Pyruvate metabolism	AT1G08110.4	Mp1g15760.1.cds, Mp1g15780.1.cds	Lc_female_06029
+primary_metabolism	OG0004908	1	1	1	1	1	1	1	3	2	1	1	Oxidative phosphorylation	AT4G02580.1	Mp1g00250.1.cds	Lc_female_01919
+primary_metabolism	OG0004953	2	1	1	1	1	1	1	2	2	1	1	Porphyrin metabolism	AT1G50170.1	Mp6g04910.1.cds	Lc_female_13178
+primary_metabolism	OG0004967	3	1	1	1	1	1	1	2	1	1	1	Riboflavin metabolism	AT4G11570.2	Mp1g23040.1.cds1	Lc_female_21675
+primary_metabolism	OG0005022	1	1	1	2	1	2	1	2	1	1	1	Porphyrin metabolism	AT1G69740.2	Mp1g22820.1.cds	Lc_female_09172, Lc_female_24970
+primary_metabolism	OG0005025	1	1	1	2	1	1	1	1	3	1	1	Amino sugar and nucleotide sugar metabolism	AT5G18070.1	Mp7g03190.1.cds	Lc_female_10107, Lc_female_26028
+primary_metabolism	OG0005029	1	1	3	1	1	2	1	2	1	0	1	Purine metabolism	AT1G09830.1	Mp4g18670.1.cds	Lc_female_05656
+primary_metabolism	OG0005036	1	1	1	2	1	1	1	2	1	1	2	Purine metabolism	AT3G17470.2	Mp1g27830.1.cds	Lc_female_04092, Lc_female_14166
+primary_metabolism	OG0005051	2	1	1	1	1	1	1	1	1	1	3	Pyrimidine metabolism	AT3G54470.1	Mp6g00970.1.cds	Lc_female_08150
+primary_metabolism	OG0005078	1	1	1	1	1	1	1	3	1	1	2	Inositol phosphate metabolism	AT5G58730.1	Mp6g09120.1.cds	Lc_female_26569
+primary_metabolism	OG0005080	1	1	1	2	2	0	1	3	1	1	1	Oxidative phosphorylation	AT1G51650.1	Mp1g18910.2.cds1, Mp1g18920.1.cds	Lc_female_05278, Lc_female_15280
+primary_metabolism	OG0005081	1	1	1	1	1	2	1	3	1	1	1	Ubiquinone and other terpenoid-quinone biosynthesis	AT2G18950.1	Mp2g14410.1.cds	Lc_female_04868
+primary_metabolism	OG0005085	1	1	1	2	1	1	1	2	1	1	2	Amino sugar and nucleotide sugar metabolism; Ascorbate and aldarate metabolism; Biosynthesis of various nucleotide sugars; Galactose metabolism; Pentose and glucuronate interconversions	AT5G52560.1	Mp4g24120.2.cds	Lc_female_01468, Lc_female_26283
+primary_metabolism	OG0005161	2	1	1	2	1	1	1	2	1	1	1	Photosynthesis	AT4G28660.2	Mp2g14630.1.cds	Lc_female_10367, Lc_female_20044
+primary_metabolism	OG0005169	1	1	1	1	1	1	1	1	3	1	2	Pantothenate and CoA biosynthesis; beta-Alanine metabolism	AT5G48840.1	Mp3g05500.1.cds	Lc_female_15112
+primary_metabolism	OG0005170	3	1	1	1	2	1	1	1	1	1	1	Pentose and glucuronate interconversions	AT2G21370.1	Mp5g23530.1.cds, Mp5g23840.1.cds	Lc_female_17097
+primary_metabolism	OG0005331	1	1	1	1	1	2	1	2	1	1	1	Alanine, aspartate and glutamate metabolism; Arginine and proline metabolism; Arginine biosynthesis; Cysteine and methionine metabolism; Isoquinoline alkaloid biosynthesis; Phenylalanine metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis; Tropane, piperidine and pyridine alkaloid biosynthesis; Tyrosine metabolism	AT4G31990.3	Mp1g17920.1.cds	Lc_female_23967
+primary_metabolism	OG0005410	2	1	1	1	1	1	1	1	1	1	2	Starch and sucrose metabolism	AT2G40840.1	Mp4g12080.1.cds	Lc_female_16412
+primary_metabolism	OG0005430	1	1	1	1	1	1	1	1	1	1	3	Purine metabolism	AT5G58220.1	Mp4g21780.1.cds	Lc_female_05373
+primary_metabolism	OG0005432	1	1	1	1	1	1	1	2	1	1	2	Inositol phosphate metabolism	AT2G43980.1	Mp1g26840.1.cds	Lc_female_24485
+primary_metabolism	OG0005437	1	1	1	3	1	1	1	1	1	1	1	Cysteine and methionine metabolism; Sulfur cycle; Sulfur metabolism	AT1G55880.1	Mp1g18860.1.cds	Lc_female_09225, Lc_female_12042, Lc_female_24062
+primary_metabolism	OG0005471	1	1	1	1	1	1	1	2	2	1	1	Histidine metabolism	AT5G63890.2	Mp6g08280.1.cds	Lc_female_20853
+primary_metabolism	OG0005487	2	1	1	1	1	1	1	1	1	1	2	Porphyrin metabolism	AT4G01690.1	Mp1g21340.1.cds	Lc_female_01276
+primary_metabolism	OG0005496	1	1	2	2	1	1	1	1	1	1	1	Arginine and proline metabolism	AT2G27450.2	Mp1g00420.1.cds	Lc_female_13838, Lc_female_19266
+primary_metabolism	OG0005546	1	1	1	1	1	2	1	2	1	1	1	Oxidative phosphorylation	AT5G08530.1	Mp6g01100.2.cds1	Lc_female_08286
+primary_metabolism	OG0005562	3	1	1	1	1	1	1	1	1	1	1	Pentose phosphate pathway	AT2G16790.3	Mp7g00170.1.cds1	Lc_female_15325
+primary_metabolism	OG0005569	1	1	1	2	2	1	1	1	1	1	1	Alanine, aspartate and glutamate metabolism; Arginine and proline metabolism	AT5G62530.1	Mp1g21650.1.cds1, Mp6g07270.1.cds	Lc_female_10575, Lc_female_16825
+primary_metabolism	OG0005588	3	1	1	1	1	1	1	1	1	1	1	Biotin metabolism	AT5G57590.1	Mp1g24220.1.cds	Lc_female_22406
+primary_metabolism	OG0005589	1	1	1	1	1	1	1	3	1	1	1	Alanine, aspartate and glutamate metabolism; Butanoate metabolism	AT1G79440.1	Mp6g21500.1.cds	Lc_female_10373
+primary_metabolism	OG0005591	1	1	0	2	1	1	1	2	1	1	2	Butanoate metabolism; Fatty acid degradation; Lysine degradation; Phenylalanine metabolism; Propanoate metabolism; Tryptophan metabolism; Valine, leucine and isoleucine degradation; beta-Alanine metabolism	AT4G16210.1	Mp6g09380.1.cds	Lc_female_02516, Lc_female_12217
+primary_metabolism	OG0005606	1	1	1	1	1	1	1	2	2	1	1	Vitamin B6 metabolism	AT5G37850.1	Mp1g06330.1.cds	Lc_female_18036
+primary_metabolism	OG0005622	1	1	1	1	1	1	1	3	1	1	1	Carbon fixation by Calvin cycle	AT3G55800.1	Mp3g22710.1.cds	Lc_female_16763
+primary_metabolism	OG0005623	3	1	1	1	1	1	1	1	1	1	1	Ubiquinone and other terpenoid-quinone biosynthesis	AT4G23660.3	Mp3g25430.1.cds	Lc_female_23560
+primary_metabolism	OG0005624	1	1	1	1	1	2	1	2	1	1	1	Arginine biosynthesis	AT2G19940.1	Mp1g08140.1.cds	Lc_female_24936
+primary_metabolism	OG0005635	1	1	1	1	1	2	1	2	1	1	1	Glycine, serine and threonine metabolism; Glyoxylate and dicarboxylate metabolism; Lipoic acid metabolism; One carbon pool by folate	AT1G11860.3	Mp2g09990.1.cds1	Lc_female_10524
+primary_metabolism	OG0005638	2	1	1	1	1	1	1	2	1	1	1	Ubiquinone and other terpenoid-quinone biosynthesis	AT4G32770.1	Mp5g05910.1.cds	Lc_female_18388
+primary_metabolism	OG0005670	1	1	1	1	1	2	1	2	1	1	1	Alanine, aspartate and glutamate metabolism; Arginine biosynthesis; Pyrimidine metabolism	AT1G29900.1	Mp4g19600.1.cds	Lc_female_22053
+primary_metabolism	OG0005692	1	1	1	2	1	2	1	1	1	1	1	Butanoate metabolism; Phenylalanine metabolism	AT3G15290.1	Mp5g20630.1.cds	Lc_female_00226, Lc_female_24574
+primary_metabolism	OG0005704	1	1	3	1	1	1	1	1	1	1	1	Tryptophan metabolism	AT4G02405.1	Mp4g09750.1.cds	Lc_female_11319
+primary_metabolism	OG0005714	1	1	2	1	1	1	1	2	1	1	1	Biotin metabolism	AT2G43360.1	Mp4g18180.1.cds	Lc_female_13824
+primary_metabolism	OG0005725	1	1	1	2	2	1	1	2	0	1	1	Amino sugar and nucleotide sugar metabolism	AT3G06580.1	Mp7g01110.1.cds1, Mp7g08830.1.cds1	Lc_female_17168, Lc_female_19955
+primary_metabolism	OG0005737	1	1	1	1	1	1	1	3	1	1	1	Arginine and proline metabolism	AT5G08170.1	Mp6g11490.1.cds	Lc_female_15445
+primary_metabolism	OG0005743	1	1	1	1	1	1	1	1	1	1	3	Purine metabolism	AT1G63660.1	Mp1g25460.1.cds	Lc_female_00795
+primary_metabolism	OG0005752	1	1	1	1	1	1	1	2	1	1	2	Cysteine and methionine metabolism; Glutathione metabolism; Histidine metabolism	AT4G23100.1	Mp1g07310.1.cds	Lc_female_18727
+primary_metabolism	OG0005832	1	1	1	1	1	2	1	2	1	1	1	Thiamine metabolism	AT2G29630.2	Mp5g00080.1.cds	Lc_female_07272
+primary_metabolism	OG0005845	3	1	1	1	1	1	1	1	1	1	1	Autophagy - other; Inositol phosphate metabolism; Phagocytosis; Phosphatidylinositol signaling system	AT1G60490.1	Mp7g11730.1.cds	Lc_female_03832
+primary_metabolism	OG0005857	1	1	2	1	1	1	1	1	1	1	2	Folate biosynthesis	AT1G16540.3	Mp2g19930.1.cds	Lc_female_16017
+primary_metabolism	OG0005900	0	1	1	1	1	2	1	2	1	1	2	Purine metabolism	AT3G55010.1	Mp7g12650.1.cds	Lc_female_19751
+primary_metabolism	OG0005987	1	1	3	1	1	1	1	0	1	1	1	Starch and sucrose metabolism	AT1G11720.2	Mp2g20000.1.cds	Lc_female_04809
+primary_metabolism	OG0006040	1	1	3	1	1	0	1	1	1	1	1	Glycerophospholipid metabolism	AT5G40610.1	Mp7g05390.1.cds	Lc_female_16937
+primary_metabolism	OG0006041	1	1	1	2	1	1	1	2	1	1	0	Glycerophospholipid metabolism	AT2G40690.1	Mp7g07020.1.cds	Lc_female_09398, Lc_female_19944
+primary_metabolism	OG0006051	2	1	1	1	1	1	1	1	1	1	1	Citrate cycle (TCA cycle); Glycolysis / Gluconeogenesis; Lipoic acid metabolism; Pyruvate metabolism	AT3G52200.2	Mp1g19900.1.cds	Lc_female_16673
+primary_metabolism	OG0006090	1	1	1	1	1	1	1	1	1	1	2	Butanoate metabolism	AT3G56840.1	Mp4g11370.1.cds	Lc_female_20427
+primary_metabolism	OG0006101	1	1	1	1	1	1	1	1	1	1	2	Glycerophospholipid metabolism	AT4G04870.1	Mp2g22460.1.cds	Lc_female_05501
+primary_metabolism	OG0006121	1	1	0	1	1	2	1	2	1	1	1	Sphingolipid metabolism	AT4G04930.1	Mp8g12660.2.cds	Lc_female_03615
+primary_metabolism	OG0006159	1	1	1	1	1	1	1	2	1	1	1	Folate biosynthesis; Sulfur relay system	AT2G31955.1	Mp6g19140.1.cds	Lc_female_20962
+primary_metabolism	OG0006160	1	1	1	1	1	1	1	1	1	1	2	Cysteine and methionine metabolism; Tryptophan metabolism	AT1G80360.1	Mp8g18520.1.cds	Lc_female_20880
+primary_metabolism	OG0006172	1	1	1	1	1	1	1	1	1	1	2	Riboflavin metabolism; Thiamine metabolism	AT3G24030.1	Mp4g05380.1.cds	Lc_female_19626
+primary_metabolism	OG0006179	1	1	1	1	1	1	1	1	1	1	2	Amino sugar and nucleotide sugar metabolism; Glycerolipid metabolism; Sulfoquinovose metabolism	AT4G33030.1	Mp5g24070.1.cds	Lc_female_18571
+primary_metabolism	OG0006182	2	1	1	1	1	1	1	1	1	1	1	Purine metabolism	AT3G06200.1	Mp1g00120.1.cds1	Lc_female_16665
+primary_metabolism	OG0006183	1	1	0	1	1	1	1	4	0	1	1	Glycerophospholipid metabolism; Purine metabolism	AT4G24730.2	Mp1g14560.2.cds1	Lc_female_01390
+primary_metabolism	OG0006184	1	1	2	1	1	1	1	1	1	1	1	Ubiquinone and other terpenoid-quinone biosynthesis	AT5G08740.1	Mp3g24790.1.cds	Lc_female_20372
+primary_metabolism	OG0006214	1	1	1	1	1	1	1	1	1	1	2	Valine, leucine and isoleucine degradation	AT4G34030.1	Mp7g14650.1.cds	Lc_female_04792
+primary_metabolism	OG0006225	1	1	1	1	1	1	1	1	2	1	1	Pyrimidine metabolism	AT3G53900.2	Mp6g03290.1.cds	Lc_female_01177
+primary_metabolism	OG0006233	1	1	2	1	1	1	1	1	1	1	1	Glycine, serine and threonine metabolism	AT1G18640.2	Mp2g10500.1.cds	Lc_female_00412
+primary_metabolism	OG0006236	1	1	1	1	1	1	1	2	1	1	1	Oxidative phosphorylation	AT2G20360.1	Mp7g17590.1.cds	Lc_female_01214
+primary_metabolism	OG0006253	2	1	1	1	1	1	1	1	1	1	1	Glycerolipid metabolism; Glycerophospholipid metabolism	AT4G30580.1	Mp2g25080.3.cds	Lc_female_20331
+primary_metabolism	OG0006271	2	1	1	1	1	1	1	1	1	1	1	Oxidative phosphorylation; Porphyrin metabolism	AT5G56090.1	Mp4g23080.1.cds	Lc_female_23853
+primary_metabolism	OG0006290	1	1	1	1	1	1	1	1	2	1	1	One carbon pool by folate; Purine metabolism	AT1G31220.1	Mp5g18320.1.cds1	Lc_female_23127
+primary_metabolism	OG0006293	2	1	1	1	1	1	1	1	1	1	1	Purine metabolism	AT5G43600.1	Mp7g08920.1.cds	Lc_female_03937
+primary_metabolism	OG0006296	1	1	1	1	1	3	1	1	0	1	1	Folate biosynthesis; Sulfur relay system	AT2G43760.3	Mp6g09700.2.cds1	Lc_female_18892
+primary_metabolism	OG0006310	1	1	1	1	1	1	1	1	1	1	2	Cysteine and methionine metabolism; Glycine, serine and threonine metabolism; Lysine biosynthesis; Monobactam biosynthesis	AT1G14810.1	Mp5g08390.1.cds1	Lc_female_23367
+primary_metabolism	OG0006322	1	1	1	1	1	1	1	1	1	1	2	Ascorbate and aldarate metabolism; Glutathione metabolism	AT4G32320.1	Mp6g13320.1.cds	Lc_female_24708
+primary_metabolism	OG0006334	2	1	1	1	1	1	1	1	1	1	1	Ubiquinone and other terpenoid-quinone biosynthesis	AT5G57300.2	Mp6g01110.1.cds	Lc_female_24066
+primary_metabolism	OG0006385	1	1	1	1	1	1	1	3	0	1	1	Porphyrin metabolism	AT5G08280.1	Mp2g07740.1.cds	Lc_female_09343
+primary_metabolism	OG0006386	1	1	1	1	1	2	1	1	1	1	1	Glutathione metabolism	AT5G37830.1	Mp6g02680.1.cds	Lc_female_02689
+primary_metabolism	OG0006395	1	1	1	2	1	1	1	1	1	1	1	Lipoic acid metabolism; Propanoate metabolism; Valine, leucine and isoleucine degradation	AT3G06850.2	Mp5g07440.1.cds	Lc_female_25228, Lc_female_26083
+primary_metabolism	OG0006402	1	1	1	1	1	1	1	2	1	1	1	Oxidative phosphorylation	AT5G47890.1	Mp8g03000.1.cds	Lc_female_19614
+primary_metabolism	OG0006424	1	1	2	1	1	1	1	1	1	1	1	Porphyrin metabolism	AT3G56940.1	Mp5g03060.1.cds	Lc_female_12663
+primary_metabolism	OG0006432	1	1	1	1	1	1	1	2	1	1	1	Porphyrin metabolism	AT5G13630.1	Mp8g10280.1.cds	Lc_female_20467
+primary_metabolism	OG0006458	1	1	1	1	1	1	1	2	0	1	2	Sphingolipid metabolism	AT5G51290.1	Mp5g14360.1.cds	Lc_female_15718
+primary_metabolism	OG0006470	1	1	1	1	1	1	1	1	2	1	1	Histidine metabolism	AT1G31860.1	Mp5g23330.1.cds	Lc_female_20682
+primary_metabolism	OG0006503	1	1	1	1	1	1	1	2	1	1	1	Purine metabolism	AT5G05930.1	Mp1g19710.1.cds	Lc_female_14358
+primary_metabolism	OG0006514	2	1	0	2	1	1	1	1	1	1	1	Pentose and glucuronate interconversions	AT4G30310.2	Mp7g12740.2.cds	Lc_female_06405, Lc_female_21698
+primary_metabolism	OG0006529	1	1	1	1	1	1	1	2	1	1	1	Nicotinate and nicotinamide metabolism	AT5G50210.1	Mp7g18340.1.cds1	Lc_female_20159
+primary_metabolism	OG0006535	1	1	1	1	1	1	1	2	1	1	1	Pyrimidine metabolism	AT5G23300.1	Mp4g23960.1.cds	Lc_female_06711
+primary_metabolism	OG0006539	1	1	1	1	1	1	1	2	1	1	1	Purine metabolism	AT4G20070.1	Mp2g13010.1.cds	Lc_female_14934
+primary_metabolism	OG0006553	1	1	1	1	1	1	1	2	1	1	1	Vitamin B6 metabolism	AT5G60540.1	Mp8g05750.1.cds	Lc_female_21888
+primary_metabolism	OG0006640	1	1	0	2	2	1	1	1	1	1	1	Pyrimidine metabolism	AT2G38680.1	Mp2g15800.1.cds, Mp2g15810.1.cds	Lc_female_11555, Lc_female_18841
+primary_metabolism	OG0006644	2	1	1	1	1	1	1	1	1	1	1	Glycerolipid metabolism; Plant-pathogen interaction	AT1G80460.1	Mp3g16660.1.cds1	Lc_female_18116
+primary_metabolism	OG0006698	0	1	1	3	1	1	1	1	1	1	1	Steroid biosynthesis	AT3G52940.1	Mp3g23510.1.cds1	Lc_female_06372, Lc_female_12052, Lc_female_22194
+primary_metabolism	OG0006816	1	1	1	1	1	2	1	0	1	1	1	Arachidonic acid metabolism	AT5G13520.1	Mp3g01420.1.cds	Lc_female_13847
+primary_metabolism	OG0006828	1	1	1	1	1	1	1	1	1	1	1	Starch and sucrose metabolism	AT2G39930.1	Mp6g11070.1.cds	Lc_female_01074
+primary_metabolism	OG0006832	1	1	1	1	1	1	1	1	1	1	1	Folate biosynthesis	AT5G51110.1	Mp2g24300.1.cds	Lc_female_13779
+primary_metabolism	OG0006836	1	1	1	2	1	1	1	1	1	0	1	Caffeine metabolism; Purine metabolism	AT2G26230.1	Mp8g16060.1.cds	Lc_female_14277, Lc_female_14861
+primary_metabolism	OG0006842	1	1	1	1	1	2	1	1	1	1	0	Butanoate metabolism; Glyoxylate and dicarboxylate metabolism	AT3G25530.1	Mp5g18640.1.cds	Lc_female_02680
+primary_metabolism	OG0006854	0	1	1	1	1	1	1	2	1	1	1	Biosynthesis of unsaturated fatty acids; Fatty acid degradation; Peroxisome; Propanoate metabolism; alpha-Linolenic acid metabolism; beta-Alanine metabolism	AT5G65110.1	Mp1g10380.1.cds	Lc_female_21598
+primary_metabolism	OG0006866	1	1	1	1	1	1	1	1	1	1	1	Lipoic acid metabolism	AT5G08415.1	Mp1g24050.1.cds	Lc_female_21616
+primary_metabolism	OG0006877	2	1	1	1	1	1	1	1	1	0	1	Cysteine and methionine metabolism; Selenocompound metabolism	AT3G57050.1	Mp1g04580.1.cds	Lc_female_11672
+primary_metabolism	OG0006893	1	1	1	1	1	1	1	1	1	1	1	Glutathione metabolism	AT3G24170.3	Mp1g25390.1.cds	Lc_female_22594
+primary_metabolism	OG0006903	1	1	1	1	1	1	1	1	1	1	1	Valine, leucine and isoleucine degradation	AT4G16800.1	Mp6g05140.1.cds	Lc_female_06519
+primary_metabolism	OG0006907	1	1	1	1	1	1	1	1	1	1	1	Aminoacyl-tRNA biosynthesis; Porphyrin metabolism	AT5G64050.1	Mp1g04260.1.cds	Lc_female_04733
+primary_metabolism	OG0006908	1	1	1	1	1	1	1	1	1	1	1	Fatty acid biosynthesis	AT2G30200.1	Mp7g13930.1.cds	Lc_female_19476
+primary_metabolism	OG0006909	1	1	1	1	1	1	1	1	1	1	1	Arginine and proline metabolism	AT5G46180.1	Mp7g09980.1.cds	Lc_female_24308
+primary_metabolism	OG0006914	1	1	0	1	1	1	1	2	1	1	1	Carbon fixation by Calvin cycle; Fructose and mannose metabolism; Glycolysis / Gluconeogenesis; Pentose phosphate pathway	AT5G64380.1	Mp4g00360.1.cds	Lc_female_23200
+primary_metabolism	OG0006916	1	1	1	1	1	1	1	1	1	1	1	Nicotinate and nicotinamide metabolism	AT1G21640.2	Mp4g22570.1.cds	Lc_female_22457
+primary_metabolism	OG0006928	1	1	1	1	1	1	1	1	0	1	2	Steroid biosynthesis	AT5G50375.2	Mp1g12340.1.cds	Lc_female_17743
+primary_metabolism	OG0006935	1	1	1	1	1	1	1	1	1	1	1	Purine metabolism	AT4G13720.2	Mp2g13530.2.cds	Lc_female_09609
+primary_metabolism	OG0006961	1	1	1	1	1	1	1	1	1	1	1	Oxidative phosphorylation; Porphyrin metabolism	AT2G44520.1	Mp1g00930.1.cds	Lc_female_22107
+primary_metabolism	OG0006965	1	1	1	1	1	1	1	1	1	1	1	Ubiquinone and other terpenoid-quinone biosynthesis	AT1G30520.1	Mp6g06040.1.cds	Lc_female_02667
+primary_metabolism	OG0006972	1	1	1	1	1	1	1	1	1	1	1	Purine metabolism; Riboflavin metabolism	AT2G42070.1	Mp8g07100.1.cds	Lc_female_24165
+primary_metabolism	OG0006995	2	1	1	1	1	1	1	1	0	1	1	Porphyrin metabolism	AT5G40850.1	Mp4g05350.1.cds	Lc_female_22559
+primary_metabolism	OG0007006	1	1	1	1	1	1	1	1	1	1	1	Inositol phosphate metabolism; Propanoate metabolism; Valine, leucine and isoleucine degradation; beta-Alanine metabolism	AT2G14170.1	Mp3g18280.2.cds1	Lc_female_23250
+primary_metabolism	OG0007022	1	1	1	1	1	0	1	2	1	1	1	Photosynthesis	AT1G55670.1	Mp6g18440.1.cds1	Lc_female_21821
+primary_metabolism	OG0007032	1	1	1	1	1	1	1	1	1	1	1	Ubiquinone and other terpenoid-quinone biosynthesis	AT1G60550.1	Mp5g14540.2.cds	Lc_female_15316
+primary_metabolism	OG0007082	1	1	0	1	1	1	1	2	1	1	1	Nitrogen metabolism	AT3G23490.1	Mp4g02900.1.cds	Lc_female_04281
+primary_metabolism	OG0007101	1	1	1	1	1	1	1	1	1	1	1	Ubiquinone and other terpenoid-quinone biosynthesis	AT3G24200.2	Mp2g01390.1.cds	Lc_female_25581
+primary_metabolism	OG0007103	1	1	1	1	1	1	1	1	1	1	1	Porphyrin metabolism	AT1G08520.1	Mp6g04260.1.cds	Lc_female_01229
+primary_metabolism	OG0007114	1	1	1	1	1	1	1	1	1	1	1	Porphyrin metabolism	AT5G18660.1	Mp5g20690.1.cds1	Lc_female_19264
+primary_metabolism	OG0007137	1	1	1	1	1	1	1	1	1	1	1	Citrate cycle (TCA cycle); Propanoate metabolism	AT2G20420.1	Mp1g04210.1.cds	Lc_female_01003
+primary_metabolism	OG0007150	1	1	1	1	1	1	1	1	1	1	1	Ubiquinone and other terpenoid-quinone biosynthesis	AT1G60600.2	Mp4g09450.1.cds	Lc_female_17396
+primary_metabolism	OG0007241	1	1	1	1	1	1	1	1	1	1	1	Biosynthesis of various nucleotide sugars; Glycerolipid metabolism; Sulfoquinovose metabolism	AT3G56040.1	Mp3g01330.1.cds	Lc_female_12727
+primary_metabolism	OG0007274	1	1	1	1	1	1	1	1	1	1	1	Vitamin B6 metabolism	AT5G53580.1	Mp2g01180.1.cds	Lc_female_25874
+primary_metabolism	OG0007315	1	1	1	1	1	1	1	1	1	1	1	Lysosome biogenesis; Oxidative phosphorylation; Phagocytosis	AT1G12840.1	Mp4g19810.1.cds	Lc_female_15177
+primary_metabolism	OG0007335	1	1	1	1	1	1	1	1	1	1	1	Arginine biosynthesis	AT2G37500.1	Mp2g15300.1.cds	Lc_female_02699
+primary_metabolism	OG0007343	1	1	1	1	1	1	1	1	1	1	1	Riboflavin metabolism	AT2G20690.1	Mp2g12570.1.cds1	Lc_female_11973
+primary_metabolism	OG0007355	1	1	1	1	1	1	1	1	0	1	2	Ubiquinone and other terpenoid-quinone biosynthesis	AT1G23360.1	Mp5g06240.1.cds	Lc_female_03909
+primary_metabolism	OG0007376	0	1	2	1	1	0	1	1	2	1	1	Carbon fixation by Calvin cycle; Glycolysis / Gluconeogenesis; Pyruvate metabolism	AT4G15530.5	Mp7g14390.2.cds	Lc_female_19146
+primary_metabolism	OG0007386	0	1	1	1	1	1	1	1	2	1	1	Amino sugar and nucleotide sugar metabolism	AT5G15770.1	Mp7g01050.1.cds	Lc_female_19965
+primary_metabolism	OG0007407	0	1	1	1	1	1	1	2	1	1	1	Alanine, aspartate and glutamate metabolism; Pyrimidine metabolism	AT3G20330.2	Mp6g11830.2.cds	Lc_female_24977
+primary_metabolism	OG0007415	0	1	1	1	1	1	1	1	2	1	1	Pantothenate and CoA biosynthesis	AT2G27490.4	Mp2g00980.1.cds	Lc_female_26012
+primary_metabolism	OG0007532	0	1	1	2	1	1	1	1	0	1	1	Oxidative phosphorylation	AT1G02410.3	Mp4g14230.1.cds	Lc_female_03748, Lc_female_07199
+primary_metabolism	OG0007543	1	1	1	1	1	1	1	1	1	1	0	Porphyrin metabolism	AT5G04900.1	Mp4g15720.1.cds	Lc_female_12969
+primary_metabolism	OG0007558	1	1	2	1	1	1	0	1	0	1	1	Glutathione metabolism	AT3G54660.1	Mp1g20690.1.cds	Lc_female_15710
+primary_metabolism	OG0007610	1	1	1	1	1	1	1	1	0	1	1	Biosynthesis of unsaturated fatty acids; Fatty acid elongation	AT5G59770.1	Mp5g24450.2.cds1	Lc_female_25452
+primary_metabolism	OG0007638	1	1	1	1	1	1	1	0	1	1	1	Photosynthesis	AT5G64040.2	Mp4g20410.1.cds	Lc_female_11489
+primary_metabolism	OG0007689	1	1	1	1	1	1	1	1	1	1	0	Purine metabolism	AT4G17050.1	Mp2g22300.1.cds	Lc_female_19638
+primary_metabolism	OG0007718	1	1	1	1	1	1	1	1	0	1	1	Porphyrin metabolism	AT4G25080.6	Mp4g09340.1.cds1	Lc_female_15499
+primary_metabolism	OG0007727	1	1	1	1	1	0	1	1	1	1	1	Purine metabolism	AT1G71750.2	Mp6g07880.2.cds1	Lc_female_08445
+primary_metabolism	OG0007731	1	1	1	1	1	1	1	1	0	1	1	Arginine and proline metabolism	AT5G14800.1	Mp1g01550.2.cds	Lc_female_22414
+primary_metabolism	OG0007735	1	1	1	1	1	1	1	2	0	1	0	Glycine, serine and threonine metabolism; Glyoxylate and dicarboxylate metabolism	AT1G68010.2	Mp2g07580.1.cds	Lc_female_19712
+primary_metabolism	OG0007801	1	1	1	1	1	1	0	1	1	1	1	Tyrosine metabolism	AT5G54080.2	Mp5g00020.1.cds	Lc_female_00447
+primary_metabolism	OG0007818	1	1	1	1	1	1	1	1	0	1	1	Photosynthesis	AT1G03600.1	Mp3g19780.1.cds1	Lc_female_15960
+primary_metabolism	OG0007868	0	1	1	1	1	1	1	1	1	1	1	Pantothenate and CoA biosynthesis; Pyrimidine metabolism; beta-Alanine metabolism	AT5G64370.1	Mp3g05330.1.cds	Lc_female_12732
+primary_metabolism	OG0007889	0	1	1	1	1	1	1	1	1	1	1	Photosynthesis	AT1G32550.2	Mp2g18370.1.cds	Lc_female_13487
+primary_metabolism	OG0007902	0	1	1	1	1	1	1	1	1	1	1	Photosynthesis - antenna proteins	AT1G76570.1	Mp8g12010.1.cds1	Lc_female_01478
+primary_metabolism	OG0008026	1	1	1	1	1	0	1	1	1	1	0	Porphyrin metabolism	AT1G04620.1	Mp7g02790.1.cds	Lc_female_20220
+primary_metabolism	OG0008156	1	1	1	1	1	0	1	1	0	1	1	Photosynthesis	AT4G14890.1	Mp5g15920.1.cds1	Lc_female_02675
+primary_metabolism	OG0008159	1	1	1	1	1	1	1	1	0	1	0	Propanoate metabolism; Valine, leucine and isoleucine degradation; beta-Alanine metabolism	AT4G20930.1	Mp2g00110.1.cds	Lc_female_15592
+primary_metabolism	OG0008217	1	1	0	2	1	1	1	0	0	1	1	Ascorbate and aldarate metabolism	AT1G63940.2	Mp7g06510.1.cds	Lc_female_03724, Lc_female_05831
+primary_metabolism	OG0008303	0	1	0	1	1	1	1	1	1	1	1	Glycine, serine and threonine metabolism; One carbon pool by folate	AT4G29890.1	Mp3g22040.1.cds1	Lc_female_23753
+C_metabolism	OG0000272	5	9	1	15	17	3	10	22	3	5	3	Photosynthesis - antenna proteins	AT1G29910.1, AT1G29920.1, AT1G29930.1, AT2G05070.1, AT2G05100.2, AT2G34420.1, AT2G34430.1, AT3G27690.2, AT5G54270.1	Mp2g13460.1.cds, Mp7g05530.1.cds, Mp7g05880.1.cds, Mp7g05890.1.cds, Mp7g05980.1.cds, Mp7g06710.1.cds, Mp7g06720.1.cds, Mp7g06730.1.cds, Mp7g06740.1.cds, Mp7g06750.1.cds, Mp7g06760.1.cds, Mp7g06770.1.cds, Mp7g06780.1.cds, Mp7g06790.1.cds, Mp7g08940.1.cds, Mp7g09180.1.cds, Mp7g09340.1.cds	Lc_female_01204, Lc_female_01211, Lc_female_04014, Lc_female_04780, Lc_female_04791, Lc_female_04994, Lc_female_09265, Lc_female_16382, Lc_female_18699, Lc_female_19957, Lc_female_20547, Lc_female_20548, Lc_female_20550, Lc_female_20551, Lc_female_20558
+C_metabolism	OG0000530	5	7	1	5	4	8	8	7	7	7	4	Starch and sucrose metabolism	AT2G32290.1, AT2G45880.1, AT3G23920.1, AT4G00490.1, AT4G15210.1, AT4G17090.1, AT5G45300.3	Mp1g06910.1.cds, Mp1g06930.1.cds, Mp5g02130.1.cds, Mp8g10500.1.cds	Lc_female_06022, Lc_female_07457, Lc_female_08206, Lc_female_08914, Lc_female_16786
+C_metabolism	OG0000995	3	4	1	3	3	3	5	6	4	3	7	Glycerophospholipid metabolism; Glyoxylate and dicarboxylate metabolism; One carbon pool by folate	AT1G10780.2, AT4G16700.1, AT4G17360.1, AT5G47435.2	Mp1g02570.1.cds, Mp5g09820.1.cds, Mp6g16990.1.cds	Lc_female_01274, Lc_female_06324, Lc_female_11037
+C_metabolism	OG0001105	2	4	1	6	3	4	5	6	3	3	2	Amino sugar and nucleotide sugar metabolism; Starch and sucrose metabolism	AT1G27680.1, AT2G21590.6, AT4G39210.1, AT5G19220.1	Mp2g11530.1.cds, Mp4g10120.1.cds1, Mp4g20740.1.cds	Lc_female_06755, Lc_female_17438, Lc_female_18449, Lc_female_21546, Lc_female_22045, Lc_female_24370
+C_metabolism	OG0001191	2	2	2	4	4	7	2	5	2	3	4	Starch and sucrose metabolism	AT1G76130.1, AT4G25000.1	Mp1g16240.1.cds, Mp1g24800.1.cds, Mp2g22120.4.cds, Mp4g22350.1.cds	Lc_female_11410, Lc_female_14587, Lc_female_19276, Lc_female_25706
+C_metabolism	OG0001433	4	3	1	3	3	2	2	5	4	2	4	Citrate cycle (TCA cycle); Glycolysis / Gluconeogenesis; Lipoic acid metabolism; Pyruvate metabolism	AT1G16000.1, AT1G34430.1, AT1G80890.1	Mp4g15570.1.cds, Mp4g20170.1.cds, Mp7g07300.1.cds	Lc_female_05645, Lc_female_24389, Lc_female_24524
+C_metabolism	OG0001456	2	3	1	5	4	5	2	5	1	3	2	Inositol phosphate metabolism; Phosphatidylinositol signaling system	AT3G19420.1, AT3G50110.1, AT5G39400.1	Mp2g21810.1.cds, Mp5g16940.1.cds, Mp5g21110.1.cds, Mp6g11400.1.cds	Lc_female_08689, Lc_female_12291, Lc_female_18276, Lc_female_19243, Lc_female_22239
+C_metabolism	OG0001735	4	2	1	3	3	4	2	4	3	2	1	Carbon fixation by Calvin cycle; Citrate cycle (TCA cycle); Glycolysis / Gluconeogenesis; Pyruvate metabolism	AT4G37870.1, AT5G65690.2	Mp3g19060.1.cds1, Mp8g02130.1.cds1, Mp8g02810.1.cds1	Lc_female_08329, Lc_female_20492, Lc_female_25470
+C_metabolism	OG0001993	2	3	1	3	3	4	3	2	2	2	2	Glyoxylate and dicarboxylate metabolism; MAPK signaling pathway - plant; Peroxisome; Tryptophan metabolism	AT1G20620.6, AT1G20630.1, AT4G35090.3	Mp4g06600.1.cds, Mp5g07320.1.cds, Mp5g07340.1.cds	Lc_female_10716, Lc_female_17989, Lc_female_17998
+C_metabolism	OG0002042	2	2	1	4	2	2	2	2	4	2	3	Starch and sucrose metabolism	AT1G03310.1, AT4G09020.1	Mp3g08480.1.cds, Mp3g09040.1.cds	Lc_female_01188, Lc_female_09810, Lc_female_17207, Lc_female_23062
+C_metabolism	OG0002177	2	3	1	2	2	2	3	4	2	2	2	Amino sugar and nucleotide sugar metabolism; Galactose metabolism; Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Purine metabolism; Starch and sucrose metabolism	AT1G23190.1, AT1G70730.3, AT5G51820.1	Mp4g13750.1.cds, Mp5g10560.1.cds	Lc_female_13963, Lc_female_25154
+C_metabolism	OG0002343	2	2	1	2	2	3	2	3	1	2	4	Galactose metabolism; Glycosaminoglycan degradation; Glycosphingolipid biosynthesis - ganglio series; Lysosome biogenesis; Non-homologous end-joining; Other glycan degradation; Sphingolipid metabolism	AT1G72990.4, AT5G57160.1	Mp1g02660.2.cds, Mp1g17990.1.cds	Lc_female_02602, Lc_female_13968
+C_metabolism	OG0002345	2	2	1	3	2	3	2	3	3	2	1	Oxidative phosphorylation; Photosynthesis	AT4G00895.1, AT4G09650.1	Mp3g05790.1.cds1, Mp6g06680.1.cds1	Lc_female_04691, Lc_female_22871, Lc_female_26574
+C_metabolism	OG0002716	1	1	1	4	5	2	1	4	1	1	1	Carbon fixation by Calvin cycle; Pentose phosphate pathway	AT5G13420.1	Mp5g06510.1.cds1, Mp5g12330.1.cds, Mp5g12340.1.cds, Mp5g12350.1.cds, Mp5g23050.1.cds	Lc_female_02289, Lc_female_02956, Lc_female_17225, Lc_female_18691
+C_metabolism	OG0002825	1	1	3	2	2	1	2	3	2	2	2	Glycolysis / Gluconeogenesis; Glyoxylate and dicarboxylate metabolism; Propanoate metabolism; Pyruvate metabolism	AT5G36880.2	Mp3g22910.1.cds, Mp4g17780.1.cds	Lc_female_05783, Lc_female_15503
+C_metabolism	OG0003058	3	2	1	2	2	2	2	1	1	2	2	Citrate cycle (TCA cycle); Lipoic acid metabolism	AT3G55410.1, AT5G65750.1	Mp2g10720.1.cds, Mp6g11470.1.cds	Lc_female_05908, Lc_female_15443
+C_metabolism	OG0003068	2	1	0	2	2	2	2	4	2	2	1	Glycolysis / Gluconeogenesis; Pyruvate metabolism	AT3G22960.1	Mp1g23440.1.cds, Mp4g14240.1.cds	Lc_female_01598, Lc_female_20028
+C_metabolism	OG0003216	2	2	1	2	3	1	2	3	1	1	1	Photosynthesis	AT1G06680.1, AT2G30790.1	Mp2g17390.1.cds, Mp5g20290.1.cds, Mp5g20300.1.cds	Lc_female_04062, Lc_female_12158
+C_metabolism	OG0003261	1	1	1	3	2	1	2	4	1	1	2	Alanine, aspartate and glutamate metabolism; Glycine, serine and threonine metabolism; Glyoxylate and dicarboxylate metabolism; Peroxisome	AT2G13360.2	Mp1g21010.1.cds, Mp4g00500.1.cds1	Lc_female_01358, Lc_female_17452, Lc_female_17458
+C_metabolism	OG0003372	0	2	0	3	4	1	1	4	1	2	1	Biosynthesis of various nucleotide sugars; Fructose and mannose metabolism	AT3G51160.1, AT5G66280.1	Mp1g09600.1.cds1, Mp1g09610.1.cds1, Mp2g21830.1.cds1, Mp6g07110.1.cds1	Lc_female_11728, Lc_female_11741, Lc_female_17477
+C_metabolism	OG0003489	2	1	1	2	2	1	2	3	1	2	1	Lysosome biogenesis; Oxidative phosphorylation; Phagocytosis	AT1G78900.2	Mp2g14700.1.cds1, Mp4g11270.1.cds	Lc_female_16193, Lc_female_20429
+C_metabolism	OG0003532	1	2	1	3	3	2	1	2	1	1	1	Lysosome biogenesis; Oxidative phosphorylation; Phagocytosis	AT3G28710.1, AT3G28715.1	Mp3g03870.1.cds, Mp3g07040.1.cds, Mp3g18180.2.cds	Lc_female_08005, Lc_female_18286, Lc_female_18288
+C_metabolism	OG0003575	2	2	1	3	2	1	1	2	1	2	1	Inositol phosphate metabolism; Phosphatidylinositol signaling system	AT1G49340.2, AT1G51040.1	Mp1g18900.1.cds, Mp1g21170.1.cds	Lc_female_05276, Lc_female_05281, Lc_female_26504
+C_metabolism	OG0003635	0	1	1	2	2	1	2	4	1	2	2	Photosynthesis	AT1G79040.1	Mp1g17690.1.cds, Mp3g05840.1.cds	Lc_female_07813, Lc_female_10754
+C_metabolism	OG0003897	1	1	1	3	2	1	2	3	1	1	1	Ascorbate and aldarate metabolism	AT3G47930.1	Mp7g03660.1.cds1, Mp8g00510.1.cds	Lc_female_07987, Lc_female_16377, Lc_female_26042
+C_metabolism	OG0004301	1	1	1	1	1	1	1	5	1	1	1	Photosynthesis - antenna proteins	AT4G10340.1	Mp4g10900.1.cds	Lc_female_11700
+C_metabolism	OG0004361	2	1	1	1	1	3	1	1	1	1	2	Pentose phosphate pathway	AT1G17160.1	Mp1g11350.1.cds	Lc_female_13712
+C_metabolism	OG0004422	2	1	1	1	1	1	1	3	2	1	1	Pyruvate metabolism	AT5G03370.1	Mp8g05880.1.cds	Lc_female_02273
+C_metabolism	OG0004504	1	1	1	1	2	1	1	4	1	1	1	Oxidative phosphorylation	AT2G33040.1	Mp7g04400.1.cds, Mp7g05150.2.cds	Lc_female_04153
+C_metabolism	OG0004525	1	1	0	2	1	1	1	2	1	1	4	Amino sugar and nucleotide sugar metabolism; Galactose metabolism	AT5G18200.1	Mp1g00240.1.cds	Lc_female_13242, Lc_female_13380
+C_metabolism	OG0004534	2	1	1	1	1	1	1	4	1	1	1	Oxidative phosphorylation	AT5G37510.2	Mp1g14590.1.cds	Lc_female_19518
+C_metabolism	OG0004591	2	1	1	1	1	2	1	2	2	1	1	Lysosome biogenesis; Oxidative phosphorylation; Phagocytosis	AT3G58730.1	Mp3g08620.1.cds1	Lc_female_14209
+C_metabolism	OG0004615	1	1	1	1	1	1	1	4	1	1	2	Amino sugar and nucleotide sugar metabolism; Glycolysis / Gluconeogenesis; Pentose phosphate pathway; Starch and sucrose metabolism	AT5G42740.2	Mp6g04740.5.cds	Lc_female_17855
+C_metabolism	OG0004646	1	1	1	2	1	2	1	3	1	1	1	Starch and sucrose metabolism	AT5G64860.1	Mp3g00810.1.cds	Lc_female_11188, Lc_female_19305
+C_metabolism	OG0004662	1	1	3	2	1	1	1	1	1	1	2	Fructose and mannose metabolism; Purine metabolism; Starch and sucrose metabolism	AT4G11980.1	Mp5g10980.1.cds	Lc_female_10929, Lc_female_17406
+C_metabolism	OG0004896	2	1	1	1	2	1	1	2	1	1	1	Pyruvate metabolism	AT1G08110.4	Mp1g15760.1.cds, Mp1g15780.1.cds	Lc_female_06029
+C_metabolism	OG0004908	1	1	1	1	1	1	1	3	2	1	1	Oxidative phosphorylation	AT4G02580.1	Mp1g00250.1.cds	Lc_female_01919
+C_metabolism	OG0005025	1	1	1	2	1	1	1	1	3	1	1	Amino sugar and nucleotide sugar metabolism	AT5G18070.1	Mp7g03190.1.cds	Lc_female_10107, Lc_female_26028
+C_metabolism	OG0005078	1	1	1	1	1	1	1	3	1	1	2	Inositol phosphate metabolism	AT5G58730.1	Mp6g09120.1.cds	Lc_female_26569
+C_metabolism	OG0005080	1	1	1	2	2	0	1	3	1	1	1	Oxidative phosphorylation	AT1G51650.1	Mp1g18910.2.cds1, Mp1g18920.1.cds	Lc_female_05278, Lc_female_15280
+C_metabolism	OG0005085	1	1	1	2	1	1	1	2	1	1	2	Amino sugar and nucleotide sugar metabolism; Ascorbate and aldarate metabolism; Biosynthesis of various nucleotide sugars; Galactose metabolism; Pentose and glucuronate interconversions	AT5G52560.1	Mp4g24120.2.cds	Lc_female_01468, Lc_female_26283
+C_metabolism	OG0005161	2	1	1	2	1	1	1	2	1	1	1	Photosynthesis	AT4G28660.2	Mp2g14630.1.cds	Lc_female_10367, Lc_female_20044
+C_metabolism	OG0005170	3	1	1	1	2	1	1	1	1	1	1	Pentose and glucuronate interconversions	AT2G21370.1	Mp5g23530.1.cds, Mp5g23840.1.cds	Lc_female_17097
+C_metabolism	OG0005410	2	1	1	1	1	1	1	1	1	1	2	Starch and sucrose metabolism	AT2G40840.1	Mp4g12080.1.cds	Lc_female_16412
+C_metabolism	OG0005432	1	1	1	1	1	1	1	2	1	1	2	Inositol phosphate metabolism	AT2G43980.1	Mp1g26840.1.cds	Lc_female_24485
+C_metabolism	OG0005546	1	1	1	1	1	2	1	2	1	1	1	Oxidative phosphorylation	AT5G08530.1	Mp6g01100.2.cds1	Lc_female_08286
+C_metabolism	OG0005562	3	1	1	1	1	1	1	1	1	1	1	Pentose phosphate pathway	AT2G16790.3	Mp7g00170.1.cds1	Lc_female_15325
+C_metabolism	OG0005589	1	1	1	1	1	1	1	3	1	1	1	Alanine, aspartate and glutamate metabolism; Butanoate metabolism	AT1G79440.1	Mp6g21500.1.cds	Lc_female_10373
+C_metabolism	OG0005591	1	1	0	2	1	1	1	2	1	1	2	Butanoate metabolism; Fatty acid degradation; Lysine degradation; Phenylalanine metabolism; Propanoate metabolism; Tryptophan metabolism; Valine, leucine and isoleucine degradation; beta-Alanine metabolism	AT4G16210.1	Mp6g09380.1.cds	Lc_female_02516, Lc_female_12217
+C_metabolism	OG0005622	1	1	1	1	1	1	1	3	1	1	1	Carbon fixation by Calvin cycle	AT3G55800.1	Mp3g22710.1.cds	Lc_female_16763
+C_metabolism	OG0005635	1	1	1	1	1	2	1	2	1	1	1	Glycine, serine and threonine metabolism; Glyoxylate and dicarboxylate metabolism; Lipoic acid metabolism; One carbon pool by folate	AT1G11860.3	Mp2g09990.1.cds1	Lc_female_10524
+C_metabolism	OG0005692	1	1	1	2	1	2	1	1	1	1	1	Butanoate metabolism; Phenylalanine metabolism	AT3G15290.1	Mp5g20630.1.cds	Lc_female_00226, Lc_female_24574
+C_metabolism	OG0005725	1	1	1	2	2	1	1	2	0	1	1	Amino sugar and nucleotide sugar metabolism	AT3G06580.1	Mp7g01110.1.cds1, Mp7g08830.1.cds1	Lc_female_17168, Lc_female_19955
+C_metabolism	OG0005845	3	1	1	1	1	1	1	1	1	1	1	Autophagy - other; Inositol phosphate metabolism; Phagocytosis; Phosphatidylinositol signaling system	AT1G60490.1	Mp7g11730.1.cds	Lc_female_03832
+C_metabolism	OG0005987	1	1	3	1	1	1	1	0	1	1	1	Starch and sucrose metabolism	AT1G11720.2	Mp2g20000.1.cds	Lc_female_04809
+C_metabolism	OG0006051	2	1	1	1	1	1	1	1	1	1	1	Citrate cycle (TCA cycle); Glycolysis / Gluconeogenesis; Lipoic acid metabolism; Pyruvate metabolism	AT3G52200.2	Mp1g19900.1.cds	Lc_female_16673
+C_metabolism	OG0006090	1	1	1	1	1	1	1	1	1	1	2	Butanoate metabolism	AT3G56840.1	Mp4g11370.1.cds	Lc_female_20427
+C_metabolism	OG0006179	1	1	1	1	1	1	1	1	1	1	2	Amino sugar and nucleotide sugar metabolism; Glycerolipid metabolism; Sulfoquinovose metabolism	AT4G33030.1	Mp5g24070.1.cds	Lc_female_18571
+C_metabolism	OG0006236	1	1	1	1	1	1	1	2	1	1	1	Oxidative phosphorylation	AT2G20360.1	Mp7g17590.1.cds	Lc_female_01214
+C_metabolism	OG0006271	2	1	1	1	1	1	1	1	1	1	1	Oxidative phosphorylation; Porphyrin metabolism	AT5G56090.1	Mp4g23080.1.cds	Lc_female_23853
+C_metabolism	OG0006322	1	1	1	1	1	1	1	1	1	1	2	Ascorbate and aldarate metabolism; Glutathione metabolism	AT4G32320.1	Mp6g13320.1.cds	Lc_female_24708
+C_metabolism	OG0006395	1	1	1	2	1	1	1	1	1	1	1	Lipoic acid metabolism; Propanoate metabolism; Valine, leucine and isoleucine degradation	AT3G06850.2	Mp5g07440.1.cds	Lc_female_25228, Lc_female_26083
+C_metabolism	OG0006402	1	1	1	1	1	1	1	2	1	1	1	Oxidative phosphorylation	AT5G47890.1	Mp8g03000.1.cds	Lc_female_19614
+C_metabolism	OG0006514	2	1	0	2	1	1	1	1	1	1	1	Pentose and glucuronate interconversions	AT4G30310.2	Mp7g12740.2.cds	Lc_female_06405, Lc_female_21698
+C_metabolism	OG0006828	1	1	1	1	1	1	1	1	1	1	1	Starch and sucrose metabolism	AT2G39930.1	Mp6g11070.1.cds	Lc_female_01074
+C_metabolism	OG0006842	1	1	1	1	1	2	1	1	1	1	0	Butanoate metabolism; Glyoxylate and dicarboxylate metabolism	AT3G25530.1	Mp5g18640.1.cds	Lc_female_02680
+C_metabolism	OG0006854	0	1	1	1	1	1	1	2	1	1	1	Biosynthesis of unsaturated fatty acids; Fatty acid degradation; Peroxisome; Propanoate metabolism; alpha-Linolenic acid metabolism; beta-Alanine metabolism	AT5G65110.1	Mp1g10380.1.cds	Lc_female_21598
+C_metabolism	OG0006914	1	1	0	1	1	1	1	2	1	1	1	Carbon fixation by Calvin cycle; Fructose and mannose metabolism; Glycolysis / Gluconeogenesis; Pentose phosphate pathway	AT5G64380.1	Mp4g00360.1.cds	Lc_female_23200
+C_metabolism	OG0006961	1	1	1	1	1	1	1	1	1	1	1	Oxidative phosphorylation; Porphyrin metabolism	AT2G44520.1	Mp1g00930.1.cds	Lc_female_22107
+C_metabolism	OG0007006	1	1	1	1	1	1	1	1	1	1	1	Inositol phosphate metabolism; Propanoate metabolism; Valine, leucine and isoleucine degradation; beta-Alanine metabolism	AT2G14170.1	Mp3g18280.2.cds1	Lc_female_23250
+C_metabolism	OG0007022	1	1	1	1	1	0	1	2	1	1	1	Photosynthesis	AT1G55670.1	Mp6g18440.1.cds1	Lc_female_21821
+C_metabolism	OG0007137	1	1	1	1	1	1	1	1	1	1	1	Citrate cycle (TCA cycle); Propanoate metabolism	AT2G20420.1	Mp1g04210.1.cds	Lc_female_01003
+C_metabolism	OG0007315	1	1	1	1	1	1	1	1	1	1	1	Lysosome biogenesis; Oxidative phosphorylation; Phagocytosis	AT1G12840.1	Mp4g19810.1.cds	Lc_female_15177
+C_metabolism	OG0007376	0	1	2	1	1	0	1	1	2	1	1	Carbon fixation by Calvin cycle; Glycolysis / Gluconeogenesis; Pyruvate metabolism	AT4G15530.5	Mp7g14390.2.cds	Lc_female_19146
+C_metabolism	OG0007386	0	1	1	1	1	1	1	1	2	1	1	Amino sugar and nucleotide sugar metabolism	AT5G15770.1	Mp7g01050.1.cds	Lc_female_19965
+C_metabolism	OG0007532	0	1	1	2	1	1	1	1	0	1	1	Oxidative phosphorylation	AT1G02410.3	Mp4g14230.1.cds	Lc_female_03748, Lc_female_07199
+C_metabolism	OG0007638	1	1	1	1	1	1	1	0	1	1	1	Photosynthesis	AT5G64040.2	Mp4g20410.1.cds	Lc_female_11489
+C_metabolism	OG0007735	1	1	1	1	1	1	1	2	0	1	0	Glycine, serine and threonine metabolism; Glyoxylate and dicarboxylate metabolism	AT1G68010.2	Mp2g07580.1.cds	Lc_female_19712
+C_metabolism	OG0007818	1	1	1	1	1	1	1	1	0	1	1	Photosynthesis	AT1G03600.1	Mp3g19780.1.cds1	Lc_female_15960
+C_metabolism	OG0007889	0	1	1	1	1	1	1	1	1	1	1	Photosynthesis	AT1G32550.2	Mp2g18370.1.cds	Lc_female_13487
+C_metabolism	OG0007902	0	1	1	1	1	1	1	1	1	1	1	Photosynthesis - antenna proteins	AT1G76570.1	Mp8g12010.1.cds1	Lc_female_01478
+C_metabolism	OG0008156	1	1	1	1	1	0	1	1	0	1	1	Photosynthesis	AT4G14890.1	Mp5g15920.1.cds1	Lc_female_02675
+C_metabolism	OG0008159	1	1	1	1	1	1	1	1	0	1	0	Propanoate metabolism; Valine, leucine and isoleucine degradation; beta-Alanine metabolism	AT4G20930.1	Mp2g00110.1.cds	Lc_female_15592
+C_metabolism	OG0008217	1	1	0	2	1	1	1	0	0	1	1	Ascorbate and aldarate metabolism	AT1G63940.2	Mp7g06510.1.cds	Lc_female_03724, Lc_female_05831
+N_metabolism	OG0000160	1	8	2	14	23	14	18	17	4	7	19	Nitrogen metabolism	AT1G08065.1, AT1G08080.1, AT2G28210.1, AT3G52720.1, AT4G20990.1, AT4G21000.1, AT5G04180.1, AT5G56330.1	Mp2g17100.1.cds, Mp6g03300.1.cds, Mp6g09000.1.cds, Mp6g14480.1.cds, Mp7g13720.1.cds, Mp8g01230.1.cds, Mp8g02700.1.cds, Mp8g02710.1.cds, Mp8g02730.1.cds, Mp8g02745.1.cds, Mp8g02750.1.cds, Mp8g02770.1.cds, Mp8g02780.1.cds, Mp8g08440.1.cds, Mp8g09450.1.cds, Mp8g09460.1.cds, Mp8g09470.1.cds, Mp8g09480.1.cds, Mp8g09490.1.cds, Mp8g11120.1.cds, Mp8g11240.1.cds, Mp8g11360.1.cds, Mp8g15470.2.cds	Lc_female_01010, Lc_female_01171, Lc_female_03869, Lc_female_05635, Lc_female_09531, Lc_female_09539, Lc_female_13284, Lc_female_15192, Lc_female_17044, Lc_female_19875, Lc_female_20676, Lc_female_23005, Lc_female_23007, Lc_female_26061
+N_metabolism	OG0000342	7	4	0	11	10	7	4	27	6	5	1	Phenylalanine metabolism; Phenylpropanoid biosynthesis	AT2G37040.1, AT3G10340.1, AT3G53260.1, AT5G04230.2	Mp1g05190.1.cds1, Mp1g05220.1.cds1, Mp1g10150.1.cds1, Mp4g03590.1.cds1, Mp4g10060.1.cds1, Mp4g14110.1.cds1, Mp4g14140.1.cds1, Mp4g14160.1.cds1, Mp4g14210.1.cds1, Mp7g14880.1.cds1	Lc_female_01399, Lc_female_01786, Lc_female_01792, Lc_female_03137, Lc_female_10447, Lc_female_11944, Lc_female_19881, Lc_female_19892, Lc_female_19901, Lc_female_23962, Lc_female_23964
+N_metabolism	OG0000423	2	8	3	14	23	3	3	9	1	5	2	Nitrogen metabolism	AT1G08090.1, AT1G08100.1, AT1G12940.1, AT3G45060.1, AT4G14358.1, AT5G14570.1, AT5G60770.1, AT5G60780.1	Mp4g16320.1.cds, Mp4g22650.1.cds1, Mp4g22670.1.cds, Mp4g22680.1.cds, Mp4g22700.1.cds, Mp4g22720.1.cds, Mp4g22740.1.cds, Mp4g22760.1.cds, Mp4g22800.1.cds, Mp4g22810.1.cds, Mp4g22820.1.cds, Mp4g22830.1.cds, Mp4g22840.1.cds, Mp4g22880.1.cds, Mp5g07750.1.cds1, Mp5g10710.1.cds1, Mp5g10760.1.cds1, Mp5g10780.1.cds1, Mp5g10790.1.cds1, Mp7g09240.1.cds, Mp8g04780.1.cds, Mp8g04800.1.cds1, Mp8g18730.1.cds	Lc_female_04458, Lc_female_06688, Lc_female_08133, Lc_female_08332, Lc_female_08334, Lc_female_08336, Lc_female_08339, Lc_female_08340, Lc_female_11895, Lc_female_18078, Lc_female_19823, Lc_female_19826, Lc_female_19828, Lc_female_25327
+N_metabolism	OG0001075	1	1	0	5	3	20	2	2	1	1	4	Arginine and proline metabolism; beta-Alanine metabolism	AT5G13700.1	Mp2g18520.1.cds, Mp3g07160.1.cds, Mp7g01430.1.cds	Lc_female_08812, Lc_female_09099, Lc_female_11456, Lc_female_11458, Lc_female_20392
+N_metabolism	OG0001514	3	3	2	7	4	2	2	3	3	2	1	Arginine biosynthesis	AT1G44180.1, AT1G44820.1, AT4G38220.2	Mp2g10700.1.cds, Mp5g18680.1.cds, Mp5g18690.1.cds, Mp6g11350.1.cds	Lc_female_07078, Lc_female_08147, Lc_female_08521, Lc_female_15053, Lc_female_20382, Lc_female_21392, Lc_female_24450
+N_metabolism	OG0001539	3	3	2	4	2	2	3	2	4	3	4	Cysteine and methionine metabolism; Glycine, serine and threonine metabolism; Lysine biosynthesis; Monobactam biosynthesis	AT1G31230.1, AT4G19710.2, AT5G21060.3	Mp6g10000.1.cds, Mp6g10010.1.cds	Lc_female_00127, Lc_female_00869, Lc_female_20891, Lc_female_20895
+N_metabolism	OG0001561	1	2	1	3	3	3	2	9	3	2	2	Cysteine and methionine metabolism	AT1G16770.1, AT1G77670.1	Mp1g17160.1.cds, Mp1g21050.1.cds, Mp4g00120.1.cds	Lc_female_01199, Lc_female_04723, Lc_female_10033
+N_metabolism	OG0001752	3	2	1	3	2	3	2	7	1	1	4	Lysine degradation	AT2G23740.2, AT3G03750.2	Mp3g11570.1.cds1, Mp7g11940.1.cds	Lc_female_14087, Lc_female_17524, Lc_female_18034
+N_metabolism	OG0001833	3	3	1	2	2	2	3	5	3	2	2	Glutathione metabolism	AT1G65710.1, AT1G65820.3, AT5G37010.1	Mp2g03200.1.cds, Mp6g15370.1.cds	Lc_female_20339, Lc_female_21245
+N_metabolism	OG0002589	2	2	1	4	2	2	3	2	0	1	3	ATP-dependent chromatin remodeling; Lysine degradation	AT4G35987.1, AT5G37055.1	Mp4g00310.1.cds, Mp4g05360.1.cds	Lc_female_07559, Lc_female_10244, Lc_female_19156, Lc_female_22557
+N_metabolism	OG0003261	1	1	1	3	2	1	2	4	1	1	2	Alanine, aspartate and glutamate metabolism; Glycine, serine and threonine metabolism; Glyoxylate and dicarboxylate metabolism; Peroxisome	AT2G13360.2	Mp1g21010.1.cds, Mp4g00500.1.cds1	Lc_female_01358, Lc_female_17452, Lc_female_17458
+N_metabolism	OG0003269	2	1	1	2	2	1	1	2	1	2	4	Valine, leucine and isoleucine degradation	AT3G45300.1	Mp8g15810.2.cds, Mp8g16280.1.cds	Lc_female_00303, Lc_female_16061
+N_metabolism	OG0003472	1	1	0	3	2	3	1	3	1	1	2	Glutathione metabolism; Phenylpropanoid biosynthesis	AT1G48130.1	Mp2g14680.1.cds1, Mp7g05690.1.cds	Lc_female_07604, Lc_female_16195, Lc_female_21908
+N_metabolism	OG0003832	2	1	1	2	2	2	1	1	1	1	3	Arginine and proline metabolism	AT2G14260.1	Mp1g20070.1.cds, Mp3g18660.1.cds1	Lc_female_02986, Lc_female_13583
+N_metabolism	OG0004338	1	1	1	2	1	1	1	1	1	1	4	Valine, leucine and isoleucine degradation	AT1G03090.2	Mp8g15290.1.cds	Lc_female_25603, Lc_female_25617
+N_metabolism	OG0004376	2	1	1	1	1	1	1	2	2	1	2	Alanine, aspartate and glutamate metabolism; Arginine biosynthesis; Pyrimidine metabolism	AT3G27740.1	Mp8g10680.1.cds	Lc_female_16463
+N_metabolism	OG0004396	1	1	2	1	1	1	1	1	2	1	3	Cysteine and methionine metabolism; D-Amino acid metabolism	AT1G48420.3	Mp4g02950.1.cds	Lc_female_17917
+N_metabolism	OG0004624	1	1	1	1	1	1	2	1	1	1	4	Histidine metabolism	AT2G36230.1	Mp4g10400.2.cds	Lc_female_23121
+N_metabolism	OG0004637	1	1	4	1	1	1	2	1	0	1	2	Cysteine and methionine metabolism; Glycine, serine and threonine metabolism	AT2G17265.1	Mp6g06640.1.cds	Lc_female_01260
+N_metabolism	OG0005169	1	1	1	1	1	1	1	1	3	1	2	Pantothenate and CoA biosynthesis; beta-Alanine metabolism	AT5G48840.1	Mp3g05500.1.cds	Lc_female_15112
+N_metabolism	OG0005331	1	1	1	1	1	2	1	2	1	1	1	Alanine, aspartate and glutamate metabolism; Arginine and proline metabolism; Arginine biosynthesis; Cysteine and methionine metabolism; Isoquinoline alkaloid biosynthesis; Phenylalanine metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis; Tropane, piperidine and pyridine alkaloid biosynthesis; Tyrosine metabolism	AT4G31990.3	Mp1g17920.1.cds	Lc_female_23967
+N_metabolism	OG0005437	1	1	1	3	1	1	1	1	1	1	1	Cysteine and methionine metabolism; Sulfur cycle; Sulfur metabolism	AT1G55880.1	Mp1g18860.1.cds	Lc_female_09225, Lc_female_12042, Lc_female_24062
+N_metabolism	OG0005471	1	1	1	1	1	1	1	2	2	1	1	Histidine metabolism	AT5G63890.2	Mp6g08280.1.cds	Lc_female_20853
+N_metabolism	OG0005496	1	1	2	2	1	1	1	1	1	1	1	Arginine and proline metabolism	AT2G27450.2	Mp1g00420.1.cds	Lc_female_13838, Lc_female_19266
+N_metabolism	OG0005569	1	1	1	2	2	1	1	1	1	1	1	Alanine, aspartate and glutamate metabolism; Arginine and proline metabolism	AT5G62530.1	Mp1g21650.1.cds1, Mp6g07270.1.cds	Lc_female_10575, Lc_female_16825
+N_metabolism	OG0005589	1	1	1	1	1	1	1	3	1	1	1	Alanine, aspartate and glutamate metabolism; Butanoate metabolism	AT1G79440.1	Mp6g21500.1.cds	Lc_female_10373
+N_metabolism	OG0005591	1	1	0	2	1	1	1	2	1	1	2	Butanoate metabolism; Fatty acid degradation; Lysine degradation; Phenylalanine metabolism; Propanoate metabolism; Tryptophan metabolism; Valine, leucine and isoleucine degradation; beta-Alanine metabolism	AT4G16210.1	Mp6g09380.1.cds	Lc_female_02516, Lc_female_12217
+N_metabolism	OG0005624	1	1	1	1	1	2	1	2	1	1	1	Arginine biosynthesis	AT2G19940.1	Mp1g08140.1.cds	Lc_female_24936
+N_metabolism	OG0005635	1	1	1	1	1	2	1	2	1	1	1	Glycine, serine and threonine metabolism; Glyoxylate and dicarboxylate metabolism; Lipoic acid metabolism; One carbon pool by folate	AT1G11860.3	Mp2g09990.1.cds1	Lc_female_10524
+N_metabolism	OG0005670	1	1	1	1	1	2	1	2	1	1	1	Alanine, aspartate and glutamate metabolism; Arginine biosynthesis; Pyrimidine metabolism	AT1G29900.1	Mp4g19600.1.cds	Lc_female_22053
+N_metabolism	OG0005692	1	1	1	2	1	2	1	1	1	1	1	Butanoate metabolism; Phenylalanine metabolism	AT3G15290.1	Mp5g20630.1.cds	Lc_female_00226, Lc_female_24574
+N_metabolism	OG0005704	1	1	3	1	1	1	1	1	1	1	1	Tryptophan metabolism	AT4G02405.1	Mp4g09750.1.cds	Lc_female_11319
+N_metabolism	OG0005737	1	1	1	1	1	1	1	3	1	1	1	Arginine and proline metabolism	AT5G08170.1	Mp6g11490.1.cds	Lc_female_15445
+N_metabolism	OG0005752	1	1	1	1	1	1	1	2	1	1	2	Cysteine and methionine metabolism; Glutathione metabolism; Histidine metabolism	AT4G23100.1	Mp1g07310.1.cds	Lc_female_18727
+N_metabolism	OG0006160	1	1	1	1	1	1	1	1	1	1	2	Cysteine and methionine metabolism; Tryptophan metabolism	AT1G80360.1	Mp8g18520.1.cds	Lc_female_20880
+N_metabolism	OG0006214	1	1	1	1	1	1	1	1	1	1	2	Valine, leucine and isoleucine degradation	AT4G34030.1	Mp7g14650.1.cds	Lc_female_04792
+N_metabolism	OG0006233	1	1	2	1	1	1	1	1	1	1	1	Glycine, serine and threonine metabolism	AT1G18640.2	Mp2g10500.1.cds	Lc_female_00412
+N_metabolism	OG0006310	1	1	1	1	1	1	1	1	1	1	2	Cysteine and methionine metabolism; Glycine, serine and threonine metabolism; Lysine biosynthesis; Monobactam biosynthesis	AT1G14810.1	Mp5g08390.1.cds1	Lc_female_23367
+N_metabolism	OG0006322	1	1	1	1	1	1	1	1	1	1	2	Ascorbate and aldarate metabolism; Glutathione metabolism	AT4G32320.1	Mp6g13320.1.cds	Lc_female_24708
+N_metabolism	OG0006386	1	1	1	1	1	2	1	1	1	1	1	Glutathione metabolism	AT5G37830.1	Mp6g02680.1.cds	Lc_female_02689
+N_metabolism	OG0006395	1	1	1	2	1	1	1	1	1	1	1	Lipoic acid metabolism; Propanoate metabolism; Valine, leucine and isoleucine degradation	AT3G06850.2	Mp5g07440.1.cds	Lc_female_25228, Lc_female_26083
+N_metabolism	OG0006470	1	1	1	1	1	1	1	1	2	1	1	Histidine metabolism	AT1G31860.1	Mp5g23330.1.cds	Lc_female_20682
+N_metabolism	OG0006854	0	1	1	1	1	1	1	2	1	1	1	Biosynthesis of unsaturated fatty acids; Fatty acid degradation; Peroxisome; Propanoate metabolism; alpha-Linolenic acid metabolism; beta-Alanine metabolism	AT5G65110.1	Mp1g10380.1.cds	Lc_female_21598
+N_metabolism	OG0006877	2	1	1	1	1	1	1	1	1	0	1	Cysteine and methionine metabolism; Selenocompound metabolism	AT3G57050.1	Mp1g04580.1.cds	Lc_female_11672
+N_metabolism	OG0006893	1	1	1	1	1	1	1	1	1	1	1	Glutathione metabolism	AT3G24170.3	Mp1g25390.1.cds	Lc_female_22594
+N_metabolism	OG0006903	1	1	1	1	1	1	1	1	1	1	1	Valine, leucine and isoleucine degradation	AT4G16800.1	Mp6g05140.1.cds	Lc_female_06519
+N_metabolism	OG0006909	1	1	1	1	1	1	1	1	1	1	1	Arginine and proline metabolism	AT5G46180.1	Mp7g09980.1.cds	Lc_female_24308
+N_metabolism	OG0007006	1	1	1	1	1	1	1	1	1	1	1	Inositol phosphate metabolism; Propanoate metabolism; Valine, leucine and isoleucine degradation; beta-Alanine metabolism	AT2G14170.1	Mp3g18280.2.cds1	Lc_female_23250
+N_metabolism	OG0007082	1	1	0	1	1	1	1	2	1	1	1	Nitrogen metabolism	AT3G23490.1	Mp4g02900.1.cds	Lc_female_04281
+N_metabolism	OG0007335	1	1	1	1	1	1	1	1	1	1	1	Arginine biosynthesis	AT2G37500.1	Mp2g15300.1.cds	Lc_female_02699
+N_metabolism	OG0007407	0	1	1	1	1	1	1	2	1	1	1	Alanine, aspartate and glutamate metabolism; Pyrimidine metabolism	AT3G20330.2	Mp6g11830.2.cds	Lc_female_24977
+N_metabolism	OG0007558	1	1	2	1	1	1	0	1	0	1	1	Glutathione metabolism	AT3G54660.1	Mp1g20690.1.cds	Lc_female_15710
+N_metabolism	OG0007731	1	1	1	1	1	1	1	1	0	1	1	Arginine and proline metabolism	AT5G14800.1	Mp1g01550.2.cds	Lc_female_22414
+N_metabolism	OG0007735	1	1	1	1	1	1	1	2	0	1	0	Glycine, serine and threonine metabolism; Glyoxylate and dicarboxylate metabolism	AT1G68010.2	Mp2g07580.1.cds	Lc_female_19712
+N_metabolism	OG0007801	1	1	1	1	1	1	0	1	1	1	1	Tyrosine metabolism	AT5G54080.2	Mp5g00020.1.cds	Lc_female_00447
+N_metabolism	OG0007868	0	1	1	1	1	1	1	1	1	1	1	Pantothenate and CoA biosynthesis; Pyrimidine metabolism; beta-Alanine metabolism	AT5G64370.1	Mp3g05330.1.cds	Lc_female_12732

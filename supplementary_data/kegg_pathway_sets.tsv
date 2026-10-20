@@ -1,0 +1,73 @@
+Set	KEGG pathway	Description
+Carbon, carbohydrates	ath00010	Glycolysis / Gluconeogenesis
+Carbon, carbohydrates	ath00020	Citrate cycle (TCA cycle)
+Carbon, carbohydrates	ath00030	Pentose phosphate pathway
+Carbon, carbohydrates	ath00040	Pentose and glucuronate interconversions
+Carbon, carbohydrates	ath00051	Fructose and mannose metabolism
+Carbon, carbohydrates	ath00052	Galactose metabolism
+Carbon, carbohydrates	ath00053	Ascorbate and aldarate metabolism
+Carbon, carbohydrates	ath00500	Starch and sucrose metabolism
+Carbon, carbohydrates	ath00520	Amino sugar and nucleotide sugar metabolism
+Carbon, carbohydrates	ath00562	Inositol phosphate metabolism
+Carbon, carbohydrates	ath00620	Pyruvate metabolism
+Carbon, carbohydrates	ath00630	Glyoxylate and dicarboxylate metabolism
+Carbon, carbohydrates	ath00640	Propanoate metabolism
+Carbon, carbohydrates	ath00650	Butanoate metabolism
+Carbon, carbohydrates	ath00660	C5-Branched dibasic acid metabolism
+Carbon, energy	ath00190	Oxidative phosphorylation
+Carbon, energy	ath00195	Photosynthesis
+Carbon, energy	ath00196	Photosynthesis - antenna proteins
+Carbon, energy	ath00710	Carbon fixation in photosynthetic organisms
+Carbon, energy	ath00720	Carbon fixation pathways in prokaryotes
+Nitrogen, amino acids	ath00220	Arginine biosynthesis
+Nitrogen, amino acids	ath00250	Alanine, aspartate and glutamate metabolism
+Nitrogen, amino acids	ath00260	Glycine, serine and threonine metabolism
+Nitrogen, amino acids	ath00270	Cysteine and methionine metabolism
+Nitrogen, amino acids	ath00280	Valine, leucine and isoleucine degradation
+Nitrogen, amino acids	ath00290	Valine, leucine and isoleucine biosynthesis
+Nitrogen, amino acids	ath00300	Lysine biosynthesis
+Nitrogen, amino acids	ath00310	Lysine degradation
+Nitrogen, amino acids	ath00330	Arginine and proline metabolism
+Nitrogen, amino acids	ath00340	Histidine metabolism
+Nitrogen, amino acids	ath00350	Tyrosine metabolism
+Nitrogen, amino acids	ath00360	Phenylalanine metabolism
+Nitrogen, amino acids	ath00380	Tryptophan metabolism
+Nitrogen, amino acids	ath00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+Nitrogen, amino acids	ath00410	beta-Alanine metabolism
+Nitrogen, amino acids	ath00430	Taurine and hypotaurine metabolism
+Nitrogen, amino acids	ath00460	Cyanoamino acid metabolism
+Nitrogen, amino acids	ath00470	D-Amino acid metabolism
+Nitrogen, amino acids	ath00480	Glutathione metabolism
+Nitrogen, assimilation	ath00910	Nitrogen metabolism
+Lipids	ath00061	Fatty acid biosynthesis
+Lipids	ath00062	Fatty acid elongation
+Lipids	ath00071	Fatty acid degradation
+Lipids	ath00072	Synthesis and degradation of ketone bodies
+Lipids	ath00100	Steroid biosynthesis
+Lipids	ath00120	Primary bile acid biosynthesis
+Lipids	ath00121	Secondary bile acid biosynthesis
+Lipids	ath00130	Ubiquinone and other terpenoid-quinone biosynthesis
+Lipids	ath00561	Glycerolipid metabolism
+Lipids	ath00564	Glycerophospholipid metabolism
+Lipids	ath00565	Ether lipid metabolism
+Lipids	ath00590	Arachidonic acid metabolism
+Lipids	ath00591	Linoleic acid metabolism
+Lipids	ath00592	alpha-Linolenic acid metabolism
+Lipids	ath00600	Sphingolipid metabolism
+Nucleotides	ath00230	Purine metabolism
+Nucleotides	ath00240	Pyrimidine metabolism
+Cofactors	ath00730	Thiamine metabolism
+Cofactors	ath00740	Riboflavin metabolism
+Cofactors	ath00750	Vitamin B6 metabolism
+Cofactors	ath00760	Nicotinate and nicotinamide metabolism
+Cofactors	ath00770	Pantothenate and CoA biosynthesis
+Cofactors	ath00780	Biotin metabolism
+Cofactors	ath00785	Lipoic acid metabolism
+Cofactors	ath00790	Folate biosynthesis
+Cofactors	ath00860	Porphyrin metabolism
+Cofactors	ath00130	Ubiquinone biosynthesis
+Regulatory context	ath04075	Plant hormone signal transduction
+Regulatory context	ath04016	MAPK signaling pathway - plant
+Regulatory context	ath04712	Circadian rhythm - plant
+Regulatory context	ath04626	Plant-pathogen interaction (receptor-mediated immune signaling)
+Regulatory context	ath04070	Phosphatidylinositol signaling system

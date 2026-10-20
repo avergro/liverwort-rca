@@ -1,0 +1,6 @@
+context	rank
+C_metabolism	0.26
+N_metabolism	0.06
+primary_metabolism	0.27
+regulatory_networks	0.54
+whole_genome	1.0

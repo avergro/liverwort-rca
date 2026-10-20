@@ -1,0 +1,17 @@
+# BUSCO version is: 6.0.0 
+# The lineage dataset is: embryophyta_odb10 (Creation date: 2024-01-08, number of genomes: 50, number of BUSCOs: 1614)
+# Summarized benchmarking in BUSCO notation for file ./data/proteomes/filtered/Mpolymorpha.primary.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:87.4%[S:86.1%,D:1.2%],F:1.1%,M:11.6%,n:1614	   
+	1410	Complete BUSCOs (C)			   
+	1390	Complete and single-copy BUSCOs (S)	   
+	20	Complete and duplicated BUSCOs (D)	   
+	17	Fragmented BUSCOs (F)			   
+	187	Missing BUSCOs (M)			   
+	1614	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4

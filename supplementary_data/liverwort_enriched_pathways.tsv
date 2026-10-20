@@ -1,0 +1,95 @@
+Context	KEGG pathway	Liverwort-enriched orthogroups	Context orthogroups	Fold, context	q, context	Fold, permutation null	q, permutation null	Odds ratio, stratified	q, stratified
+Carbon metabolism	Oxidative phosphorylation	15	69	1.004	0.8917	1.095	0.6263	0.9877	0.9901
+Carbon metabolism	Starch and sucrose metabolism	11	39	1.303	0.8917	1.28	0.6263	3.311	0.7135
+Carbon metabolism	Glycolysis / Gluconeogenesis	9	50	0.8314	0.8917	0.8554	0.6263	1.16	0.9901
+Carbon metabolism	Photosynthesis	9	32	1.299	0.8917	1.092	0.6263	1.075	0.9901
+Carbon metabolism	Amino sugar and nucleotide sugar metabolism	9	43	0.9668	0.8917	0.8947	0.6263	1.215	0.9901
+Carbon metabolism	Pyruvate metabolism	8	47	0.7862	0.8917	0.842	0.6263	1.215	0.9901
+Carbon metabolism	Glyoxylate and dicarboxylate metabolism	7	38	0.8509	0.8917	0.8207	0.6263	1.69	0.9901
+Carbon metabolism	Propanoate metabolism	7	25	1.293	0.8917	1.223	0.6263	1.264	0.9901
+Carbon metabolism	Pentose phosphate pathway	6	25	1.109	0.8917	1.16	0.6263	0.9785	0.9901
+Carbon metabolism	Inositol phosphate metabolism	6	28	0.9898	0.8917	1.084	0.6263	1.823	0.9901
+Carbon metabolism	Citrate cycle (TCA cycle)	5	30	0.7698	0.8917	0.7488	0.6263	1.243	0.9901
+Carbon metabolism	Butanoate metabolism	5	14	1.65	0.8917	1.538	0.6263	1.388	0.9901
+Carbon metabolism	Carbon fixation by Calvin cycle	5	32	0.7217	0.8917	0.7875	0.6263	0.9386	0.9901
+Carbon metabolism	Lipoic acid metabolism	5	18	1.283	0.8917	1.244	0.6263	1.647	0.9901
+Carbon metabolism	Lysosome biogenesis	5	17	1.359	0.8917	1.317	0.6263	3.268	0.7135
+Carbon metabolism	Phagocytosis	5	16	1.443	0.8917	1.399	0.6263	2.723	0.9215
+Carbon metabolism	Galactose metabolism	4	16	1.155	0.8917	1.136	0.6263	2.898	0.9215
+Carbon metabolism	Ascorbate and aldarate metabolism	4	24	0.7698	0.8917	0.8048	0.6263	1.388	0.9901
+Carbon metabolism	Valine, leucine and isoleucine degradation	4	17	1.087	0.8917	1.071	0.6263	1.099	0.9901
+Carbon metabolism	beta-Alanine metabolism	4	16	1.155	0.8917	1.221	0.6263	1.014	0.9901
+Carbon metabolism	Pentose and glucuronate interconversions	3	18	0.7698	0.8917	0.7777	0.6263	1.035	0.9901
+Carbon metabolism	Fructose and mannose metabolism	3	22	0.6299	0.8917	0.5937	0.6772	0.8036	0.9901
+Carbon metabolism	Photosynthesis - antenna proteins	3	9	1.54	0.8917	1.829	0.6263	2.581	0.9901
+Carbon metabolism	Glycine, serine and threonine metabolism	3	17	0.8151	0.8917	0.7346	0.6263	1.204	0.9901
+Carbon metabolism	Phosphatidylinositol signaling system	3	18	0.7698	0.8917	0.8577	0.6263	2.095	0.9901
+Carbon metabolism	Peroxisome	3	11	1.26	0.8917	1.27	0.6263	2.646	0.9215
+Nitrogen metabolism	Cysteine and methionine metabolism	10	48	1.004	0.7339	0.9749	0.6191	1.55	0.9849
+Nitrogen metabolism	Arginine and proline metabolism	8	29	1.33	0.7114	1.61	0.6191	2.622	0.9849
+Nitrogen metabolism	Alanine, aspartate and glutamate metabolism	7	28	1.205	0.7114	1.163	0.6191	1.113	0.9849
+Nitrogen metabolism	Glycine, serine and threonine metabolism	7	36	0.9375	0.7955	0.9172	0.6191	1.628	0.9849
+Nitrogen metabolism	Valine, leucine and isoleucine degradation	7	27	1.25	0.7114	1.238	0.6191	1.149	0.9849
+Nitrogen metabolism	Glutathione metabolism	7	28	1.205	0.7114	1.26	0.6191	1.192	0.9849
+Nitrogen metabolism	Arginine biosynthesis	6	22	1.315	0.7114	1.309	0.6191	1.615	0.9849
+Nitrogen metabolism	beta-Alanine metabolism	6	24	1.205	0.7114	1.199	0.6191	1.469	0.9849
+Nitrogen metabolism	Pyrimidine metabolism	4	9	2.143	0.7114	2.546	0.6191	2.39	0.9849
+Nitrogen metabolism	Histidine metabolism	4	13	1.484	0.7114	1.52	0.6191	1.119	0.9849
+Nitrogen metabolism	Phenylalanine metabolism	4	16	1.205	0.7339	1.312	0.6191	2.51	0.9849
+Nitrogen metabolism	Propanoate metabolism	4	17	1.134	0.7339	1.089	0.6191	1.126	0.9849
+Nitrogen metabolism	Lysine degradation	3	19	0.7613	0.9027	0.8817	0.6191	2.41	0.9849
+Nitrogen metabolism	Tryptophan metabolism	3	29	0.4988	0.9648	0.5585	0.7191	0.7087	0.9849
+Nitrogen metabolism	Glyoxylate and dicarboxylate metabolism	3	23	0.6289	0.9505	0.6033	0.7191	1.424	0.9849
+Nitrogen metabolism	Butanoate metabolism	3	10	1.446	0.7114	1.388	0.6191	2.148	0.9849
+Nitrogen metabolism	Nitrogen metabolism	3	13	1.113	0.7339	1.106	0.6191	1.399	0.9849
+Primary metabolism	Purine metabolism	19	61	1.334	0.9732	1.293	0.7186	1.822	0.9378
+Primary metabolism	Porphyrin metabolism	19	39	2.087	0.01785	2.039	0.7186	2.098	0.9378
+Primary metabolism	Ubiquinone and other terpenoid-quinone biosynthesis	12	25	2.056	0.1379	2.1	0.7186	2.529	0.9378
+Primary metabolism	Oxidative phosphorylation	12	69	0.7449	0.9732	0.7968	0.7186	0.8178	0.9378
+Primary metabolism	Photosynthesis	9	32	1.205	0.9732	1.013	0.7186	1.433	0.9378
+Primary metabolism	Starch and sucrose metabolism	9	39	0.9884	0.9732	0.9921	0.7186	2.077	0.9378
+Primary metabolism	Pyrimidine metabolism	8	38	0.9017	0.9732	0.9676	0.7186	0.8984	0.9734
+Primary metabolism	Valine, leucine and isoleucine degradation	8	27	1.269	0.9732	1.212	0.7186	1.382	0.9378
+Primary metabolism	Arginine and proline metabolism	8	29	1.182	0.9732	1.476	0.7186	2.49	0.9378
+Primary metabolism	Glutathione metabolism	8	28	1.224	0.9732	1.261	0.7186	1.387	0.9378
+Primary metabolism	Glycolysis / Gluconeogenesis	7	50	0.5996	0.9732	0.6382	0.7186	0.9944	0.9378
+Primary metabolism	Cysteine and methionine metabolism	7	48	0.6246	0.9732	0.5921	0.7186	0.6705	0.9378
+Primary metabolism	beta-Alanine metabolism	7	24	1.249	0.9732	1.208	0.7186	2.195	0.9378
+Primary metabolism	Amino sugar and nucleotide sugar metabolism	7	43	0.6972	0.9732	0.6579	0.7186	0.9228	0.9734
+Primary metabolism	Glycerophospholipid metabolism	7	51	0.5879	0.9732	0.5897	0.7186	0.7343	0.9378
+Primary metabolism	Pyruvate metabolism	7	47	0.6379	0.9732	0.7069	0.7186	1.227	0.9378
+Primary metabolism	Glyoxylate and dicarboxylate metabolism	7	38	0.789	0.9732	0.7748	0.7186	2.15	0.9378
+Primary metabolism	Propanoate metabolism	7	25	1.199	0.9732	1.146	0.7186	1.839	0.9378
+Primary metabolism	Lipoic acid metabolism	7	22	1.363	0.9732	1.556	0.7186	2.312	0.9378
+Primary metabolism	Arginine biosynthesis	6	22	1.168	0.9732	1.118	0.7186	1.273	0.9378
+Primary metabolism	Alanine, aspartate and glutamate metabolism	6	28	0.9178	0.9732	0.8784	0.7186	0.722	0.9378
+Primary metabolism	Glycine, serine and threonine metabolism	6	36	0.7138	0.9732	0.6934	0.7186	1.138	0.9734
+Primary metabolism	Inositol phosphate metabolism	6	28	0.9178	0.9732	1.031	0.7186	2.322	0.9378
+Primary metabolism	Folate biosynthesis	6	19	1.353	0.9732	1.248	0.7186	2.205	0.9378
+Primary metabolism	Citrate cycle (TCA cycle)	5	30	0.7138	0.9732	0.7362	0.7186	1.651	0.9378
+Primary metabolism	Glycerolipid metabolism	5	36	0.5949	0.9732	0.6355	0.7186	0.9826	0.9378
+Primary metabolism	Butanoate metabolism	5	14	1.53	0.9732	1.445	0.7186	1.989	0.9378
+Primary metabolism	Carbon fixation by Calvin cycle	5	32	0.6692	0.9732	0.7291	0.7186	1.319	0.9734
+Primary metabolism	Nicotinate and nicotinamide metabolism	5	19	1.127	0.9732	1.167	0.7186	1.637	0.9378
+Primary metabolism	Ascorbate and aldarate metabolism	4	24	0.7138	0.9732	0.775	0.7186	1.785	0.9378
+Primary metabolism	Steroid biosynthesis	4	17	1.008	0.9732	0.8811	0.7186	1.886	0.9378
+Primary metabolism	Phenylalanine metabolism	4	16	1.071	0.9732	1.071	0.7186	2.467	0.9378
+Primary metabolism	Tryptophan metabolism	4	29	0.5908	0.9732	0.6597	0.7186	1.204	0.9888
+Primary metabolism	One carbon pool by folate	4	17	1.008	0.9732	0.9517	0.7186	1.824	0.9378
+Primary metabolism	Riboflavin metabolism	4	13	1.318	0.9732	1.265	0.7186	1.117	0.9378
+Primary metabolism	Phenylpropanoid biosynthesis	4	12	1.428	0.9732	1.497	0.7186	5.478	0.1029
+Primary metabolism	Lysosome biogenesis	4	22	0.7787	0.9732	0.7378	0.7186	1.89	0.9378
+Primary metabolism	Phagocytosis	4	16	1.071	0.9732	1.013	0.7186	1.856	0.9378
+Primary metabolism	Pentose phosphate pathway	3	25	0.514	0.9732	0.5268	0.7186	0.4606	0.9378
+Primary metabolism	Pentose and glucuronate interconversions	3	18	0.7138	0.9732	0.7283	0.7186	1.411	0.9734
+Primary metabolism	Fructose and mannose metabolism	3	22	0.584	0.9732	0.5507	0.7186	1.029	0.9378
+Primary metabolism	Galactose metabolism	3	16	0.8031	0.9732	0.8104	0.7186	2.286	0.9378
+Primary metabolism	Fatty acid biosynthesis	3	21	0.6119	0.9732	0.6778	0.7186	1.415	0.9378
+Primary metabolism	Histidine metabolism	3	13	0.9884	0.9732	1.04	0.7186	0.5882	0.9378
+Primary metabolism	Biosynthesis of various nucleotide sugars	3	9	1.428	0.9732	1.353	0.7186	2.345	0.9378
+Primary metabolism	Sphingolipid metabolism	3	17	0.7558	0.9732	0.8124	0.7186	1.974	0.9378
+Primary metabolism	Vitamin B6 metabolism	3	9	1.428	0.9732	1.843	0.7186	1.939	0.9378
+Primary metabolism	Pantothenate and CoA biosynthesis	3	22	0.584	0.9732	0.54	0.7186	1.033	0.9378
+Primary metabolism	Biotin metabolism	3	11	1.168	0.9732	1.26	0.7186	2.037	0.9378
+Primary metabolism	Phosphatidylinositol signaling system	3	22	0.584	0.9732	0.6342	0.7186	2.11	0.9378
+Primary metabolism	Peroxisome	3	19	0.6763	0.9732	0.7	0.7186	2.106	0.9378

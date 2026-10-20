@@ -1,0 +1,5 @@
+Context	KEGG orthogroups	Gene Ontology orthogroups	Shared	Jaccard	Share of KEGG in Gene Ontology
+Primary metabolism	921	2845	822	0.279	0.893
+Carbon metabolism	395	1306	273	0.191	0.691
+Nitrogen metabolism	273	531	182	0.293	0.667
+Regulatory context	173	1051	116	0.105	0.671

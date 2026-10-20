@@ -1,0 +1,631 @@
+set	context	depth	species	mean_rank	sd_rank	frac_top2
+all_species	C_metabolism	12702	Afiliculoides	5.17	1.4842948875244817	0.04
+all_species	C_metabolism	12702	Athaliana	8.58	1.92369593766948	0.02
+all_species	C_metabolism	12702	Creinhardtii	4.09	0.9221735413706253	0.03
+all_species	C_metabolism	12702	Lcruciata	3.24	1.457270175237373	0.35
+all_species	C_metabolism	12702	Mpolymorpha	1.44	0.924634790038475	0.91
+all_species	C_metabolism	12702	Pabies	10.33	1.1981045636565053	0.0
+all_species	C_metabolism	12702	Pamericana	8.91	1.334052836171405	0.0
+all_species	C_metabolism	12702	Ppatens	2.41	1.1290024201242728	0.63
+all_species	C_metabolism	12702	Scucullata	5.93	1.281216278196289	0.01
+all_species	C_metabolism	12702	Slycopersicum	9.36	1.030053445705659	0.0
+all_species	C_metabolism	12702	Smoellendorffii	6.54	1.4731262709289419	0.01
+all_species	C_metabolism	14160	Afiliculoides	4.62	1.7853500350000688	0.12
+all_species	C_metabolism	14160	Athaliana	8.51	1.9771165618116446	0.0
+all_species	C_metabolism	14160	Creinhardtii	4.22	0.746439359339871	0.01
+all_species	C_metabolism	14160	Lcruciata	3.79	1.7482747628632769	0.23
+all_species	C_metabolism	14160	Mpolymorpha	1.3	0.6590473688161076	0.91
+all_species	C_metabolism	14160	Pabies	10.38	1.0028242945085475	0.0
+all_species	C_metabolism	14160	Pamericana	8.95	1.2663077641455707	0.0
+all_species	C_metabolism	14160	Ppatens	2.5	1.1236664374387368	0.67
+all_species	C_metabolism	14160	Scucullata	5.64	1.425028796448363	0.05
+all_species	C_metabolism	14160	Slycopersicum	9.42	0.9120960431441374	0.0
+all_species	C_metabolism	14160	Smoellendorffii	6.67	1.2476644848141936	0.01
+all_species	C_metabolism	17455	Afiliculoides	8.2	1.5954480704349314	0.02
+all_species	C_metabolism	17455	Athaliana	10.66	1.350046763125731	0.01
+all_species	C_metabolism	17455	Creinhardtii	4.52	0.8224133002108103	0.0
+all_species	C_metabolism	17455	Lcruciata	1.56	1.4586558085020496	0.95
+all_species	C_metabolism	17455	Mpolymorpha	1.88	1.0662878115076142	0.96
+all_species	C_metabolism	17455	Pabies	6.95	2.0319418984773847	0.01
+all_species	C_metabolism	17455	Pamericana	7.21	1.8438815010458212	0.0
+all_species	C_metabolism	17455	Ppatens	4.89	1.5627934067954192	0.03
+all_species	C_metabolism	17455	Scucullata	7.56	1.67162897628135	0.01
+all_species	C_metabolism	17455	Slycopersicum	8.94	1.331968998941572	0.0
+all_species	C_metabolism	17455	Smoellendorffii	3.63	1.2922066320051062	0.01
+all_species	C_metabolism	24542	Afiliculoides	6.86	0.3765875486765088	0.0
+all_species	C_metabolism	24542	Athaliana	9.03	0.9791255632894427	0.0
+all_species	C_metabolism	24542	Creinhardtii	3.65	0.47937248544110234	0.0
+all_species	C_metabolism	24542	Lcruciata	1.99	0.09999999999999999	1.0
+all_species	C_metabolism	24542	Mpolymorpha	1.01	0.09999999999999999	1.0
+all_species	C_metabolism	24542	Pabies	9.5	1.2431631210161218	0.0
+all_species	C_metabolism	24542	Pamericana	9.34	1.0937840903778204	0.0
+all_species	C_metabolism	24542	Ppatens	3.4	0.5685352436149612	0.0
+all_species	C_metabolism	24542	Scucullata	5.81	0.48606854070452477	0.0
+all_species	C_metabolism	24542	Slycopersicum	10.13	0.8367203894378396	0.0
+all_species	C_metabolism	24542	Smoellendorffii	5.28	0.7118052168020875	0.0
+all_species	C_metabolism	34211	Afiliculoides	5.81	0.5259911279353167	0.0
+all_species	C_metabolism	34211	Athaliana	8.05	0.21904291355759042	0.0
+all_species	C_metabolism	34211	Creinhardtii	3.76	0.42923469599092795	0.0
+all_species	C_metabolism	34211	Lcruciata	2.46	0.5009082659620331	0.54
+all_species	C_metabolism	34211	Mpolymorpha	1.0	0.0	1.0
+all_species	C_metabolism	34211	Pabies	11.0	0.0	0.0
+all_species	C_metabolism	34211	Pamericana	9.11	0.447100648511037	0.0
+all_species	C_metabolism	34211	Ppatens	5.29	0.5558685986722932	0.0
+all_species	C_metabolism	34211	Scucullata	6.89	0.3450955072018602	0.0
+all_species	C_metabolism	34211	Slycopersicum	9.84	0.3684529491774704	0.0
+all_species	C_metabolism	34211	Smoellendorffii	2.79	0.8323630715188433	0.46
+all_species	C_metabolism	none	Afiliculoides	6.0		0.0
+all_species	C_metabolism	none	Athaliana	8.0		0.0
+all_species	C_metabolism	none	Creinhardtii	4.0		0.0
+all_species	C_metabolism	none	Lcruciata	2.0		1.0
+all_species	C_metabolism	none	Mpolymorpha	1.0		1.0
+all_species	C_metabolism	none	Pabies	11.0		0.0
+all_species	C_metabolism	none	Pamericana	9.0		0.0
+all_species	C_metabolism	none	Ppatens	5.0		0.0
+all_species	C_metabolism	none	Scucullata	7.0		0.0
+all_species	C_metabolism	none	Slycopersicum	10.0		0.0
+all_species	C_metabolism	none	Smoellendorffii	3.0		0.0
+all_species	N_metabolism	12702	Afiliculoides	3.43	1.6345697237555155	0.34
+all_species	N_metabolism	12702	Athaliana	8.65	0.8572330399888264	0.0
+all_species	N_metabolism	12702	Creinhardtii	3.86	1.3560191292116344	0.17
+all_species	N_metabolism	12702	Lcruciata	3.28	1.949255232029905	0.43
+all_species	N_metabolism	12702	Mpolymorpha	5.81	1.3535960336164632	0.04
+all_species	N_metabolism	12702	Pabies	9.11	1.2382375875543121	0.0
+all_species	N_metabolism	12702	Pamericana	10.77	0.7634980634744878	0.0
+all_species	N_metabolism	12702	Ppatens	2.25	1.4025589888385146	0.64
+all_species	N_metabolism	12702	Scucullata	3.91	1.7413277182145304	0.24
+all_species	N_metabolism	12702	Slycopersicum	9.12	1.103529690483123	0.0
+all_species	N_metabolism	12702	Smoellendorffii	5.81	2.1820896295787557	0.14
+all_species	N_metabolism	14160	Afiliculoides	3.32	1.6689681079800613	0.36
+all_species	N_metabolism	14160	Athaliana	8.47	0.77139516789419	0.0
+all_species	N_metabolism	14160	Creinhardtii	3.91	1.1555312740261618	0.13
+all_species	N_metabolism	14160	Lcruciata	3.25	1.9299604852813625	0.45
+all_species	N_metabolism	14160	Mpolymorpha	5.71	1.4927095558687287	0.05
+all_species	N_metabolism	14160	Pabies	9.28	1.2150570506620821	0.0
+all_species	N_metabolism	14160	Pamericana	10.79	0.5182526976156115	0.0
+all_species	N_metabolism	14160	Ppatens	2.12	1.401874646768578	0.75
+all_species	N_metabolism	14160	Scucullata	3.86	1.5828627689899544	0.19
+all_species	N_metabolism	14160	Slycopersicum	9.25	0.9360890055238477	0.0
+all_species	N_metabolism	14160	Smoellendorffii	6.04	1.8030277565553698	0.07
+all_species	N_metabolism	17455	Afiliculoides	4.3	1.243163121016122	0.06
+all_species	N_metabolism	17455	Athaliana	8.74	0.705247288100945	0.0
+all_species	N_metabolism	17455	Creinhardtii	4.84	1.0609696346533983	0.02
+all_species	N_metabolism	17455	Lcruciata	2.55	1.1225422086055428	0.67
+all_species	N_metabolism	17455	Mpolymorpha	1.19	0.5807518637703432	0.96
+all_species	N_metabolism	17455	Pabies	8.88	1.0178210038899747	0.0
+all_species	N_metabolism	17455	Pamericana	10.91	0.3208259542638235	0.0
+all_species	N_metabolism	17455	Ppatens	3.24	1.2318992481431903	0.27
+all_species	N_metabolism	17455	Scucullata	4.95	1.0286305498481014	0.01
+all_species	N_metabolism	17455	Slycopersicum	9.35	0.9142530206997329	0.0
+all_species	N_metabolism	17455	Smoellendorffii	7.05	0.7436600722307896	0.01
+all_species	N_metabolism	24542	Afiliculoides	3.16	0.486587789373795	0.0
+all_species	N_metabolism	24542	Athaliana	8.05	0.21904291355759034	0.0
+all_species	N_metabolism	24542	Creinhardtii	4.31	0.7063206700139031	0.0
+all_species	N_metabolism	24542	Lcruciata	1.04	0.19694638556693236	1.0
+all_species	N_metabolism	24542	Mpolymorpha	1.96	0.19694638556693236	1.0
+all_species	N_metabolism	24542	Pabies	9.65	0.5388914922357194	0.0
+all_species	N_metabolism	24542	Pamericana	10.99	0.10000000000000003	0.0
+all_species	N_metabolism	24542	Ppatens	5.75	0.5388914922357191	0.0
+all_species	N_metabolism	24542	Scucullata	4.78	0.718865548463464	0.0
+all_species	N_metabolism	24542	Slycopersicum	9.3	0.5595813731096783	0.0
+all_species	N_metabolism	24542	Smoellendorffii	7.01	0.09999999999999992	0.0
+all_species	N_metabolism	34211	Afiliculoides	4.72	0.8297498710363553	0.0
+all_species	N_metabolism	34211	Athaliana	8.36	0.48241815132442184	0.0
+all_species	N_metabolism	34211	Creinhardtii	4.11	0.5842201051942079	0.0
+all_species	N_metabolism	34211	Lcruciata	1.04	0.1969463855669324	1.0
+all_species	N_metabolism	34211	Mpolymorpha	1.96	0.1969463855669324	1.0
+all_species	N_metabolism	34211	Pabies	10.0	0.0	0.0
+all_species	N_metabolism	34211	Pamericana	11.0	0.0	0.0
+all_species	N_metabolism	34211	Ppatens	3.36	0.7038135657640704	0.0
+all_species	N_metabolism	34211	Scucullata	5.82	0.5389852043470678	0.0
+all_species	N_metabolism	34211	Slycopersicum	8.64	0.48241815132442184	0.0
+all_species	N_metabolism	34211	Smoellendorffii	6.99	0.09999999999999991	0.0
+all_species	N_metabolism	none	Afiliculoides	5.0		0.0
+all_species	N_metabolism	none	Athaliana	8.0		0.0
+all_species	N_metabolism	none	Creinhardtii	3.0		0.0
+all_species	N_metabolism	none	Lcruciata	1.0		1.0
+all_species	N_metabolism	none	Mpolymorpha	2.0		1.0
+all_species	N_metabolism	none	Pabies	11.0		0.0
+all_species	N_metabolism	none	Pamericana	10.0		0.0
+all_species	N_metabolism	none	Ppatens	4.0		0.0
+all_species	N_metabolism	none	Scucullata	6.0		0.0
+all_species	N_metabolism	none	Slycopersicum	9.0		0.0
+all_species	N_metabolism	none	Smoellendorffii	7.0		0.0
+all_species	primary_metabolism	12702	Afiliculoides	4.86	1.6997920253057224	0.12
+all_species	primary_metabolism	12702	Athaliana	8.06	0.6936945446031137	0.0
+all_species	primary_metabolism	12702	Creinhardtii	4.29	1.1036669824185232	0.05
+all_species	primary_metabolism	12702	Lcruciata	3.65	1.6598344812210963	0.25
+all_species	primary_metabolism	12702	Mpolymorpha	1.42	0.6989169110021936	0.9
+all_species	primary_metabolism	12702	Pabies	10.8	0.5124707431905382	0.0
+all_species	primary_metabolism	12702	Pamericana	9.75	0.6871842709362768	0.0
+all_species	primary_metabolism	12702	Ppatens	2.65	1.282161999881214	0.56
+all_species	primary_metabolism	12702	Scucullata	5.52	1.2100588515615365	0.02
+all_species	primary_metabolism	12702	Slycopersicum	9.27	0.6794977348874474	0.0
+all_species	primary_metabolism	12702	Smoellendorffii	5.73	1.9324710720847658	0.1
+all_species	primary_metabolism	14160	Afiliculoides	4.59	1.848258803863952	0.17
+all_species	primary_metabolism	14160	Athaliana	8.31	1.3157553424600337	0.01
+all_species	primary_metabolism	14160	Creinhardtii	4.54	1.1319064100941039	0.03
+all_species	primary_metabolism	14160	Lcruciata	3.53	2.081447631439293	0.42
+all_species	primary_metabolism	14160	Mpolymorpha	1.56	0.902521719708426	0.88
+all_species	primary_metabolism	14160	Pabies	10.53	0.9893881386437221	0.0
+all_species	primary_metabolism	14160	Pamericana	9.68	0.7504880566886613	0.0
+all_species	primary_metabolism	14160	Ppatens	2.97	1.2906423113154066	0.38
+all_species	primary_metabolism	14160	Scucullata	5.77	1.221482788261956	0.02
+all_species	primary_metabolism	14160	Slycopersicum	9.24	0.8302366706505618	0.0
+all_species	primary_metabolism	14160	Smoellendorffii	5.28	1.9126373985107106	0.09
+all_species	primary_metabolism	17455	Afiliculoides	7.3	1.020001980588293	0.01
+all_species	primary_metabolism	17455	Athaliana	10.55	1.5134080878613145	0.02
+all_species	primary_metabolism	17455	Creinhardtii	4.17	0.7920692756152946	0.01
+all_species	primary_metabolism	17455	Lcruciata	1.35	1.3132964154171267	0.97
+all_species	primary_metabolism	17455	Mpolymorpha	2.08	1.244624806554533	0.93
+all_species	primary_metabolism	17455	Pabies	7.64	1.9202272592775904	0.01
+all_species	primary_metabolism	17455	Pamericana	9.0	1.0730867399773194	0.0
+all_species	primary_metabolism	17455	Ppatens	4.53	0.9151364638537508	0.01
+all_species	primary_metabolism	17455	Scucullata	6.33	0.652191333393457	0.0
+all_species	primary_metabolism	17455	Slycopersicum	9.44	1.2170505828486013	0.01
+all_species	primary_metabolism	17455	Smoellendorffii	3.61	1.0530858934530931	0.03
+all_species	primary_metabolism	24542	Afiliculoides	5.03	0.17144660799776532	0.0
+all_species	primary_metabolism	24542	Athaliana	8.1	0.38924947208076155	0.0
+all_species	primary_metabolism	24542	Creinhardtii	3.73	0.4461960433384735	0.0
+all_species	primary_metabolism	24542	Lcruciata	1.3	0.4605661864718382	1.0
+all_species	primary_metabolism	24542	Mpolymorpha	1.7	0.4605661864718382	1.0
+all_species	primary_metabolism	24542	Pabies	10.82	0.6093546843285372	0.0
+all_species	primary_metabolism	24542	Pamericana	9.53	0.6269212893420538	0.0
+all_species	primary_metabolism	24542	Ppatens	6.18	0.41145221993924064	0.0
+all_species	primary_metabolism	24542	Scucullata	3.27	0.4461960433384735	0.0
+all_species	primary_metabolism	24542	Slycopersicum	9.55	0.6256309946079569	0.0
+all_species	primary_metabolism	24542	Smoellendorffii	6.79	0.45604802157206864	0.0
+all_species	primary_metabolism	34211	Afiliculoides	5.68	0.5839607015973773	0.0
+all_species	primary_metabolism	34211	Athaliana	8.82	0.38612291966536905	0.0
+all_species	primary_metabolism	34211	Creinhardtii	4.36	0.8470984344075708	0.0
+all_species	primary_metabolism	34211	Lcruciata	1.0	0.0	1.0
+all_species	primary_metabolism	34211	Mpolymorpha	2.04	0.19694638556693236	0.96
+all_species	primary_metabolism	34211	Pabies	10.99	0.10000000000000003	0.0
+all_species	primary_metabolism	34211	Pamericana	8.18	0.38612291966536905	0.0
+all_species	primary_metabolism	34211	Ppatens	7.0	0.0	0.0
+all_species	primary_metabolism	34211	Scucullata	4.49	0.7848952835000386	0.0
+all_species	primary_metabolism	34211	Slycopersicum	10.01	0.10000000000000003	0.0
+all_species	primary_metabolism	34211	Smoellendorffii	3.43	0.9770601131181565	0.04
+all_species	primary_metabolism	none	Afiliculoides	6.0		0.0
+all_species	primary_metabolism	none	Athaliana	9.0		0.0
+all_species	primary_metabolism	none	Creinhardtii	4.0		0.0
+all_species	primary_metabolism	none	Lcruciata	1.0		1.0
+all_species	primary_metabolism	none	Mpolymorpha	2.0		1.0
+all_species	primary_metabolism	none	Pabies	11.0		0.0
+all_species	primary_metabolism	none	Pamericana	8.0		0.0
+all_species	primary_metabolism	none	Ppatens	7.0		0.0
+all_species	primary_metabolism	none	Scucullata	5.0		0.0
+all_species	primary_metabolism	none	Slycopersicum	10.0		0.0
+all_species	primary_metabolism	none	Smoellendorffii	3.0		0.0
+all_species	regulatory_networks	12702	Afiliculoides	5.73	1.1178532817843134	0.03
+all_species	regulatory_networks	12702	Athaliana	9.19	0.9177816909936868	0.0
+all_species	regulatory_networks	12702	Creinhardtii	3.16	0.9818555922539747	0.19
+all_species	regulatory_networks	12702	Lcruciata	2.7	1.2987950904082934	0.57
+all_species	regulatory_networks	12702	Mpolymorpha	1.45	0.7833494518006403	0.91
+all_species	regulatory_networks	12702	Pabies	10.45	0.9679197729505719	0.0
+all_species	regulatory_networks	12702	Pamericana	9.77	0.8744984132332515	0.0
+all_species	regulatory_networks	12702	Ppatens	3.12	1.2000000000000002	0.3
+all_species	regulatory_networks	12702	Scucullata	6.31	0.8250497383231332	0.0
+all_species	regulatory_networks	12702	Slycopersicum	8.59	0.7666666666666667	0.0
+all_species	regulatory_networks	12702	Smoellendorffii	5.53	1.0488570017409475	0.0
+all_species	regulatory_networks	14160	Afiliculoides	5.73	0.9729160583347656	0.0
+all_species	regulatory_networks	14160	Athaliana	9.16	0.9398044069019487	0.0
+all_species	regulatory_networks	14160	Creinhardtii	3.15	0.9782999065065412	0.21
+all_species	regulatory_networks	14160	Lcruciata	2.4	0.9428090415820636	0.7
+all_species	regulatory_networks	14160	Mpolymorpha	1.21	0.4983812179284432	0.96
+all_species	regulatory_networks	14160	Pabies	10.42	0.9231041177035304	0.0
+all_species	regulatory_networks	14160	Pamericana	9.95	0.7833494518006398	0.0
+all_species	regulatory_networks	14160	Ppatens	3.59	0.9649933270298406	0.12
+all_species	regulatory_networks	14160	Scucullata	6.37	0.7608474807008885	0.01
+all_species	regulatory_networks	14160	Slycopersicum	8.47	0.6735253251633255	0.0
+all_species	regulatory_networks	14160	Smoellendorffii	5.55	1.122542208605543	0.0
+all_species	regulatory_networks	17455	Afiliculoides	5.75	0.6415731927193979	0.0
+all_species	regulatory_networks	17455	Athaliana	9.05	0.8689364217539192	0.0
+all_species	regulatory_networks	17455	Creinhardtii	3.59	0.6681045100608409	0.04
+all_species	regulatory_networks	17455	Lcruciata	2.0	0.5504818825631804	0.91
+all_species	regulatory_networks	17455	Mpolymorpha	1.19	0.4648231987117319	0.97
+all_species	regulatory_networks	17455	Pabies	10.38	0.9511290473150656	0.0
+all_species	regulatory_networks	17455	Pamericana	10.14	0.6033576087532206	0.0
+all_species	regulatory_networks	17455	Ppatens	3.37	0.8367203894378397	0.08
+all_species	regulatory_networks	17455	Scucullata	6.76	0.47396884353980967	0.0
+all_species	regulatory_networks	17455	Slycopersicum	8.43	0.6854181058288288	0.0
+all_species	regulatory_networks	17455	Smoellendorffii	5.34	0.8901254025828226	0.0
+all_species	regulatory_networks	24542	Afiliculoides	5.56	0.5915226030330453	0.0
+all_species	regulatory_networks	24542	Athaliana	9.23	0.6171783299088607	0.0
+all_species	regulatory_networks	24542	Creinhardtii	3.57	0.5366374921488416	0.0
+all_species	regulatory_networks	24542	Lcruciata	1.88	0.3561863092100632	0.99
+all_species	regulatory_networks	24542	Mpolymorpha	1.13	0.337997668989631	1.0
+all_species	regulatory_networks	24542	Pabies	10.41	0.8656754238130706	0.0
+all_species	regulatory_networks	24542	Pamericana	10.27	0.565953205047052	0.0
+all_species	regulatory_networks	24542	Ppatens	3.45	0.5198095999517709	0.01
+all_species	regulatory_networks	24542	Scucullata	6.76	0.47396884353980984	0.0
+all_species	regulatory_networks	24542	Slycopersicum	8.09	0.2876234912646614	0.0
+all_species	regulatory_networks	24542	Smoellendorffii	5.65	0.8087276451565163	0.0
+all_species	regulatory_networks	34211	Afiliculoides	5.83	0.6971080231639827	0.0
+all_species	regulatory_networks	34211	Athaliana	8.98	0.585687888751597	0.0
+all_species	regulatory_networks	34211	Creinhardtii	3.01	0.09999999999999999	0.0
+all_species	regulatory_networks	34211	Lcruciata	2.0	0.0	1.0
+all_species	regulatory_networks	34211	Mpolymorpha	1.0	0.0	1.0
+all_species	regulatory_networks	34211	Pabies	9.88	0.7146377199022386	0.0
+all_species	regulatory_networks	34211	Pamericana	10.88	0.3265986323710905	0.0
+all_species	regulatory_networks	34211	Ppatens	3.99	0.09999999999999999	0.0
+all_species	regulatory_networks	34211	Scucullata	6.23	0.8147007878585694	0.0
+all_species	regulatory_networks	34211	Slycopersicum	8.26	0.44084400227680837	0.0
+all_species	regulatory_networks	34211	Smoellendorffii	5.94	0.8855746294030922	0.0
+all_species	regulatory_networks	none	Afiliculoides	6.0		0.0
+all_species	regulatory_networks	none	Athaliana	9.0		0.0
+all_species	regulatory_networks	none	Creinhardtii	3.0		0.0
+all_species	regulatory_networks	none	Lcruciata	2.0		1.0
+all_species	regulatory_networks	none	Mpolymorpha	1.0		1.0
+all_species	regulatory_networks	none	Pabies	10.0		0.0
+all_species	regulatory_networks	none	Pamericana	11.0		0.0
+all_species	regulatory_networks	none	Ppatens	4.0		0.0
+all_species	regulatory_networks	none	Scucullata	7.0		0.0
+all_species	regulatory_networks	none	Slycopersicum	8.0		0.0
+all_species	regulatory_networks	none	Smoellendorffii	5.0		0.0
+all_species	whole_genome	12702	Afiliculoides	6.38	0.4878317312145634	0.0
+all_species	whole_genome	12702	Athaliana	9.0	0.0	0.0
+all_species	whole_genome	12702	Creinhardtii	3.0	0.0	0.0
+all_species	whole_genome	12702	Lcruciata	1.0	0.0	1.0
+all_species	whole_genome	12702	Mpolymorpha	2.0	0.0	1.0
+all_species	whole_genome	12702	Pabies	8.0	0.0	0.0
+all_species	whole_genome	12702	Pamericana	10.63	0.4852365870939097	0.0
+all_species	whole_genome	12702	Ppatens	4.02	0.1407052941362898	0.0
+all_species	whole_genome	12702	Scucullata	6.62	0.4878317312145634	0.0
+all_species	whole_genome	12702	Slycopersicum	10.37	0.4852365870939097	0.0
+all_species	whole_genome	12702	Smoellendorffii	4.98	0.1407052941362898	0.0
+all_species	whole_genome	14160	Afiliculoides	6.39	0.49020713000019694	0.0
+all_species	whole_genome	14160	Athaliana	9.0	0.0	0.0
+all_species	whole_genome	14160	Creinhardtii	3.0	0.0	0.0
+all_species	whole_genome	14160	Lcruciata	1.0	0.0	1.0
+all_species	whole_genome	14160	Mpolymorpha	2.0	0.0	1.0
+all_species	whole_genome	14160	Pabies	8.0	0.0	0.0
+all_species	whole_genome	14160	Pamericana	10.65	0.4793724854411023	0.0
+all_species	whole_genome	14160	Ppatens	4.06	0.23868325657594208	0.0
+all_species	whole_genome	14160	Scucullata	6.61	0.49020713000019694	0.0
+all_species	whole_genome	14160	Slycopersicum	10.35	0.4793724854411023	0.0
+all_species	whole_genome	14160	Smoellendorffii	4.94	0.23868325657594208	0.0
+all_species	whole_genome	17455	Afiliculoides	6.0	0.0	0.0
+all_species	whole_genome	17455	Athaliana	9.0	0.0	0.0
+all_species	whole_genome	17455	Creinhardtii	3.0	0.0	0.0
+all_species	whole_genome	17455	Lcruciata	1.0	0.0	1.0
+all_species	whole_genome	17455	Mpolymorpha	2.0	0.0	1.0
+all_species	whole_genome	17455	Pabies	8.0	0.0	0.0
+all_species	whole_genome	17455	Pamericana	10.51	0.5024183937956912	0.0
+all_species	whole_genome	17455	Ppatens	4.08	0.27265992434429065	0.0
+all_species	whole_genome	17455	Scucullata	7.0	0.0	0.0
+all_species	whole_genome	17455	Slycopersicum	10.49	0.5024183937956912	0.0
+all_species	whole_genome	17455	Smoellendorffii	4.92	0.27265992434429065	0.0
+all_species	whole_genome	24542	Afiliculoides	4.65	0.4793724854411024	0.0
+all_species	whole_genome	24542	Athaliana	9.0	0.0	0.0
+all_species	whole_genome	24542	Creinhardtii	3.0	0.0	0.0
+all_species	whole_genome	24542	Lcruciata	1.0	0.0	1.0
+all_species	whole_genome	24542	Mpolymorpha	2.0	0.0	1.0
+all_species	whole_genome	24542	Pabies	8.0	0.0	0.0
+all_species	whole_genome	24542	Pamericana	10.53	0.5016135580465922	0.0
+all_species	whole_genome	24542	Ppatens	7.0	0.0	0.0
+all_species	whole_genome	24542	Scucullata	4.35	0.4793724854411024	0.0
+all_species	whole_genome	24542	Slycopersicum	10.47	0.5016135580465922	0.0
+all_species	whole_genome	24542	Smoellendorffii	6.0	0.0	0.0
+all_species	whole_genome	34211	Afiliculoides	5.66	0.4760952285695234	0.0
+all_species	whole_genome	34211	Athaliana	9.0	0.0	0.0
+all_species	whole_genome	34211	Creinhardtii	3.0	0.0	0.0
+all_species	whole_genome	34211	Lcruciata	1.0	0.0	1.0
+all_species	whole_genome	34211	Mpolymorpha	2.0	0.0	1.0
+all_species	whole_genome	34211	Pabies	8.0	0.0	0.0
+all_species	whole_genome	34211	Pamericana	11.0	0.0	0.0
+all_species	whole_genome	34211	Ppatens	5.34	0.4760952285695234	0.0
+all_species	whole_genome	34211	Scucullata	7.0	0.0	0.0
+all_species	whole_genome	34211	Slycopersicum	10.0	0.0	0.0
+all_species	whole_genome	34211	Smoellendorffii	4.0	0.0	0.0
+all_species	whole_genome	none	Afiliculoides	5.0		0.0
+all_species	whole_genome	none	Athaliana	9.0		0.0
+all_species	whole_genome	none	Creinhardtii	3.0		0.0
+all_species	whole_genome	none	Lcruciata	1.0		1.0
+all_species	whole_genome	none	Mpolymorpha	2.0		1.0
+all_species	whole_genome	none	Pabies	8.0		0.0
+all_species	whole_genome	none	Pamericana	11.0		0.0
+all_species	whole_genome	none	Ppatens	7.0		0.0
+all_species	whole_genome	none	Scucullata	6.0		0.0
+all_species	whole_genome	none	Slycopersicum	10.0		0.0
+all_species	whole_genome	none	Smoellendorffii	4.0		0.0
+no_Chlamydomonas	C_metabolism	12702	Afiliculoides	4.09	1.5960494157054586	0.14
+no_Chlamydomonas	C_metabolism	12702	Athaliana	7.5	1.9720265943665385	0.04
+no_Chlamydomonas	C_metabolism	12702	Lcruciata	3.43	1.5325096601933244	0.31
+no_Chlamydomonas	C_metabolism	12702	Mpolymorpha	1.96	1.0241527663824808	0.78
+no_Chlamydomonas	C_metabolism	12702	Pabies	9.41	1.2956414892580699	0.01
+no_Chlamydomonas	C_metabolism	12702	Pamericana	7.82	1.3661122304783835	0.0
+no_Chlamydomonas	C_metabolism	12702	Ppatens	2.41	1.436149453408402	0.57
+no_Chlamydomonas	C_metabolism	12702	Scucullata	4.5	1.4459976109624426	0.1
+no_Chlamydomonas	C_metabolism	12702	Slycopersicum	8.26	1.0012113874823048	0.0
+no_Chlamydomonas	C_metabolism	12702	Smoellendorffii	5.62	1.5877052877685085	0.05
+no_Chlamydomonas	C_metabolism	14160	Afiliculoides	3.82	1.56592503400425	0.21
+no_Chlamydomonas	C_metabolism	14160	Athaliana	7.35	2.0955701232395305	0.05
+no_Chlamydomonas	C_metabolism	14160	Lcruciata	3.81	1.593515901801086	0.18
+no_Chlamydomonas	C_metabolism	14160	Mpolymorpha	1.81	0.9177816909936873	0.83
+no_Chlamydomonas	C_metabolism	14160	Pabies	9.44	1.2895853221211468	0.01
+no_Chlamydomonas	C_metabolism	14160	Pamericana	7.95	1.4240006242195888	0.01
+no_Chlamydomonas	C_metabolism	14160	Ppatens	2.54	1.5269961269489754	0.56
+no_Chlamydomonas	C_metabolism	14160	Scucullata	4.37	1.4400827697873422	0.13
+no_Chlamydomonas	C_metabolism	14160	Slycopersicum	8.21	0.8795660086863085	0.0
+no_Chlamydomonas	C_metabolism	14160	Smoellendorffii	5.7	1.3962431555767603	0.02
+no_Chlamydomonas	C_metabolism	17455	Afiliculoides	6.16	2.03861707928674	0.05
+no_Chlamydomonas	C_metabolism	17455	Athaliana	9.08	2.0630466829816574	0.03
+no_Chlamydomonas	C_metabolism	17455	Lcruciata	2.24	2.113544583648688	0.79
+no_Chlamydomonas	C_metabolism	17455	Mpolymorpha	2.26	1.5414803327196935	0.8
+no_Chlamydomonas	C_metabolism	17455	Pabies	6.39	2.561939763838204	0.03
+no_Chlamydomonas	C_metabolism	17455	Pamericana	6.59	1.7700938741299355	0.0
+no_Chlamydomonas	C_metabolism	17455	Ppatens	3.81	1.5419717142920517	0.16
+no_Chlamydomonas	C_metabolism	17455	Scucullata	6.34	2.1330492235058682	0.13
+no_Chlamydomonas	C_metabolism	17455	Slycopersicum	7.95	1.282161999881214	0.0
+no_Chlamydomonas	C_metabolism	17455	Smoellendorffii	4.18	1.290055202013629	0.01
+no_Chlamydomonas	C_metabolism	24542	Afiliculoides	5.83	0.5514901759246614	0.0
+no_Chlamydomonas	C_metabolism	24542	Athaliana	7.86	1.2634728474975772	0.0
+no_Chlamydomonas	C_metabolism	24542	Lcruciata	1.9	0.30151134457776363	1.0
+no_Chlamydomonas	C_metabolism	24542	Mpolymorpha	1.1	0.30151134457776363	1.0
+no_Chlamydomonas	C_metabolism	24542	Pabies	8.92	1.2527142249104262	0.0
+no_Chlamydomonas	C_metabolism	24542	Pamericana	8.12	1.0471703092456626	0.0
+no_Chlamydomonas	C_metabolism	24542	Ppatens	3.05	0.21904291355759034	0.0
+no_Chlamydomonas	C_metabolism	24542	Scucullata	4.86	0.6669696281304603	0.0
+no_Chlamydomonas	C_metabolism	24542	Slycopersicum	8.94	0.8506681865665158	0.0
+no_Chlamydomonas	C_metabolism	24542	Smoellendorffii	4.42	0.7936617603859909	0.0
+no_Chlamydomonas	C_metabolism	34211	Afiliculoides	4.89	0.7640270765734508	0.0
+no_Chlamydomonas	C_metabolism	34211	Athaliana	7.0	0.0	0.0
+no_Chlamydomonas	C_metabolism	34211	Lcruciata	2.73	0.4461960433384737	0.27
+no_Chlamydomonas	C_metabolism	34211	Mpolymorpha	1.45	0.5	1.0
+no_Chlamydomonas	C_metabolism	34211	Pabies	9.99	0.10000000000000012	0.0
+no_Chlamydomonas	C_metabolism	34211	Pamericana	8.87	0.3666666666666668	0.0
+no_Chlamydomonas	C_metabolism	34211	Ppatens	5.48	0.7847022210734308	0.0
+no_Chlamydomonas	C_metabolism	34211	Scucullata	4.63	0.6614187383758852	0.0
+no_Chlamydomonas	C_metabolism	34211	Slycopersicum	8.14	0.348735088019777	0.0
+no_Chlamydomonas	C_metabolism	34211	Smoellendorffii	1.82	0.833393937190243	0.73
+no_Chlamydomonas	C_metabolism	none	Afiliculoides	4.0		0.0
+no_Chlamydomonas	C_metabolism	none	Athaliana	7.0		0.0
+no_Chlamydomonas	C_metabolism	none	Lcruciata	3.0		0.0
+no_Chlamydomonas	C_metabolism	none	Mpolymorpha	2.0		1.0
+no_Chlamydomonas	C_metabolism	none	Pabies	10.0		0.0
+no_Chlamydomonas	C_metabolism	none	Pamericana	9.0		0.0
+no_Chlamydomonas	C_metabolism	none	Ppatens	6.0		0.0
+no_Chlamydomonas	C_metabolism	none	Scucullata	5.0		0.0
+no_Chlamydomonas	C_metabolism	none	Slycopersicum	8.0		0.0
+no_Chlamydomonas	C_metabolism	none	Smoellendorffii	1.0		1.0
+no_Chlamydomonas	N_metabolism	12702	Afiliculoides	3.21	1.5061825449081059	0.36
+no_Chlamydomonas	N_metabolism	12702	Athaliana	7.56	1.0760946974963672	0.0
+no_Chlamydomonas	N_metabolism	12702	Lcruciata	2.95	1.5464197817585434	0.46
+no_Chlamydomonas	N_metabolism	12702	Mpolymorpha	4.55	1.533300394903132	0.15
+no_Chlamydomonas	N_metabolism	12702	Pabies	7.93	1.6591040541889654	0.03
+no_Chlamydomonas	N_metabolism	12702	Pamericana	9.76	0.5526794237662065	0.0
+no_Chlamydomonas	N_metabolism	12702	Ppatens	2.27	1.441484924610309	0.6
+no_Chlamydomonas	N_metabolism	12702	Scucullata	3.51	1.500807863260398	0.3
+no_Chlamydomonas	N_metabolism	12702	Slycopersicum	8.23	1.0996326291957323	0.0
+no_Chlamydomonas	N_metabolism	12702	Smoellendorffii	5.03	1.7082982258033372	0.1
+no_Chlamydomonas	N_metabolism	14160	Afiliculoides	3.32	1.5946881522825402	0.34
+no_Chlamydomonas	N_metabolism	14160	Athaliana	7.42	0.9231041177035296	0.0
+no_Chlamydomonas	N_metabolism	14160	Lcruciata	2.71	1.4515404565390855	0.5
+no_Chlamydomonas	N_metabolism	14160	Mpolymorpha	4.6	1.4213381090374029	0.11
+no_Chlamydomonas	N_metabolism	14160	Pabies	7.98	1.8145316895897006	0.04
+no_Chlamydomonas	N_metabolism	14160	Pamericana	9.6	1.0540925533894598	0.01
+no_Chlamydomonas	N_metabolism	14160	Ppatens	2.18	1.3734863109855324	0.67
+no_Chlamydomonas	N_metabolism	14160	Scucullata	3.7	1.4736747170651912	0.2
+no_Chlamydomonas	N_metabolism	14160	Slycopersicum	8.38	0.9511290473150656	0.0
+no_Chlamydomonas	N_metabolism	14160	Smoellendorffii	5.11	1.7632327977297548	0.13
+no_Chlamydomonas	N_metabolism	17455	Afiliculoides	4.05	0.9031370691409838	0.03
+no_Chlamydomonas	N_metabolism	17455	Athaliana	7.61	0.8515582864088139	0.0
+no_Chlamydomonas	N_metabolism	17455	Lcruciata	1.86	0.7787584005740461	0.88
+no_Chlamydomonas	N_metabolism	17455	Mpolymorpha	1.45	0.6256309946079568	0.95
+no_Chlamydomonas	N_metabolism	17455	Pabies	8.21	0.9670845491747478	0.0
+no_Chlamydomonas	N_metabolism	17455	Pamericana	9.81	0.5259911279353163	0.0
+no_Chlamydomonas	N_metabolism	17455	Ppatens	3.36	1.0590638137601351	0.12
+no_Chlamydomonas	N_metabolism	17455	Scucullata	4.8	0.7913675671030662	0.0
+no_Chlamydomonas	N_metabolism	17455	Slycopersicum	8.29	0.8444112167838033	0.0
+no_Chlamydomonas	N_metabolism	17455	Smoellendorffii	5.56	1.1748199948085751	0.02
+no_Chlamydomonas	N_metabolism	24542	Afiliculoides	3.33	0.4725815626252609	0.0
+no_Chlamydomonas	N_metabolism	24542	Athaliana	7.11	0.3450955072018604	0.0
+no_Chlamydomonas	N_metabolism	24542	Lcruciata	1.03	0.1714466079977653	1.0
+no_Chlamydomonas	N_metabolism	24542	Mpolymorpha	1.97	0.1714466079977653	1.0
+no_Chlamydomonas	N_metabolism	24542	Pabies	8.64	0.5599422769673257	0.0
+no_Chlamydomonas	N_metabolism	24542	Pamericana	9.99	0.09999999999999998	0.0
+no_Chlamydomonas	N_metabolism	24542	Ppatens	3.71	0.537389875963326	0.0
+no_Chlamydomonas	N_metabolism	24542	Scucullata	4.99	0.2657180095628833	0.0
+no_Chlamydomonas	N_metabolism	24542	Slycopersicum	8.26	0.5794459213400124	0.0
+no_Chlamydomonas	N_metabolism	24542	Smoellendorffii	5.97	0.1714466079977653	0.0
+no_Chlamydomonas	N_metabolism	34211	Afiliculoides	4.45	0.519809599951771	0.0
+no_Chlamydomonas	N_metabolism	34211	Athaliana	7.0	0.0	0.0
+no_Chlamydomonas	N_metabolism	34211	Lcruciata	1.18	0.38612291966536927	1.0
+no_Chlamydomonas	N_metabolism	34211	Mpolymorpha	1.82	0.38612291966536927	1.0
+no_Chlamydomonas	N_metabolism	34211	Pabies	9.0	0.0	0.0
+no_Chlamydomonas	N_metabolism	34211	Pamericana	10.0	0.0	0.0
+no_Chlamydomonas	N_metabolism	34211	Ppatens	3.01	0.1	0.0
+no_Chlamydomonas	N_metabolism	34211	Scucullata	4.54	0.5009082659620332	0.0
+no_Chlamydomonas	N_metabolism	34211	Slycopersicum	8.0	0.0	0.0
+no_Chlamydomonas	N_metabolism	34211	Smoellendorffii	6.0	0.0	0.0
+no_Chlamydomonas	N_metabolism	none	Afiliculoides	4.0		0.0
+no_Chlamydomonas	N_metabolism	none	Athaliana	7.0		0.0
+no_Chlamydomonas	N_metabolism	none	Lcruciata	1.0		1.0
+no_Chlamydomonas	N_metabolism	none	Mpolymorpha	2.0		1.0
+no_Chlamydomonas	N_metabolism	none	Pabies	9.0		0.0
+no_Chlamydomonas	N_metabolism	none	Pamericana	10.0		0.0
+no_Chlamydomonas	N_metabolism	none	Ppatens	3.0		0.0
+no_Chlamydomonas	N_metabolism	none	Scucullata	5.0		0.0
+no_Chlamydomonas	N_metabolism	none	Slycopersicum	8.0		0.0
+no_Chlamydomonas	N_metabolism	none	Smoellendorffii	6.0		0.0
+no_Chlamydomonas	primary_metabolism	12702	Afiliculoides	3.57	1.2247861078984403	0.19
+no_Chlamydomonas	primary_metabolism	12702	Athaliana	7.05	0.7571210756756958	0.0
+no_Chlamydomonas	primary_metabolism	12702	Lcruciata	3.16	1.26107217489842	0.34
+no_Chlamydomonas	primary_metabolism	12702	Mpolymorpha	1.67	0.9217352980091188	0.83
+no_Chlamydomonas	primary_metabolism	12702	Pabies	9.72	0.6525784135708029	0.0
+no_Chlamydomonas	primary_metabolism	12702	Pamericana	8.77	0.7501514998500456	0.0
+no_Chlamydomonas	primary_metabolism	12702	Ppatens	2.57	1.3651876697866019	0.56
+no_Chlamydomonas	primary_metabolism	12702	Scucullata	4.94	1.0993110790330682	0.03
+no_Chlamydomonas	primary_metabolism	12702	Slycopersicum	8.3	0.6590473688161076	0.0
+no_Chlamydomonas	primary_metabolism	12702	Smoellendorffii	5.25	1.4240006242195888	0.05
+no_Chlamydomonas	primary_metabolism	14160	Afiliculoides	3.66	1.0937840903778207	0.13
+no_Chlamydomonas	primary_metabolism	14160	Athaliana	6.83	0.9540450828980884	0.01
+no_Chlamydomonas	primary_metabolism	14160	Lcruciata	2.86	1.2872333498514155	0.51
+no_Chlamydomonas	primary_metabolism	14160	Mpolymorpha	1.45	0.7703468981143127	0.9
+no_Chlamydomonas	primary_metabolism	14160	Pabies	9.7	0.6741998624632424	0.0
+no_Chlamydomonas	primary_metabolism	14160	Pamericana	8.68	0.7504880566886613	0.0
+no_Chlamydomonas	primary_metabolism	14160	Ppatens	2.79	1.2001262559843568	0.4
+no_Chlamydomonas	primary_metabolism	14160	Scucullata	5.07	1.0848357879737778	0.03
+no_Chlamydomonas	primary_metabolism	14160	Slycopersicum	8.39	0.9089343299499782	0.0
+no_Chlamydomonas	primary_metabolism	14160	Smoellendorffii	5.57	1.2733079483428704	0.02
+no_Chlamydomonas	primary_metabolism	17455	Afiliculoides	5.52	1.6846304633301035	0.13
+no_Chlamydomonas	primary_metabolism	17455	Athaliana	8.95	1.7545035845739463	0.01
+no_Chlamydomonas	primary_metabolism	17455	Lcruciata	1.6	1.4494861506789574	0.85
+no_Chlamydomonas	primary_metabolism	17455	Mpolymorpha	2.63	1.2280805422209975	0.71
+no_Chlamydomonas	primary_metabolism	17455	Pabies	7.16	2.144855249289341	0.01
+no_Chlamydomonas	primary_metabolism	17455	Pamericana	8.03	0.9151364638537506	0.0
+no_Chlamydomonas	primary_metabolism	17455	Ppatens	4.2	1.786594299755597	0.18
+no_Chlamydomonas	primary_metabolism	17455	Scucullata	4.89	0.7900262110470855	0.0
+no_Chlamydomonas	primary_metabolism	17455	Slycopersicum	8.72	0.8418354166265928	0.0
+no_Chlamydomonas	primary_metabolism	17455	Smoellendorffii	3.3	1.2018504251546631	0.11
+no_Chlamydomonas	primary_metabolism	24542	Afiliculoides	4.51	0.5594911107696916	0.0
+no_Chlamydomonas	primary_metabolism	24542	Athaliana	8.77	0.694203998777875	0.0
+no_Chlamydomonas	primary_metabolism	24542	Lcruciata	1.0	0.0	1.0
+no_Chlamydomonas	primary_metabolism	24542	Mpolymorpha	2.0	0.0	1.0
+no_Chlamydomonas	primary_metabolism	24542	Pabies	8.2	1.0150384378451047	0.0
+no_Chlamydomonas	primary_metabolism	24542	Pamericana	7.57	0.819645156038991	0.0
+no_Chlamydomonas	primary_metabolism	24542	Ppatens	5.86	0.42687494916218977	0.0
+no_Chlamydomonas	primary_metabolism	24542	Scucullata	3.03	0.17144660799776523	0.0
+no_Chlamydomonas	primary_metabolism	24542	Slycopersicum	9.46	0.9472981248655239	0.0
+no_Chlamydomonas	primary_metabolism	24542	Smoellendorffii	4.6	0.681649810860727	0.0
+no_Chlamydomonas	primary_metabolism	34211	Afiliculoides	4.9	0.3015113445777636	0.0
+no_Chlamydomonas	primary_metabolism	34211	Athaliana	7.88	0.35618630921006356	0.0
+no_Chlamydomonas	primary_metabolism	34211	Lcruciata	1.18	0.3861229196653691	1.0
+no_Chlamydomonas	primary_metabolism	34211	Mpolymorpha	1.91	0.5143398239932959	0.91
+no_Chlamydomonas	primary_metabolism	34211	Pabies	9.98	0.14070529413628963	0.0
+no_Chlamydomonas	primary_metabolism	34211	Pamericana	7.14	0.37658754867650873	0.0
+no_Chlamydomonas	primary_metabolism	34211	Ppatens	6.0	0.0	0.0
+no_Chlamydomonas	primary_metabolism	34211	Scucullata	4.1	0.3015113445777636	0.0
+no_Chlamydomonas	primary_metabolism	34211	Slycopersicum	9.0	0.2010075630518423	0.0
+no_Chlamydomonas	primary_metabolism	34211	Smoellendorffii	2.91	0.28762349126466136	0.09
+no_Chlamydomonas	primary_metabolism	none	Afiliculoides	5.0		0.0
+no_Chlamydomonas	primary_metabolism	none	Athaliana	7.0		0.0
+no_Chlamydomonas	primary_metabolism	none	Lcruciata	1.0		1.0
+no_Chlamydomonas	primary_metabolism	none	Mpolymorpha	2.0		1.0
+no_Chlamydomonas	primary_metabolism	none	Pabies	10.0		0.0
+no_Chlamydomonas	primary_metabolism	none	Pamericana	8.0		0.0
+no_Chlamydomonas	primary_metabolism	none	Ppatens	6.0		0.0
+no_Chlamydomonas	primary_metabolism	none	Scucullata	4.0		0.0
+no_Chlamydomonas	primary_metabolism	none	Slycopersicum	9.0		0.0
+no_Chlamydomonas	primary_metabolism	none	Smoellendorffii	3.0		0.0
+no_Chlamydomonas	regulatory_networks	12702	Afiliculoides	4.73	1.1178532817843132	0.04
+no_Chlamydomonas	regulatory_networks	12702	Athaliana	8.2	0.8645662192537638	0.0
+no_Chlamydomonas	regulatory_networks	12702	Lcruciata	2.45	1.1666666666666667	0.66
+no_Chlamydomonas	regulatory_networks	12702	Mpolymorpha	1.67	1.1375589672805553	0.86
+no_Chlamydomonas	regulatory_networks	12702	Pabies	9.2	1.2309149097933274	0.0
+no_Chlamydomonas	regulatory_networks	12702	Pamericana	8.98	0.8643325211229224	0.0
+no_Chlamydomonas	regulatory_networks	12702	Ppatens	2.52	0.9479376870796196	0.37
+no_Chlamydomonas	regulatory_networks	12702	Scucullata	5.12	1.066287811507614	0.04
+no_Chlamydomonas	regulatory_networks	12702	Slycopersicum	7.59	0.7533762390570578	0.0
+no_Chlamydomonas	regulatory_networks	12702	Smoellendorffii	4.54	1.058109616058733	0.03
+no_Chlamydomonas	regulatory_networks	14160	Afiliculoides	4.71	1.0664298979645719	0.04
+no_Chlamydomonas	regulatory_networks	14160	Athaliana	8.21	1.2333333333333334	0.01
+no_Chlamydomonas	regulatory_networks	14160	Lcruciata	2.11	1.0626344240574552	0.81
+no_Chlamydomonas	regulatory_networks	14160	Mpolymorpha	1.51	1.132575504205911	0.91
+no_Chlamydomonas	regulatory_networks	14160	Pabies	9.14	1.2793622148428794	0.0
+no_Chlamydomonas	regulatory_networks	14160	Pamericana	8.78	1.1062722919057422	0.01
+no_Chlamydomonas	regulatory_networks	14160	Ppatens	2.99	0.9586922911398157	0.2
+no_Chlamydomonas	regulatory_networks	14160	Scucullata	5.43	0.7420283421851626	0.0
+no_Chlamydomonas	regulatory_networks	14160	Slycopersicum	7.6	0.9211323729436767	0.0
+no_Chlamydomonas	regulatory_networks	14160	Smoellendorffii	4.52	1.1413265363717182	0.02
+no_Chlamydomonas	regulatory_networks	17455	Afiliculoides	4.93	0.6854181058288291	0.0
+no_Chlamydomonas	regulatory_networks	17455	Athaliana	8.06	0.8624606564002696	0.0
+no_Chlamydomonas	regulatory_networks	17455	Lcruciata	1.86	0.5688904671695278	0.9
+no_Chlamydomonas	regulatory_networks	17455	Mpolymorpha	1.43	0.6396811074214396	0.92
+no_Chlamydomonas	regulatory_networks	17455	Pabies	9.3	0.9999999999999998	0.0
+no_Chlamydomonas	regulatory_networks	17455	Pamericana	9.14	0.7250217690914982	0.0
+no_Chlamydomonas	regulatory_networks	17455	Ppatens	2.77	0.7227193316379689	0.18
+no_Chlamydomonas	regulatory_networks	17455	Scucullata	5.53	0.6428314889862843	0.0
+no_Chlamydomonas	regulatory_networks	17455	Slycopersicum	7.5	0.7177405625652735	0.0
+no_Chlamydomonas	regulatory_networks	17455	Smoellendorffii	4.48	0.8701561452818206	0.0
+no_Chlamydomonas	regulatory_networks	24542	Afiliculoides	4.76	0.6050294257807683	0.0
+no_Chlamydomonas	regulatory_networks	24542	Athaliana	7.96	0.6343691688790074	0.0
+no_Chlamydomonas	regulatory_networks	24542	Lcruciata	2.03	0.264193072956086	0.95
+no_Chlamydomonas	regulatory_networks	24542	Mpolymorpha	1.08	0.3387439663632029	0.98
+no_Chlamydomonas	regulatory_networks	24542	Pabies	9.49	0.8586458683722452	0.0
+no_Chlamydomonas	regulatory_networks	24542	Pamericana	9.28	0.4940044575106628	0.0
+no_Chlamydomonas	regulatory_networks	24542	Ppatens	2.9	0.4380858271151807	0.07
+no_Chlamydomonas	regulatory_networks	24542	Scucullata	5.77	0.4461960433384736	0.0
+no_Chlamydomonas	regulatory_networks	24542	Slycopersicum	7.27	0.48938221207451893	0.0
+no_Chlamydomonas	regulatory_networks	24542	Smoellendorffii	4.46	0.7305733185227706	0.0
+no_Chlamydomonas	regulatory_networks	34211	Afiliculoides	4.92	0.6463573143221771	0.0
+no_Chlamydomonas	regulatory_networks	34211	Athaliana	8.08	0.3074824459143226	0.0
+no_Chlamydomonas	regulatory_networks	34211	Lcruciata	1.99	0.10000000000000003	1.0
+no_Chlamydomonas	regulatory_networks	34211	Mpolymorpha	1.01	0.10000000000000003	1.0
+no_Chlamydomonas	regulatory_networks	34211	Pabies	9.17	0.667499479816693	0.0
+no_Chlamydomonas	regulatory_networks	34211	Pamericana	9.71	0.4560480215720687	0.0
+no_Chlamydomonas	regulatory_networks	34211	Ppatens	3.0	0.0	0.0
+no_Chlamydomonas	regulatory_networks	34211	Scucullata	5.81	0.39427724440366263	0.0
+no_Chlamydomonas	regulatory_networks	34211	Slycopersicum	7.04	0.19694638556693242	0.0
+no_Chlamydomonas	regulatory_networks	34211	Smoellendorffii	4.27	0.48938221207451893	0.0
+no_Chlamydomonas	regulatory_networks	none	Afiliculoides	4.0		0.0
+no_Chlamydomonas	regulatory_networks	none	Athaliana	8.0		0.0
+no_Chlamydomonas	regulatory_networks	none	Lcruciata	2.0		1.0
+no_Chlamydomonas	regulatory_networks	none	Mpolymorpha	1.0		1.0
+no_Chlamydomonas	regulatory_networks	none	Pabies	10.0		0.0
+no_Chlamydomonas	regulatory_networks	none	Pamericana	9.0		0.0
+no_Chlamydomonas	regulatory_networks	none	Ppatens	3.0		0.0
+no_Chlamydomonas	regulatory_networks	none	Scucullata	6.0		0.0
+no_Chlamydomonas	regulatory_networks	none	Slycopersicum	7.0		0.0
+no_Chlamydomonas	regulatory_networks	none	Smoellendorffii	5.0		0.0
+no_Chlamydomonas	whole_genome	12702	Afiliculoides	5.42	0.49604496374885815	0.0
+no_Chlamydomonas	whole_genome	12702	Athaliana	8.0	0.0	0.0
+no_Chlamydomonas	whole_genome	12702	Lcruciata	1.0	0.0	1.0
+no_Chlamydomonas	whole_genome	12702	Mpolymorpha	2.0	0.0	1.0
+no_Chlamydomonas	whole_genome	12702	Pabies	7.0	0.0	0.0
+no_Chlamydomonas	whole_genome	12702	Pamericana	9.59	0.4943110704237107	0.0
+no_Chlamydomonas	whole_genome	12702	Ppatens	3.01	0.09999999999999999	0.0
+no_Chlamydomonas	whole_genome	12702	Scucullata	5.58	0.49604496374885815	0.0
+no_Chlamydomonas	whole_genome	12702	Slycopersicum	9.41	0.4943110704237107	0.0
+no_Chlamydomonas	whole_genome	12702	Smoellendorffii	3.99	0.09999999999999999	0.0
+no_Chlamydomonas	whole_genome	14160	Afiliculoides	5.53	0.5016135580465919	0.0
+no_Chlamydomonas	whole_genome	14160	Athaliana	8.0	0.0	0.0
+no_Chlamydomonas	whole_genome	14160	Lcruciata	1.0	0.0	1.0
+no_Chlamydomonas	whole_genome	14160	Mpolymorpha	2.0	0.0	1.0
+no_Chlamydomonas	whole_genome	14160	Pabies	7.0	0.0	0.0
+no_Chlamydomonas	whole_genome	14160	Pamericana	9.59	0.49431107042371064	0.0
+no_Chlamydomonas	whole_genome	14160	Ppatens	3.02	0.14070529413628974	0.0
+no_Chlamydomonas	whole_genome	14160	Scucullata	5.47	0.5016135580465919	0.0
+no_Chlamydomonas	whole_genome	14160	Slycopersicum	9.41	0.49431107042371064	0.0
+no_Chlamydomonas	whole_genome	14160	Smoellendorffii	3.98	0.14070529413628974	0.0
+no_Chlamydomonas	whole_genome	17455	Afiliculoides	6.0	0.0	0.0
+no_Chlamydomonas	whole_genome	17455	Athaliana	8.0	0.0	0.0
+no_Chlamydomonas	whole_genome	17455	Lcruciata	1.0	0.0	1.0
+no_Chlamydomonas	whole_genome	17455	Mpolymorpha	2.0	0.0	1.0
+no_Chlamydomonas	whole_genome	17455	Pabies	7.0	0.0	0.0
+no_Chlamydomonas	whole_genome	17455	Pamericana	9.61	0.4902071300001975	0.0
+no_Chlamydomonas	whole_genome	17455	Ppatens	3.04	0.19694638556693234	0.0
+no_Chlamydomonas	whole_genome	17455	Scucullata	5.0	0.0	0.0
+no_Chlamydomonas	whole_genome	17455	Slycopersicum	9.39	0.4902071300001975	0.0
+no_Chlamydomonas	whole_genome	17455	Smoellendorffii	3.96	0.19694638556693234	0.0
+no_Chlamydomonas	whole_genome	24542	Afiliculoides	5.0	0.0	0.0
+no_Chlamydomonas	whole_genome	24542	Athaliana	8.0	0.0	0.0
+no_Chlamydomonas	whole_genome	24542	Lcruciata	1.0	0.0	1.0
+no_Chlamydomonas	whole_genome	24542	Mpolymorpha	2.0	0.0	1.0
+no_Chlamydomonas	whole_genome	24542	Pabies	7.0	0.0	0.0
+no_Chlamydomonas	whole_genome	24542	Pamericana	9.71	0.45604802157206853	0.0
+no_Chlamydomonas	whole_genome	24542	Ppatens	6.0	0.0	0.0
+no_Chlamydomonas	whole_genome	24542	Scucullata	4.0	0.0	0.0
+no_Chlamydomonas	whole_genome	24542	Slycopersicum	9.29	0.45604802157206853	0.0
+no_Chlamydomonas	whole_genome	24542	Smoellendorffii	3.0	0.0	0.0
+no_Chlamydomonas	whole_genome	34211	Afiliculoides	4.99	0.1	0.0
+no_Chlamydomonas	whole_genome	34211	Athaliana	8.0	0.0	0.0
+no_Chlamydomonas	whole_genome	34211	Lcruciata	1.0	0.0	1.0
+no_Chlamydomonas	whole_genome	34211	Mpolymorpha	2.0	0.0	1.0
+no_Chlamydomonas	whole_genome	34211	Pabies	7.0	0.0	0.0
+no_Chlamydomonas	whole_genome	34211	Pamericana	10.0	0.0	0.0
+no_Chlamydomonas	whole_genome	34211	Ppatens	6.0	0.0	0.0
+no_Chlamydomonas	whole_genome	34211	Scucullata	4.01	0.1	0.0
+no_Chlamydomonas	whole_genome	34211	Slycopersicum	9.0	0.0	0.0
+no_Chlamydomonas	whole_genome	34211	Smoellendorffii	3.0	0.0	0.0
+no_Chlamydomonas	whole_genome	none	Afiliculoides	4.0		0.0
+no_Chlamydomonas	whole_genome	none	Athaliana	8.0		0.0
+no_Chlamydomonas	whole_genome	none	Lcruciata	1.0		1.0
+no_Chlamydomonas	whole_genome	none	Mpolymorpha	2.0		1.0
+no_Chlamydomonas	whole_genome	none	Pabies	7.0		0.0
+no_Chlamydomonas	whole_genome	none	Pamericana	10.0		0.0
+no_Chlamydomonas	whole_genome	none	Ppatens	6.0		0.0
+no_Chlamydomonas	whole_genome	none	Scucullata	5.0		0.0
+no_Chlamydomonas	whole_genome	none	Slycopersicum	9.0		0.0
+no_Chlamydomonas	whole_genome	none	Smoellendorffii	3.0		0.0

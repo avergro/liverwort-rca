@@ -1,0 +1,21 @@
+unit	species	busco	observed	expected	residual_sd	slope_per_busco_point
+orthogroups	Afiliculoides	73.7000	0.0530	0.0554	-0.2616	-0.0015
+orthogroups	Athaliana	99.6000	0.0251	0.0157	0.9808	-0.0015
+orthogroups	Lcruciata	74.0000	0.0730	0.0550	1.8897	-0.0015
+orthogroups	Mpolymorpha	87.4000	0.0315	0.0344	-0.3103	-0.0015
+orthogroups	Pabies	88.2000	0.0167	0.0332	-1.7292	-0.0015
+orthogroups	Pamericana	92.7000	0.0247	0.0263	-0.1730	-0.0015
+orthogroups	Ppatens	88.5000	0.0263	0.0328	-0.6725	-0.0015
+orthogroups	Scucullata	72.3000	0.0598	0.0576	0.2335	-0.0015
+orthogroups	Slycopersicum	91.3000	0.0338	0.0285	0.5588	-0.0015
+orthogroups	Smoellendorffii	76.9000	0.0607	0.0505	1.0632	-0.0015
+KEGG orthologs	Afiliculoides	73.7000	0.0751	0.0639	0.3999	-0.0029
+KEGG orthologs	Athaliana	99.6000	0.0000	-0.0113	0.4052	-0.0029
+KEGG orthologs	Lcruciata	74.0000	0.0549	0.0630	-0.2909	-0.0029
+KEGG orthologs	Mpolymorpha	87.4000	0.0061	0.0241	-0.6437	-0.0029
+KEGG orthologs	Pabies	88.2000	0.0127	0.0218	-0.3232	-0.0029
+KEGG orthologs	Pamericana	92.7000	0.0280	0.0087	0.6881	-0.0029
+KEGG orthologs	Ppatens	88.5000	0.0032	0.0209	-0.6326	-0.0029
+KEGG orthologs	Scucullata	72.3000	0.1046	0.0680	1.3091	-0.0029
+KEGG orthologs	Slycopersicum	91.3000	0.0093	0.0128	-0.1236	-0.0029
+KEGG orthologs	Smoellendorffii	76.9000	0.0064	0.0546	-1.7230	-0.0029

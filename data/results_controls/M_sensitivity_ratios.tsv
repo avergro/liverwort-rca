@@ -1,0 +1,5 @@
+set	coverage_ratio_L_A	genes_per_OG_ratio_L_A
+orthogroups (reported)	1.0191	0.5278
+hierarchical orthogroups, land plant node (N1)	1.0152	0.5333
+genes < 0.5 x orthogroup median length removed	1.0151	0.5457
+lineage-specific orthogroups removed	0.9994	0.5277

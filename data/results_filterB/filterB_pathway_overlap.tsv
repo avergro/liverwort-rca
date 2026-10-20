@@ -1,0 +1,48 @@
+context	pathway_a	pathway_b	n_a	n_b	shared
+primary_metabolism	Purine metabolism	Starch and sucrose metabolism	19	9	1
+primary_metabolism	Purine metabolism	Glycerophospholipid metabolism	19	7	1
+primary_metabolism	Oxidative phosphorylation	Porphyrin metabolism	12	19	2
+primary_metabolism	Oxidative phosphorylation	Photosynthesis	12	9	1
+C_metabolism	Oxidative phosphorylation	Photosynthesis	15	9	1
+C_metabolism	Oxidative phosphorylation	Phagocytosis	15	5	4
+C_metabolism	Oxidative phosphorylation	Lysosome biogenesis	15	5	4
+C_metabolism	Starch and sucrose metabolism	Amino sugar and nucleotide sugar metabolism	11	9	3
+C_metabolism	Glycolysis / Gluconeogenesis	Starch and sucrose metabolism	9	11	2
+C_metabolism	Glycolysis / Gluconeogenesis	Amino sugar and nucleotide sugar metabolism	9	9	2
+C_metabolism	Glycolysis / Gluconeogenesis	Pyruvate metabolism	9	8	6
+C_metabolism	Glycolysis / Gluconeogenesis	Propanoate metabolism	9	7	1
+C_metabolism	Glycolysis / Gluconeogenesis	Glyoxylate and dicarboxylate metabolism	9	7	1
+C_metabolism	Glycolysis / Gluconeogenesis	Pentose phosphate pathway	9	6	3
+C_metabolism	Pyruvate metabolism	Propanoate metabolism	8	7	1
+C_metabolism	Pyruvate metabolism	Glyoxylate and dicarboxylate metabolism	8	7	1
+C_metabolism	Glyoxylate and dicarboxylate metabolism	Propanoate metabolism	7	7	1
+C_metabolism	Inositol phosphate metabolism	Propanoate metabolism	6	7	1
+C_metabolism	Inositol phosphate metabolism	Phagocytosis	6	5	1
+C_metabolism	Pentose phosphate pathway	Starch and sucrose metabolism	6	11	2
+C_metabolism	Pentose phosphate pathway	Amino sugar and nucleotide sugar metabolism	6	9	2
+C_metabolism	Lysosome biogenesis	Phagocytosis	5	5	4
+N_metabolism	Cysteine and methionine metabolism	Arginine and proline metabolism	10	8	1
+N_metabolism	Cysteine and methionine metabolism	Glutathione metabolism	10	7	1
+N_metabolism	Cysteine and methionine metabolism	Histidine metabolism	10	4	1
+N_metabolism	Cysteine and methionine metabolism	Phenylalanine metabolism	10	4	1
+N_metabolism	Arginine and proline metabolism	beta-Alanine metabolism	8	6	1
+N_metabolism	Arginine and proline metabolism	Phenylalanine metabolism	8	4	1
+N_metabolism	Alanine, aspartate and glutamate metabolism	Cysteine and methionine metabolism	7	10	1
+N_metabolism	Alanine, aspartate and glutamate metabolism	Arginine and proline metabolism	7	8	2
+N_metabolism	Alanine, aspartate and glutamate metabolism	Glycine, serine and threonine metabolism	7	7	1
+N_metabolism	Alanine, aspartate and glutamate metabolism	Phenylalanine metabolism	7	4	1
+N_metabolism	Glycine, serine and threonine metabolism	Cysteine and methionine metabolism	7	10	3
+N_metabolism	Valine, leucine and isoleucine degradation	beta-Alanine metabolism	7	6	2
+N_metabolism	Valine, leucine and isoleucine degradation	Propanoate metabolism	7	4	3
+N_metabolism	Valine, leucine and isoleucine degradation	Phenylalanine metabolism	7	4	1
+N_metabolism	Arginine biosynthesis	Cysteine and methionine metabolism	6	10	1
+N_metabolism	Arginine biosynthesis	Arginine and proline metabolism	6	8	1
+N_metabolism	Arginine biosynthesis	Alanine, aspartate and glutamate metabolism	6	7	3
+N_metabolism	Arginine biosynthesis	Phenylalanine metabolism	6	4	1
+N_metabolism	Arginine biosynthesis	Pyrimidine metabolism	6	4	2
+N_metabolism	beta-Alanine metabolism	Propanoate metabolism	6	4	3
+N_metabolism	Histidine metabolism	Glutathione metabolism	4	7	1
+N_metabolism	Phenylalanine metabolism	beta-Alanine metabolism	4	6	1
+N_metabolism	Phenylalanine metabolism	Propanoate metabolism	4	4	1
+N_metabolism	Pyrimidine metabolism	Alanine, aspartate and glutamate metabolism	4	7	3
+N_metabolism	Pyrimidine metabolism	beta-Alanine metabolism	4	6	1

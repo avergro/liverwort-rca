@@ -1,0 +1,1212 @@
+module	species_set	variant	PCI	name	ubiquity
+M00001	all	complete	-0.0127	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	10
+M00002	all	complete	-0.04134	Glycolysis, core module involving three-carbon compounds	11
+M00003	all	complete	-0.04134	Gluconeogenesis, oxaloacetate => fructose-6P	11
+M00004	all	complete	-0.04134	Pentose phosphate pathway (Pentose phosphate cycle)	11
+M00005	all	complete	-0.04134	PRPP biosynthesis, ribose 5P => PRPP	11
+M00006	all	complete	-0.04134	Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P	11
+M00007	all	complete	-0.04134	Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P	11
+M00010	all	complete	-0.0127	Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate	10
+M00012	all	complete	-0.005877	Glyoxylate cycle	8
+M00015	all	complete	-0.01603	Proline biosynthesis, glutamate => proline	10
+M00017	all	complete	0.7003	Methionine biosynthesis, aspartate => homoserine => methionine	1
+M00018	all	complete	-0.01603	Threonine biosynthesis, aspartate => homoserine => threonine	10
+M00019	all	complete	-0.01625	Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine	10
+M00020	all	complete	-0.01603	Serine biosynthesis, glycerate-3P => serine	10
+M00021	all	complete	-0.04134	Cysteine biosynthesis, serine => cysteine	11
+M00022	all	complete	-0.02555	Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate	9
+M00023	all	complete	-0.0216	Tryptophan biosynthesis, chorismate => tryptophan	9
+M00026	all	complete	0.05467	Histidine biosynthesis, PRPP => histidine	8
+M00027	all	complete	0.05882	GABA (gamma-Aminobutyrate) shunt	8
+M00028	all	complete	0.01587	Ornithine biosynthesis, glutamate => ornithine	9
+M00034	all	complete	-0.0216	Methionine salvage pathway	9
+M00035	all	complete	0.4562	Methionine degradation	2
+M00036	all	complete	0.01612	Leucine degradation, leucine => acetoacetate + acetyl-CoA	9
+M00039	all	complete	0.3647	Monolignol biosynthesis, phenylalanine/tyrosine => monolignol	3
+M00040	all	complete	0.01612	Tyrosine biosynthesis, chorismate => arogenate => tyrosine	9
+M00044	all	complete	-0.0604	Tyrosine degradation, tyrosine => homogentisate	7
+M00046	all	complete	0.05746	Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate	8
+M00048	all	complete	0.01466	De novo purine biosynthesis, PRPP + glutamine => IMP	9
+M00049	all	complete	-0.04134	Adenine ribonucleotide biosynthesis, IMP => ADP,ATP	11
+M00050	all	complete	-0.04134	Guanine ribonucleotide biosynthesis, IMP => GDP,GTP	11
+M00052	all	complete	-0.04134	Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP	11
+M00053	all	complete	0.05792	Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP	7
+M00055	all	complete	0.03691	N-glycan precursor biosynthesis	7
+M00065	all	complete	-0.02554	GPI-anchor biosynthesis, core oligosaccharide	2
+M00073	all	complete	0.1555	N-glycan precursor trimming	6
+M00081	all	complete	0.1537	Pectin degradation	3
+M00082	all	complete	-0.04134	Fatty acid biosynthesis, initiation	11
+M00083	all	complete	-0.04134	Fatty acid biosynthesis, elongation	11
+M00086	all	complete	-0.04134	beta-Oxidation, acyl-CoA synthesis	11
+M00087	all	complete	-0.04134	beta-Oxidation	11
+M00089	all	complete	-0.04134	Triacylglycerol biosynthesis	11
+M00091	all	complete	0.7003	Phosphatidylcholine (PC) biosynthesis, PE => PC	1
+M00092	all	complete	-0.005877	Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE	8
+M00093	all	complete	0.7003	Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE	1
+M00094	all	complete	0.7003	Ceramide biosynthesis	1
+M00095	all	complete	-0.0127	C5 isoprenoid biosynthesis, mevalonate pathway	10
+M00096	all	complete	0.05467	C5 isoprenoid biosynthesis, non-mevalonate pathway	8
+M00097	all	complete	-0.04164	beta-Carotene biosynthesis, GGAP => beta-carotene	9
+M00098	all	complete	-0.04134	Acylglycerol degradation	11
+M00099	all	complete	0.7003	Sphingosine biosynthesis	1
+M00100	all	complete	-0.01625	Sphingosine degradation	10
+M00112	all	complete	-0.04134	Tocopherol/tocotorienol biosynthesis, homogentisate + phytyl/geranylgeranyl-PP => tocopherol/tocotorienol	11
+M00113	all	complete	0.2904	Jasmonic acid biosynthesis	4
+M00114	all	complete	0.05467	Ascorbate biosynthesis, plants, fructose-6P => ascorbate	8
+M00115	all	complete	0.05467	NAD biosynthesis, aspartate => quinolinate => NAD	8
+M00118	all	complete	-0.1155	Glutathione biosynthesis, glutamate => glutathione	10
+M00120	all	complete	0.1093	Coenzyme A biosynthesis, pantothenate => CoA	7
+M00121	all	complete	-0.01603	Heme biosynthesis, plants and bacteria, glutamate => heme	10
+M00123	all	complete	0.01981	Biotin biosynthesis, pimeloyl-ACP/CoA => biotin	9
+M00125	all	complete	-0.04134	Riboflavin biosynthesis, plants and bacteria, GTP => riboflavin/FMN/FAD	11
+M00126	all	complete	-0.005596	Tetrahydrofolate biosynthesis, GTP => THF	8
+M00132	all	complete	0.1459	Inositol phosphate metabolism, Ins(1,3,4)P3 => phytate	6
+M00133	all	complete	-0.001761	Polyamine biosynthesis, arginine => agmatine => putrescine => spermidine	8
+M00134	all	complete	0.02196	Polyamine biosynthesis, arginine => ornithine => putrescine	7
+M00135	all	complete	0.7003	GABA biosynthesis, eukaryotes, putrescine => GABA	1
+M00137	all	complete	-0.0127	Flavanone biosynthesis, phenylalanine => naringenin	10
+M00138	all	complete	0.2904	Flavonoid biosynthesis, naringenin => pelargonidin	4
+M00140	all	complete	0.03189	C1-unit interconversion, prokaryotes	8
+M00143	all	complete	-0.07309	NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria	2
+M00145	all	complete	0.1815	NAD(P)H:quinone oxidoreductase, chloroplasts and cyanobacteria	1
+M00151	all	complete	0.1245	Cytochrome bc1 complex respiratory unit	2
+M00157	all	complete	0.1815	F-type ATPase, prokaryotes and chloroplasts	1
+M00161	all	complete	0.1815	Photosystem II	1
+M00163	all	complete	0.1245	Photosystem I	2
+M00165	all	complete	0.04631	Reductive pentose phosphate cycle (Calvin cycle)	3
+M00168	all	complete	-0.04134	CAM (Crassulacean acid metabolism), dark	11
+M00169	all	complete	-0.02555	CAM (Crassulacean acid metabolism), light	9
+M00170	all	complete	-0.09276	C4-dicarboxylic acid cycle, phosphoenolpyruvate carboxykinase type	8
+M00171	all	complete	-0.0862	C4-dicarboxylic acid cycle, NAD - malic enzyme type	6
+M00172	all	complete	-0.02555	C4-dicarboxylic acid cycle, NADP - malic enzyme type	9
+M00176	all	complete	-0.3277	Assimilatory sulfate reduction, sulfate => H2S	1
+M00307	all	complete	-0.04134	Pyruvate oxidation, pyruvate => acetyl-CoA	11
+M00344	all	complete	0.7003	Formaldehyde assimilation, xylulose monophosphate pathway	1
+M00364	all	complete	-0.04134	C10-C20 isoprenoid biosynthesis, bacteria	11
+M00365	all	complete	0.2122	C10-C20 isoprenoid biosynthesis, archaea	1
+M00366	all	complete	-0.05222	C10-C20 isoprenoid biosynthesis, plants	10
+M00368	all	complete	0.2904	Ethylene biosynthesis, methionine => ethylene	4
+M00371	all	complete	0.1398	Castasterone biosynthesis, campesterol => castasterone	2
+M00372	all	complete	0.3647	Abscisic acid biosynthesis, beta-carotene => abscisic acid	3
+M00415	all	complete	0.1247	Fatty acid elongation in endoplasmic reticulum	6
+M00432	all	complete	-0.04134	Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate	11
+M00527	all	complete	-0.01603	Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine	10
+M00531	all	complete	0.01466	Assimilatory nitrate reduction, nitrate => ammonia	9
+M00532	all	complete	0.1245	Photorespiration	2
+M00549	all	complete	-0.04134	Nucleotide sugar biosynthesis, glucose => UDP-glucose	11
+M00555	all	complete	-0.06688	Betaine biosynthesis, choline => betaine	8
+M00570	all	complete	-0.01625	Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine	10
+M00579	all	complete	-0.251	Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate	6
+M00621	all	complete	-0.04134	Glycine cleavage system	11
+M00844	all	complete	-0.04134	Arginine biosynthesis, ornithine => arginine	11
+M00854	all	complete	-0.04134	Glycogen biosynthesis, glucose-1P => glycogen/starch	11
+M00855	all	complete	-0.04134	Glycogen degradation, glycogen => glucose-6P	11
+M00880	all	complete	0.009714	Molybdenum cofactor biosynthesis, GTP => molybdenum cofactor	8
+M00881	all	complete	-0.04134	Lipoic acid biosynthesis, plants and bacteria, octanoyl-ACP => dihydrolipoyl-E2/H	11
+M00882	all	complete	-0.09409	Lipoic acid biosynthesis, eukaryotes, octanoyl-ACP => dihydrolipoyl-H	8
+M00892	all	complete	0.01466	UDP-N-acetyl-D-glucosamine biosynthesis, eukaryotes, glucose => UDP-GlcNAc	9
+M00897	all	complete	-0.1155	Thiamine biosynthesis, plants, AIR (+ NAD+) => TMP/thiamine/TPP	10
+M00899	all	complete	-0.1155	Thiamine salvage pathway, HMP/HET => TMP	10
+M00910	all	complete	0.01612	Phenylalanine biosynthesis, chorismate => arogenate => phenylalanine	9
+M00916	all	complete	-0.04134	Pyridoxal-P biosynthesis, R5P + glyceraldehyde-3P + glutamine => pyridoxal-P	11
+M00927	all	complete	0.4409	Gibberellin A12 biosynthesis, GAPP => GA12	2
+M00928	all	complete	0.1261	Gibberellin A4/A1 biosynthesis, GA12/GA53 => GA4/GA1	6
+M00932	all	complete	0.05746	Phylloquinone biosynthesis, chorismate (+ phytyl-PP) => phylloquinol	8
+M00933	all	complete	-0.04134	Plastoquinone biosynthesis, homogentisate + solanesyl-PP => plastoquinol	11
+M00936	all	complete	0.4562	Melatonin biosynthesis, plants, tryptophan => serotonin => melatonin	2
+M00938	all	complete	0.05792	Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP	7
+M00941	all	complete	0.2122	Isoflavone biosynthesis, liquiritigenin/naringenin => daidzein/genistein	1
+M00972	all	complete	-0.01603	Proline metabolism	10
+M00987	all	complete	0.05604	Assimilatory sulfate reduction, plants, sulfate => H2S	7
+M00001	all	near	-0.01855	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	11
+M00002	all	near	-0.01855	Glycolysis, core module involving three-carbon compounds	11
+M00003	all	near	-0.01855	Gluconeogenesis, oxaloacetate => fructose-6P	11
+M00004	all	near	-0.01855	Pentose phosphate pathway (Pentose phosphate cycle)	11
+M00005	all	near	-0.01855	PRPP biosynthesis, ribose 5P => PRPP	11
+M00006	all	near	-0.01855	Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P	11
+M00007	all	near	-0.01855	Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P	11
+M00008	all	near	0.1336	Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate	4
+M00009	all	near	0.09502	Citrate cycle (TCA cycle, Krebs cycle)	8
+M00010	all	near	-0.01855	Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate	11
+M00011	all	near	0.03163	Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate	9
+M00012	all	near	-0.01855	Glyoxylate cycle	11
+M00013	all	near	0.2226	Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA	4
+M00015	all	near	-0.01855	Proline biosynthesis, glutamate => proline	11
+M00017	all	near	-0.0502	Methionine biosynthesis, aspartate => homoserine => methionine	5
+M00018	all	near	-0.01855	Threonine biosynthesis, aspartate => homoserine => threonine	11
+M00019	all	near	-0.002331	Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine	10
+M00020	all	near	-0.01855	Serine biosynthesis, glycerate-3P => serine	11
+M00021	all	near	-0.01855	Cysteine biosynthesis, serine => cysteine	11
+M00022	all	near	-0.01855	Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate	11
+M00023	all	near	-0.01855	Tryptophan biosynthesis, chorismate => tryptophan	11
+M00024	all	near	-0.01855	Phenylalanine biosynthesis, chorismate => phenylpyruvate => phenylalanine	11
+M00025	all	near	0.3956	Tyrosine biosynthesis, chorismate => HPP => tyrosine	1
+M00026	all	near	0.05777	Histidine biosynthesis, PRPP => histidine	8
+M00027	all	near	0.02715	GABA (gamma-Aminobutyrate) shunt	10
+M00028	all	near	-0.01855	Ornithine biosynthesis, glutamate => ornithine	11
+M00029	all	near	0.02715	Urea cycle	10
+M00034	all	near	-0.01855	Methionine salvage pathway	11
+M00035	all	near	-0.01855	Methionine degradation	11
+M00036	all	near	0.03127	Leucine degradation, leucine => acetoacetate + acetyl-CoA	9
+M00039	all	near	0.341	Monolignol biosynthesis, phenylalanine/tyrosine => monolignol	4
+M00040	all	near	-0.01855	Tyrosine biosynthesis, chorismate => arogenate => tyrosine	11
+M00043	all	near	-0.01855	Thyroid hormone biosynthesis, tyrosine => triiodothyronine/thyroxine	11
+M00044	all	near	0.02715	Tyrosine degradation, tyrosine => homogentisate	10
+M00046	all	near	-0.01855	Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate	11
+M00048	all	near	-0.01855	De novo purine biosynthesis, PRPP + glutamine => IMP	11
+M00049	all	near	-0.01855	Adenine ribonucleotide biosynthesis, IMP => ADP,ATP	11
+M00050	all	near	-0.01855	Guanine ribonucleotide biosynthesis, IMP => GDP,GTP	11
+M00051	all	near	-0.01855	De novo pyrimidine biosynthesis, glutamine (+ PRPP) => UMP	11
+M00052	all	near	-0.01855	Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP	11
+M00053	all	near	-0.01855	Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP	11
+M00055	all	near	0.02715	N-glycan precursor biosynthesis	10
+M00063	all	near	0.05964	CMP-3-deoxy-D-manno-octulosonate biosynthesis, ribulose-5P => CMP-KDO	9
+M00065	all	near	0.1935	GPI-anchor biosynthesis, core oligosaccharide	6
+M00068	all	near	0.1344	Glycosphingolipid biosynthesis, globo-series, LacCer => Gb4Cer	7
+M00072	all	near	-0.01855	N-glycosylation by oligosaccharyltransferase	11
+M00073	all	near	0.02715	N-glycan precursor trimming	10
+M00081	all	near	0.08406	Pectin degradation	8
+M00082	all	near	-0.01855	Fatty acid biosynthesis, initiation	11
+M00083	all	near	-0.01855	Fatty acid biosynthesis, elongation	11
+M00086	all	near	-0.01855	beta-Oxidation, acyl-CoA synthesis	11
+M00087	all	near	-0.01855	beta-Oxidation	11
+M00088	all	near	-0.3495	Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone	2
+M00089	all	near	-0.01855	Triacylglycerol biosynthesis	11
+M00090	all	near	-0.01379	Phosphatidylcholine (PC) biosynthesis, choline => PC	9
+M00091	all	near	-0.01855	Phosphatidylcholine (PC) biosynthesis, PE => PC	11
+M00092	all	near	0.05025	Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE	9
+M00093	all	near	-0.01855	Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE	11
+M00094	all	near	0.02715	Ceramide biosynthesis	10
+M00095	all	near	0.02715	C5 isoprenoid biosynthesis, mevalonate pathway	10
+M00096	all	near	-0.01855	C5 isoprenoid biosynthesis, non-mevalonate pathway	11
+M00097	all	near	-0.01855	beta-Carotene biosynthesis, GGAP => beta-carotene	11
+M00098	all	near	-0.01855	Acylglycerol degradation	11
+M00099	all	near	0.02715	Sphingosine biosynthesis	10
+M00100	all	near	-0.01855	Sphingosine degradation	11
+M00103	all	near	0.5544	Cholecalciferol biosynthesis	1
+M00112	all	near	-0.01855	Tocopherol/tocotorienol biosynthesis, homogentisate + phytyl/geranylgeranyl-PP => tocopherol/tocotorienol	11
+M00113	all	near	0.1842	Jasmonic acid biosynthesis	6
+M00114	all	near	-0.01855	Ascorbate biosynthesis, plants, fructose-6P => ascorbate	11
+M00115	all	near	0.006118	NAD biosynthesis, aspartate => quinolinate => NAD	10
+M00118	all	near	-0.01855	Glutathione biosynthesis, glutamate => glutathione	11
+M00119	all	near	-0.4755	Pantothenate biosynthesis, valine/L-aspartate => pantothenate	1
+M00120	all	near	0.006118	Coenzyme A biosynthesis, pantothenate => CoA	10
+M00121	all	near	0.006118	Heme biosynthesis, plants and bacteria, glutamate => heme	10
+M00123	all	near	-0.01855	Biotin biosynthesis, pimeloyl-ACP/CoA => biotin	11
+M00125	all	near	-0.01855	Riboflavin biosynthesis, plants and bacteria, GTP => riboflavin/FMN/FAD	11
+M00126	all	near	0.006118	Tetrahydrofolate biosynthesis, GTP => THF	10
+M00128	all	near	0.006093	Ubiquinone biosynthesis, eukaryotes, 4-hydroxybenzoate + polyprenyl-PP => ubiquinone	5
+M00130	all	near	0.5544	Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4	1
+M00132	all	near	0.006118	Inositol phosphate metabolism, Ins(1,3,4)P3 => phytate	10
+M00133	all	near	-0.01855	Polyamine biosynthesis, arginine => agmatine => putrescine => spermidine	11
+M00134	all	near	-0.01855	Polyamine biosynthesis, arginine => ornithine => putrescine	11
+M00135	all	near	-0.01855	GABA biosynthesis, eukaryotes, putrescine => GABA	11
+M00137	all	near	0.02715	Flavanone biosynthesis, phenylalanine => naringenin	10
+M00138	all	near	0.341	Flavonoid biosynthesis, naringenin => pelargonidin	4
+M00140	all	near	-0.01855	C1-unit interconversion, prokaryotes	11
+M00141	all	near	-0.01855	C1-unit interconversion, eukaryotes	11
+M00142	all	near	-0.01855	NADH:ubiquinone oxidoreductase, mitochondria	11
+M00143	all	near	-0.01855	NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria	11
+M00144	all	near	-0.01855	NADH:quinone oxidoreductase, prokaryotes	11
+M00145	all	near	-0.01855	NAD(P)H:quinone oxidoreductase, chloroplasts and cyanobacteria	11
+M00146	all	near	-0.01855	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	11
+M00147	all	near	-0.01855	NADH dehydrogenase (ubiquinone) 1 beta subcomplex	11
+M00148	all	near	-0.01855	Succinate dehydrogenase (ubiquinone)	11
+M00149	all	near	-0.01855	Succinate dehydrogenase, prokaryotes	11
+M00150	all	near	-0.01855	Fumarate reductase, prokaryotes	11
+M00151	all	near	-0.01855	Cytochrome bc1 complex respiratory unit	11
+M00152	all	near	-0.01855	Cytochrome bc1 complex	11
+M00153	all	near	-0.01855	Cytochrome bd ubiquinol oxidase	11
+M00154	all	near	-0.01855	Cytochrome c oxidase	11
+M00155	all	near	-0.01855	Cytochrome c oxidase, prokaryotes	11
+M00156	all	near	-0.01855	Cytochrome c oxidase, cbb3-type	11
+M00157	all	near	-0.01855	F-type ATPase, prokaryotes and chloroplasts	11
+M00158	all	near	-0.01855	F-type ATPase, eukaryotes	11
+M00159	all	near	-0.01855	V/A-type ATPase, prokaryotes	11
+M00160	all	near	-0.01855	V-type ATPase, eukaryotes	11
+M00161	all	near	-0.01855	Photosystem II	11
+M00162	all	near	-0.01855	Cytochrome b6f complex	11
+M00163	all	near	-0.01855	Photosystem I	11
+M00165	all	near	-0.01855	Reductive pentose phosphate cycle (Calvin cycle)	11
+M00168	all	near	-0.01855	CAM (Crassulacean acid metabolism), dark	11
+M00169	all	near	-0.01855	CAM (Crassulacean acid metabolism), light	11
+M00170	all	near	-0.01855	C4-dicarboxylic acid cycle, phosphoenolpyruvate carboxykinase type	11
+M00171	all	near	-0.01855	C4-dicarboxylic acid cycle, NAD - malic enzyme type	11
+M00172	all	near	-0.01855	C4-dicarboxylic acid cycle, NADP - malic enzyme type	11
+M00175	all	near	-0.01855	Nitrogen fixation, nitrogen => ammonia	11
+M00176	all	near	-0.02293	Assimilatory sulfate reduction, sulfate => H2S	9
+M00307	all	near	-0.01855	Pyruvate oxidation, pyruvate => acetyl-CoA	11
+M00308	all	near	-0.1014	Semi-phosphorylative Entner-Doudoroff pathway, gluconate => glycerate-3P	2
+M00338	all	near	0.475	Cysteine biosynthesis, homocysteine + serine => cysteine	2
+M00344	all	near	0.09462	Formaldehyde assimilation, xylulose monophosphate pathway	8
+M00345	all	near	0.05964	Formaldehyde assimilation, ribulose monophosphate pathway	9
+M00364	all	near	-0.01855	C10-C20 isoprenoid biosynthesis, bacteria	11
+M00365	all	near	-0.01855	C10-C20 isoprenoid biosynthesis, archaea	11
+M00366	all	near	-0.01855	C10-C20 isoprenoid biosynthesis, plants	11
+M00367	all	near	-0.01855	C10-C20 isoprenoid biosynthesis, non-plant eukaryotes	11
+M00368	all	near	0.341	Ethylene biosynthesis, methionine => ethylene	4
+M00369	all	near	0.5544	Cyanogenic glycoside biosynthesis, tyrosine => dhurrin	1
+M00370	all	near	0.231	Glucosinolate biosynthesis, tryptophan => glucobrassicin	1
+M00371	all	near	0.341	Castasterone biosynthesis, campesterol => castasterone	4
+M00372	all	near	0.341	Abscisic acid biosynthesis, beta-carotene => abscisic acid	4
+M00415	all	near	-0.01855	Fatty acid elongation in endoplasmic reticulum	11
+M00416	all	near	-0.01855	Cytochrome aa3-600 menaquinol oxidase	11
+M00417	all	near	-0.01855	Cytochrome o ubiquinol oxidase	11
+M00432	all	near	-0.01855	Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate	11
+M00526	all	near	0.006118	Lysine biosynthesis, DAP dehydrogenase pathway, aspartate => lysine	10
+M00527	all	near	-0.01855	Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine	11
+M00531	all	near	-0.01855	Assimilatory nitrate reduction, nitrate => ammonia	11
+M00532	all	near	0.006118	Photorespiration	10
+M00535	all	near	-0.01855	Isoleucine biosynthesis, pyruvate => 2-oxobutanoate	11
+M00546	all	near	-0.01855	Purine degradation, xanthine => urea	11
+M00548	all	near	-0.01855	Benzene degradation, benzene => catechol	11
+M00549	all	near	-0.01855	Nucleotide sugar biosynthesis, glucose => UDP-glucose	11
+M00554	all	near	0.02715	Nucleotide sugar biosynthesis, galactose => UDP-galactose	10
+M00555	all	near	-0.01855	Betaine biosynthesis, choline => betaine	11
+M00570	all	near	-0.002331	Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine	10
+M00579	all	near	-0.224	Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate	7
+M00580	all	near	-0.01855	Pentose phosphate pathway, archaea, fructose 6P => ribose 5P	11
+M00595	all	near	-0.01855	Sulfur oxidation, SOX system, thiosulfate => sulfate	11
+M00597	all	near	-0.01855	Anoxygenic photosystem II	11
+M00598	all	near	-0.01855	Anoxygenic photosystem I	11
+M00621	all	near	-0.01855	Glycine cleavage system	11
+M00632	all	near	0.02715	Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P	10
+M00637	all	near	-0.01855	Anthranilate degradation, anthranilate => catechol	11
+M00638	all	near	-0.01855	Salicylate degradation, salicylate => gentisate	11
+M00741	all	near	-0.2203	Propanoyl-CoA metabolism, propanoyl-CoA => succinyl-CoA	1
+M00841	all	near	0.01764	Tetrahydrofolate biosynthesis, mediated by PTPS, GTP => THF	8
+M00842	all	near	0.3956	Tetrahydrobiopterin biosynthesis, GTP => BH4	1
+M00843	all	near	0.3956	L-threo-Tetrahydrobiopterin biosynthesis, GTP => L-threo-BH4	1
+M00844	all	near	-0.01855	Arginine biosynthesis, ornithine => arginine	11
+M00846	all	near	0.006118	Siroheme biosynthesis, glutamyl-tRNA => siroheme	10
+M00849	all	near	0.05025	C5 isoprenoid biosynthesis, mevalonate pathway, archaea	9
+M00854	all	near	-0.01855	Glycogen biosynthesis, glucose-1P => glycogen/starch	11
+M00855	all	near	-0.01855	Glycogen degradation, glycogen => glucose-6P	11
+M00861	all	near	-0.01855	beta-Oxidation, peroxisome, VLCFA	11
+M00868	all	near	0.006118	Heme biosynthesis, animals and fungi, glycine => heme	10
+M00874	all	near	-0.007939	Fatty acid biosynthesis in mitochondria, fungi	10
+M00880	all	near	0.03127	Molybdenum cofactor biosynthesis, GTP => molybdenum cofactor	9
+M00881	all	near	-0.01855	Lipoic acid biosynthesis, plants and bacteria, octanoyl-ACP => dihydrolipoyl-E2/H	11
+M00882	all	near	-0.01855	Lipoic acid biosynthesis, eukaryotes, octanoyl-ACP => dihydrolipoyl-H	11
+M00883	all	near	-0.02443	Lipoic acid biosynthesis, animals and bacteria, octanoyl-ACP => dihydrolipoyl-H => dihydrolipoyl-E2	8
+M00884	all	near	-0.01855	Lipoic acid biosynthesis, octanoyl-CoA => dihydrolipoyl-E2	11
+M00892	all	near	-0.002331	UDP-N-acetyl-D-glucosamine biosynthesis, eukaryotes, glucose => UDP-GlcNAc	10
+M00897	all	near	-0.01855	Thiamine biosynthesis, plants, AIR (+ NAD+) => TMP/thiamine/TPP	11
+M00899	all	near	-0.01855	Thiamine salvage pathway, HMP/HET => TMP	11
+M00900	all	near	0.3956	Crocin biosynthesis, crocetin => crocin	1
+M00910	all	near	-0.01855	Phenylalanine biosynthesis, chorismate => arogenate => phenylalanine	11
+M00913	all	near	-0.4755	Pantothenate biosynthesis, 2-oxoisovalerate/spermine => pantothenate	1
+M00916	all	near	-0.01855	Pyridoxal-P biosynthesis, R5P + glyceraldehyde-3P + glutamine => pyridoxal-P	11
+M00917	all	near	0.0639	Phytosterol biosynthesis, squalene 2,3-epoxide => campesterol/sitosterol	6
+M00926	all	near	0.006118	Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme	10
+M00927	all	near	0.3937	Gibberellin A12 biosynthesis, GAPP => GA12	3
+M00928	all	near	0.02715	Gibberellin A4/A1 biosynthesis, GA12/GA53 => GA4/GA1	10
+M00932	all	near	-0.01855	Phylloquinone biosynthesis, chorismate (+ phytyl-PP) => phylloquinol	11
+M00933	all	near	-0.01855	Plastoquinone biosynthesis, homogentisate + solanesyl-PP => plastoquinol	11
+M00936	all	near	0.341	Melatonin biosynthesis, plants, tryptophan => serotonin => melatonin	4
+M00938	all	near	-0.01855	Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP	11
+M00940	all	near	0.02715	Flavanone biosynthesis, p-coumaroyl-CoA => liquiritigenin	10
+M00941	all	near	0.5544	Isoflavone biosynthesis, liquiritigenin/naringenin => daidzein/genistein	1
+M00958	all	near	-0.01855	Adenine ribonucleotide degradation, AMP => Urate	11
+M00959	all	near	0.006242	Guanine ribonucleotide degradation, GMP => Urate	4
+M00970	all	near	-0.01855	Proline degradation, proline => glutamate	11
+M00972	all	near	-0.01855	Proline metabolism	11
+M00978	all	near	-0.0598	Ornithine-ammonia cycle	9
+M00981	all	near	0.5544	Geissoschizine biosynthesis, tryptophan => geissoschizine	1
+M00983	all	near	0.02715	GPI-anchor remodeling	10
+M00985	all	near	-0.01855	Sulfide oxidation, sulfide => sulfur	11
+M00986	all	near	-0.01855	Sulfur reduction, sulfur => sulfide	11
+M00987	all	near	-0.01855	Assimilatory sulfate reduction, plants, sulfate => H2S	11
+M00001	all	rca_genes	-0.1722	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	4
+M00002	all	rca_genes	-0.1722	Glycolysis, core module involving three-carbon compounds	4
+M00003	all	rca_genes	-0.1861	Gluconeogenesis, oxaloacetate => fructose-6P	5
+M00004	all	rca_genes	-0.0937	Pentose phosphate pathway (Pentose phosphate cycle)	6
+M00005	all	rca_genes	0.1565	PRPP biosynthesis, ribose 5P => PRPP	5
+M00006	all	rca_genes	-0.01137	Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P	5
+M00007	all	rca_genes	-0.1802	Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P	6
+M00008	all	rca_genes	-0.01137	Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate	5
+M00009	all	rca_genes	-0.05852	Citrate cycle (TCA cycle, Krebs cycle)	6
+M00010	all	rca_genes	-0.04088	Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate	5
+M00011	all	rca_genes	-0.01133	Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate	5
+M00012	all	rca_genes	0.08012	Glyoxylate cycle	5
+M00013	all	rca_genes	0.1744	Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA	5
+M00014	all	rca_genes	0.29	Glucuronate pathway (uronate pathway)	3
+M00015	all	rca_genes	0.2078	Proline biosynthesis, glutamate => proline	4
+M00016	all	rca_genes	-0.1301	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine	7
+M00017	all	rca_genes	-0.0972	Methionine biosynthesis, aspartate => homoserine => methionine	5
+M00018	all	rca_genes	-0.1295	Threonine biosynthesis, aspartate => homoserine => threonine	7
+M00019	all	rca_genes	0.07689	Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine	7
+M00020	all	rca_genes	-0.01615	Serine biosynthesis, glycerate-3P => serine	6
+M00021	all	rca_genes	0.018	Cysteine biosynthesis, serine => cysteine	4
+M00022	all	rca_genes	0.07418	Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate	4
+M00023	all	rca_genes	-0.04852	Tryptophan biosynthesis, chorismate => tryptophan	3
+M00024	all	rca_genes	0.05941	Phenylalanine biosynthesis, chorismate => phenylpyruvate => phenylalanine	4
+M00025	all	rca_genes	0.0864	Tyrosine biosynthesis, chorismate => HPP => tyrosine	3
+M00026	all	rca_genes	-0.1177	Histidine biosynthesis, PRPP => histidine	6
+M00027	all	rca_genes	0.2026	GABA (gamma-Aminobutyrate) shunt	5
+M00028	all	rca_genes	-0.08484	Ornithine biosynthesis, glutamate => ornithine	6
+M00029	all	rca_genes	-0.1101	Urea cycle	7
+M00030	all	rca_genes	0.7458	Lysine biosynthesis, AAA pathway, 2-oxoglutarate => 2-aminoadipate => lysine	1
+M00032	all	rca_genes	-0.001442	Lysine degradation, lysine => saccharopine => acetoacetyl-CoA	7
+M00033	all	rca_genes	-0.1143	Ectoine biosynthesis, aspartate => ectoine	7
+M00034	all	rca_genes	0.1156	Methionine salvage pathway	8
+M00035	all	rca_genes	0.2062	Methionine degradation	6
+M00036	all	rca_genes	0.04429	Leucine degradation, leucine => acetoacetate + acetyl-CoA	6
+M00037	all	rca_genes	0.1851	Melatonin biosynthesis, animals, tryptophan => serotonin => melatonin	4
+M00038	all	rca_genes	0.08989	Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate	5
+M00039	all	rca_genes	0.462	Monolignol biosynthesis, phenylalanine/tyrosine => monolignol	3
+M00040	all	rca_genes	0.0769	Tyrosine biosynthesis, chorismate => arogenate => tyrosine	5
+M00042	all	rca_genes	0.1179	Catecholamine biosynthesis, tyrosine => dopamine => noradrenaline => adrenaline	5
+M00044	all	rca_genes	0.1636	Tyrosine degradation, tyrosine => homogentisate	5
+M00045	all	rca_genes	0.5555	Histidine degradation, histidine => N-formiminoglutamate => glutamate	2
+M00046	all	rca_genes	-0.06148	Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate	5
+M00048	all	rca_genes	0.04181	De novo purine biosynthesis, PRPP + glutamine => IMP	5
+M00049	all	rca_genes	-0.06071	Adenine ribonucleotide biosynthesis, IMP => ADP,ATP	4
+M00050	all	rca_genes	-0.171	Guanine ribonucleotide biosynthesis, IMP => GDP,GTP	5
+M00051	all	rca_genes	-0.1647	De novo pyrimidine biosynthesis, glutamine (+ PRPP) => UMP	6
+M00052	all	rca_genes	-0.03392	Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP	6
+M00053	all	rca_genes	0.02373	Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP	7
+M00055	all	rca_genes	-0.08844	N-glycan precursor biosynthesis	6
+M00060	all	rca_genes	-0.104	KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type	5
+M00061	all	rca_genes	-0.1916	D-Glucuronate degradation, D-glucuronate => pyruvate + D-glyceraldehyde 3P	3
+M00063	all	rca_genes	-0.126	CMP-3-deoxy-D-manno-octulosonate biosynthesis, ribulose-5P => CMP-KDO	6
+M00065	all	rca_genes	-0.07154	GPI-anchor biosynthesis, core oligosaccharide	4
+M00068	all	rca_genes	0.3802	Glycosphingolipid biosynthesis, globo-series, LacCer => Gb4Cer	4
+M00072	all	rca_genes	0.02705	N-glycosylation by oligosaccharyltransferase	3
+M00073	all	rca_genes	0.01874	N-glycan precursor trimming	4
+M00074	all	rca_genes	-0.06255	N-glycan biosynthesis, high-mannose type	4
+M00075	all	rca_genes	0.06929	N-glycan biosynthesis, complex type	4
+M00078	all	rca_genes	0.3802	Heparan sulfate degradation	4
+M00079	all	rca_genes	-0.06672	Keratan sulfate degradation	3
+M00081	all	rca_genes	0.3802	Pectin degradation	4
+M00082	all	rca_genes	-0.1789	Fatty acid biosynthesis, initiation	5
+M00083	all	rca_genes	0.1687	Fatty acid biosynthesis, elongation	6
+M00085	all	rca_genes	-0.1544	Fatty acid elongation in mitochondria	4
+M00086	all	rca_genes	0.07137	beta-Oxidation, acyl-CoA synthesis	5
+M00087	all	rca_genes	-0.01885	beta-Oxidation	6
+M00088	all	rca_genes	0.04779	Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone	5
+M00089	all	rca_genes	-0.031	Triacylglycerol biosynthesis	6
+M00090	all	rca_genes	-0.04038	Phosphatidylcholine (PC) biosynthesis, choline => PC	7
+M00091	all	rca_genes	-0.02025	Phosphatidylcholine (PC) biosynthesis, PE => PC	4
+M00092	all	rca_genes	-0.0436	Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE	6
+M00093	all	rca_genes	-0.03025	Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE	5
+M00094	all	rca_genes	0.118	Ceramide biosynthesis	2
+M00095	all	rca_genes	0.09447	C5 isoprenoid biosynthesis, mevalonate pathway	4
+M00096	all	rca_genes	-0.01196	C5 isoprenoid biosynthesis, non-mevalonate pathway	6
+M00097	all	rca_genes	-0.2047	beta-Carotene biosynthesis, GGAP => beta-carotene	4
+M00098	all	rca_genes	0.1664	Acylglycerol degradation	7
+M00099	all	rca_genes	0.09447	Sphingosine biosynthesis	4
+M00100	all	rca_genes	-0.1825	Sphingosine degradation	5
+M00101	all	rca_genes	0.01071	Cholesterol biosynthesis, FPP => cholesterol	7
+M00102	all	rca_genes	0.1142	Ergocalciferol biosynthesis, FPP => ergosterol/ergocalciferol	6
+M00103	all	rca_genes	0.7458	Cholecalciferol biosynthesis	1
+M00104	all	rca_genes	0.7458	Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate	1
+M00109	all	rca_genes	0.3651	C21-Steroid hormone biosynthesis, progesterone => cortisol/cortisone	1
+M00112	all	rca_genes	-0.09663	Tocopherol/tocotorienol biosynthesis, homogentisate + phytyl/geranylgeranyl-PP => tocopherol/tocotorienol	7
+M00113	all	rca_genes	0.2584	Jasmonic acid biosynthesis	3
+M00114	all	rca_genes	0.0469	Ascorbate biosynthesis, plants, fructose-6P => ascorbate	7
+M00115	all	rca_genes	-0.1736	NAD biosynthesis, aspartate => quinolinate => NAD	6
+M00116	all	rca_genes	0.08441	Menaquinone biosynthesis, chorismate (+ polyprenyl-PP) => menaquinol	7
+M00117	all	rca_genes	-0.1146	Ubiquinone biosynthesis, prokaryotes, chorismate (+ polyprenyl-PP) => ubiquinol	5
+M00118	all	rca_genes	-0.1743	Glutathione biosynthesis, glutamate => glutathione	6
+M00119	all	rca_genes	0.1014	Pantothenate biosynthesis, valine/L-aspartate => pantothenate	5
+M00120	all	rca_genes	0.1117	Coenzyme A biosynthesis, pantothenate => CoA	6
+M00121	all	rca_genes	-0.1825	Heme biosynthesis, plants and bacteria, glutamate => heme	5
+M00122	all	rca_genes	-0.1569	Cobalamin biosynthesis, cobyrinate a,c-diamide => cobalamin	3
+M00123	all	rca_genes	-0.1496	Biotin biosynthesis, pimeloyl-ACP/CoA => biotin	5
+M00124	all	rca_genes	-0.07592	Pyridoxal-P biosynthesis, erythrose-4P => pyridoxal-P	4
+M00125	all	rca_genes	-0.09426	Riboflavin biosynthesis, plants and bacteria, GTP => riboflavin/FMN/FAD	7
+M00126	all	rca_genes	-0.05596	Tetrahydrofolate biosynthesis, GTP => THF	7
+M00127	all	rca_genes	-0.178	Thiamine biosynthesis, prokaryotes, AIR (+ DXP/tyrosine) => TMP/TPP	4
+M00128	all	rca_genes	-0.1603	Ubiquinone biosynthesis, eukaryotes, 4-hydroxybenzoate + polyprenyl-PP => ubiquinone	5
+M00129	all	rca_genes	0.3391	Ascorbate biosynthesis, animals, glucose-1P => ascorbate	3
+M00130	all	rca_genes	0.1333	Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4	6
+M00131	all	rca_genes	-0.1825	Inositol phosphate metabolism, Ins(1,3,4,5)P4 => Ins(1,3,4)P3 => myo-inositol	5
+M00132	all	rca_genes	0.1571	Inositol phosphate metabolism, Ins(1,3,4)P3 => phytate	5
+M00133	all	rca_genes	0.01108	Polyamine biosynthesis, arginine => agmatine => putrescine => spermidine	5
+M00134	all	rca_genes	0.06649	Polyamine biosynthesis, arginine => ornithine => putrescine	6
+M00135	all	rca_genes	0.09743	GABA biosynthesis, eukaryotes, putrescine => GABA	4
+M00137	all	rca_genes	-0.07569	Flavanone biosynthesis, phenylalanine => naringenin	4
+M00138	all	rca_genes	0.462	Flavonoid biosynthesis, naringenin => pelargonidin	3
+M00140	all	rca_genes	-0.1355	C1-unit interconversion, prokaryotes	6
+M00141	all	rca_genes	-0.1852	C1-unit interconversion, eukaryotes	3
+M00142	all	rca_genes	0.2515	NADH:ubiquinone oxidoreductase, mitochondria	4
+M00143	all	rca_genes	-0.1362	NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria	6
+M00144	all	rca_genes	-0.1261	NADH:quinone oxidoreductase, prokaryotes	5
+M00145	all	rca_genes	0.1645	NAD(P)H:quinone oxidoreductase, chloroplasts and cyanobacteria	4
+M00146	all	rca_genes	-0.1825	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	5
+M00147	all	rca_genes	-0.07885	NADH dehydrogenase (ubiquinone) 1 beta subcomplex	6
+M00148	all	rca_genes	-0.1324	Succinate dehydrogenase (ubiquinone)	5
+M00149	all	rca_genes	0.0623	Succinate dehydrogenase, prokaryotes	6
+M00151	all	rca_genes	-0.01845	Cytochrome bc1 complex respiratory unit	5
+M00152	all	rca_genes	0.009225	Cytochrome bc1 complex	4
+M00154	all	rca_genes	-0.004245	Cytochrome c oxidase	5
+M00155	all	rca_genes	0.1349	Cytochrome c oxidase, prokaryotes	1
+M00157	all	rca_genes	0.2584	F-type ATPase, prokaryotes and chloroplasts	3
+M00158	all	rca_genes	0.1349	F-type ATPase, eukaryotes	5
+M00160	all	rca_genes	-0.1352	V-type ATPase, eukaryotes	7
+M00161	all	rca_genes	0.1354	Photosystem II	3
+M00162	all	rca_genes	0.1354	Cytochrome b6f complex	3
+M00163	all	rca_genes	0.04161	Photosystem I	4
+M00165	all	rca_genes	-0.1859	Reductive pentose phosphate cycle (Calvin cycle)	4
+M00168	all	rca_genes	0.04181	CAM (Crassulacean acid metabolism), dark	5
+M00169	all	rca_genes	0.006758	CAM (Crassulacean acid metabolism), light	5
+M00170	all	rca_genes	-0.07934	C4-dicarboxylic acid cycle, phosphoenolpyruvate carboxykinase type	6
+M00171	all	rca_genes	0.1817	C4-dicarboxylic acid cycle, NAD - malic enzyme type	5
+M00172	all	rca_genes	0.006758	C4-dicarboxylic acid cycle, NADP - malic enzyme type	5
+M00173	all	rca_genes	0.07608	Reductive citrate cycle (Arnon-Buchanan cycle)	6
+M00176	all	rca_genes	-0.1295	Assimilatory sulfate reduction, sulfate => H2S	7
+M00307	all	rca_genes	-0.1647	Pyruvate oxidation, pyruvate => acetyl-CoA	6
+M00308	all	rca_genes	-0.149	Semi-phosphorylative Entner-Doudoroff pathway, gluconate => glycerate-3P	4
+M00338	all	rca_genes	0.5105	Cysteine biosynthesis, homocysteine + serine => cysteine	2
+M00344	all	rca_genes	0.05281	Formaldehyde assimilation, xylulose monophosphate pathway	6
+M00345	all	rca_genes	-0.01791	Formaldehyde assimilation, ribulose monophosphate pathway	8
+M00346	all	rca_genes	0.06191	Formaldehyde assimilation, serine pathway	6
+M00357	all	rca_genes	-0.1743	Methanogenesis, acetate => methane	6
+M00358	all	rca_genes	-0.2413	Coenzyme M biosynthesis	1
+M00364	all	rca_genes	0.1223	C10-C20 isoprenoid biosynthesis, bacteria	3
+M00365	all	rca_genes	0.005646	C10-C20 isoprenoid biosynthesis, archaea	7
+M00366	all	rca_genes	0.01738	C10-C20 isoprenoid biosynthesis, plants	5
+M00367	all	rca_genes	0.0623	C10-C20 isoprenoid biosynthesis, non-plant eukaryotes	6
+M00368	all	rca_genes	0.3802	Ethylene biosynthesis, methionine => ethylene	4
+M00369	all	rca_genes	0.7458	Cyanogenic glycoside biosynthesis, tyrosine => dhurrin	1
+M00370	all	rca_genes	0.3853	Glucosinolate biosynthesis, tryptophan => glucobrassicin	3
+M00371	all	rca_genes	0.4153	Castasterone biosynthesis, campesterol => castasterone	3
+M00372	all	rca_genes	0.2854	Abscisic acid biosynthesis, beta-carotene => abscisic acid	5
+M00373	all	rca_genes	-0.2226	Ethylmalonyl pathway	3
+M00374	all	rca_genes	0.1223	Dicarboxylate-hydroxybutyrate cycle	5
+M00375	all	rca_genes	-0.176	Hydroxypropionate-hydroxybutylate cycle	4
+M00376	all	rca_genes	-0.1647	3-Hydroxypropionate bi-cycle	6
+M00377	all	rca_genes	-0.12	Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway)	6
+M00378	all	rca_genes	-0.09373	F420 biosynthesis, archaea	1
+M00415	all	rca_genes	0.1026	Fatty acid elongation in endoplasmic reticulum	5
+M00418	all	rca_genes	0.2751	Toluene degradation, anaerobic, toluene => benzoyl-CoA	1
+M00432	all	rca_genes	0.05271	Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate	6
+M00433	all	rca_genes	0.7458	Lysine biosynthesis, 2-oxoglutarate => 2-oxoadipate	1
+M00525	all	rca_genes	-0.1143	Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine	7
+M00526	all	rca_genes	-0.1352	Lysine biosynthesis, DAP dehydrogenase pathway, aspartate => lysine	7
+M00527	all	rca_genes	-0.09312	Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine	6
+M00529	all	rca_genes	0.2975	Denitrification, nitrate => nitrogen	2
+M00531	all	rca_genes	-0.09071	Assimilatory nitrate reduction, nitrate => ammonia	5
+M00532	all	rca_genes	-0.2226	Photorespiration	3
+M00535	all	rca_genes	-0.1075	Isoleucine biosynthesis, pyruvate => 2-oxobutanoate	5
+M00546	all	rca_genes	-0.1611	Purine degradation, xanthine => urea	5
+M00549	all	rca_genes	-0.0405	Nucleotide sugar biosynthesis, glucose => UDP-glucose	6
+M00552	all	rca_genes	-0.05678	D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P	4
+M00554	all	rca_genes	-0.1033	Nucleotide sugar biosynthesis, galactose => UDP-galactose	6
+M00555	all	rca_genes	-0.002022	Betaine biosynthesis, choline => betaine	7
+M00565	all	rca_genes	-0.1802	Trehalose biosynthesis, D-glucose 1P => trehalose	6
+M00570	all	rca_genes	0.1941	Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine	4
+M00572	all	rca_genes	0.1687	Pimeloyl-ACP biosynthesis, BioC-BioH pathway, malonyl-ACP => pimeloyl-ACP	6
+M00573	all	rca_genes	-0.1647	Biotin biosynthesis, BioI pathway, long-chain-acyl-ACP => pimeloyl-ACP => biotin	6
+M00577	all	rca_genes	-0.1647	Biotin biosynthesis, BioW pathway, pimelate => pimeloyl-CoA => biotin	6
+M00579	all	rca_genes	-0.1678	Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate	7
+M00580	all	rca_genes	-0.09184	Pentose phosphate pathway, archaea, fructose 6P => ribose 5P	4
+M00596	all	rca_genes	-0.1508	Dissimilatory sulfate reduction, sulfate => H2S	1
+M00608	all	rca_genes	0.7458	2-Oxocarboxylic acid chain extension, 2-oxoglutarate => 2-oxoadipate => 2-oxopimelate => 2-oxosuberate	1
+M00609	all	rca_genes	0.09447	Cysteine biosynthesis, methionine => cysteine	4
+M00620	all	rca_genes	-0.03851	Incomplete reductive citrate cycle, acetyl-CoA => oxoglutarate	3
+M00621	all	rca_genes	-0.1355	Glycine cleavage system	6
+M00622	all	rca_genes	-0.1508	Nicotinate degradation, nicotinate => fumarate	1
+M00630	all	rca_genes	-0.1508	D-Galacturonate degradation (fungi), D-galacturonate => glycerol	1
+M00631	all	rca_genes	-0.1916	D-Galacturonate degradation (bacteria), D-galacturonate => pyruvate + D-glyceraldehyde 3P	3
+M00632	all	rca_genes	0.1456	Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P	5
+M00740	all	rca_genes	-0.03124	Methylaspartate cycle	6
+M00741	all	rca_genes	-0.2133	Propanoyl-CoA metabolism, propanoyl-CoA => succinyl-CoA	2
+M00789	all	rca_genes	-0.1332	Rebeccamycin biosynthesis, tryptophan => rebeccamycin	1
+M00790	all	rca_genes	-0.1332	Pyrrolnitrin biosynthesis, tryptophan => pyrrolnitrin	1
+M00793	all	rca_genes	0.7458	dTDP-L-rhamnose biosynthesis, glucose-1P => dTDP-L-Rha	1
+M00819	all	rca_genes	0.7458	Pentalenolactone biosynthesis, farnesyl-PP => pentalenolactone	1
+M00830	all	rca_genes	0.7458	Neocarzinostatin naphthoate moiety biosynthesis, malonyl-CoA => 2-hydroxy-5-methyl-1-naphthoate => 2-hydroxy-7-methoxy-5-methyl-1-naphthoyl-CoA	1
+M00835	all	rca_genes	-0.05861	Pyocyanine biosynthesis, chorismate => pyocyanine	6
+M00840	all	rca_genes	0.009879	Tetrahydrofolate biosynthesis, mediated by ribA and trpF, GTP => THF	4
+M00841	all	rca_genes	-0.1111	Tetrahydrofolate biosynthesis, mediated by PTPS, GTP => THF	6
+M00842	all	rca_genes	-0.02565	Tetrahydrobiopterin biosynthesis, GTP => BH4	4
+M00843	all	rca_genes	-0.02565	L-threo-Tetrahydrobiopterin biosynthesis, GTP => L-threo-BH4	4
+M00844	all	rca_genes	-0.1062	Arginine biosynthesis, ornithine => arginine	6
+M00845	all	rca_genes	-0.08844	Arginine biosynthesis, glutamate => acetylcitrulline => arginine	6
+M00846	all	rca_genes	-0.1401	Siroheme biosynthesis, glutamyl-tRNA => siroheme	4
+M00848	all	rca_genes	0.1394	Aurachin biosynthesis, anthranilate => aurachin A	6
+M00849	all	rca_genes	0.03426	C5 isoprenoid biosynthesis, mevalonate pathway, archaea	3
+M00854	all	rca_genes	-0.1151	Glycogen biosynthesis, glucose-1P => glycogen/starch	7
+M00855	all	rca_genes	-0.1678	Glycogen degradation, glycogen => glucose-6P	7
+M00861	all	rca_genes	0.0315	beta-Oxidation, peroxisome, VLCFA	4
+M00862	all	rca_genes	0.7458	beta-Oxidation, peroxisome, tri/dihydroxycholestanoyl-CoA => choloyl/chenodeoxycholoyl-CoA	1
+M00866	all	rca_genes	-0.104	KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type	5
+M00868	all	rca_genes	-0.1556	Heme biosynthesis, animals and fungi, glycine => heme	6
+M00872	all	rca_genes	0.7458	O-glycan biosynthesis, mannose type (core M3)	1
+M00873	all	rca_genes	-0.1609	Fatty acid biosynthesis in mitochondria, animals	5
+M00874	all	rca_genes	0.2166	Fatty acid biosynthesis in mitochondria, fungi	4
+M00878	all	rca_genes	-0.09721	Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA	7
+M00880	all	rca_genes	-0.1062	Molybdenum cofactor biosynthesis, GTP => molybdenum cofactor	6
+M00881	all	rca_genes	-0.1118	Lipoic acid biosynthesis, plants and bacteria, octanoyl-ACP => dihydrolipoyl-E2/H	6
+M00882	all	rca_genes	-0.178	Lipoic acid biosynthesis, eukaryotes, octanoyl-ACP => dihydrolipoyl-H	4
+M00883	all	rca_genes	-0.178	Lipoic acid biosynthesis, animals and bacteria, octanoyl-ACP => dihydrolipoyl-H => dihydrolipoyl-E2	4
+M00884	all	rca_genes	-0.178	Lipoic acid biosynthesis, octanoyl-CoA => dihydrolipoyl-E2	4
+M00885	all	rca_genes	-0.01111	Meromycolic acid biosynthesis, initiation and elongation FAS II (KasA)	4
+M00886	all	rca_genes	-0.01111	Meromycolic acid biosynthesis, initiation and elongation FAS II (KasA and KasB)	4
+M00892	all	rca_genes	-0.1609	UDP-N-acetyl-D-glucosamine biosynthesis, eukaryotes, glucose => UDP-GlcNAc	5
+M00895	all	rca_genes	0.03854	Thiamine biosynthesis, prokaryotes, AIR (+ DXP/glycine) => TMP/TPP	7
+M00896	all	rca_genes	-0.007091	Thiamine biosynthesis, archaea, AIR (+ NAD+) => TMP/TPP	9
+M00897	all	rca_genes	-0.1782	Thiamine biosynthesis, plants, AIR (+ NAD+) => TMP/thiamine/TPP	5
+M00898	all	rca_genes	-0.1615	Thiamine biosynthesis, pyridoxal-5P => TMP/thiamine/TPP	3
+M00899	all	rca_genes	-0.1558	Thiamine salvage pathway, HMP/HET => TMP	6
+M00900	all	rca_genes	0.2751	Crocin biosynthesis, crocetin => crocin	1
+M00902	all	rca_genes	0.3201	Podophyllotoxin biosynthesis, coniferyl alcohol => podophyllotoxin	2
+M00909	all	rca_genes	-0.0792	UDP-N-acetyl-D-glucosamine biosynthesis, prokaryotes, glucose => UDP-GlcNAc	5
+M00910	all	rca_genes	-0.0007327	Phenylalanine biosynthesis, chorismate => arogenate => phenylalanine	5
+M00911	all	rca_genes	0.08567	Riboflavin biosynthesis, fungi, GTP => riboflavin/FMN/FAD	6
+M00912	all	rca_genes	-0.1296	NAD biosynthesis, tryptophan => quinolinate => NAD	6
+M00913	all	rca_genes	0.1295	Pantothenate biosynthesis, 2-oxoisovalerate/spermine => pantothenate	5
+M00914	all	rca_genes	-0.01517	Coenzyme A biosynthesis, archaea, 2-oxoisovalerate => 4-phosphopantoate => CoA	5
+M00916	all	rca_genes	-0.03427	Pyridoxal-P biosynthesis, R5P + glyceraldehyde-3P + glutamine => pyridoxal-P	4
+M00917	all	rca_genes	0.01379	Phytosterol biosynthesis, squalene 2,3-epoxide => campesterol/sitosterol	7
+M00921	all	rca_genes	0.7458	Cyclooctatin biosynthesis, dimethylallyl-PP + isopentenyl-PP => cyclooctatin	1
+M00924	all	rca_genes	-0.1603	Cobalamin biosynthesis, anaerobic, uroporphyrinogen III => sirohydrochlorin => cobyrinate a,c-diamide	5
+M00925	all	rca_genes	-0.1603	Cobalamin biosynthesis, aerobic, uroporphyrinogen III => precorrin 2 => cobyrinate a,c-diamide	5
+M00926	all	rca_genes	-0.16	Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme	5
+M00927	all	rca_genes	0.1057	Gibberellin A12 biosynthesis, GAPP => GA12	6
+M00928	all	rca_genes	0.229	Gibberellin A4/A1 biosynthesis, GA12/GA53 => GA4/GA1	4
+M00932	all	rca_genes	0.05501	Phylloquinone biosynthesis, chorismate (+ phytyl-PP) => phylloquinol	8
+M00933	all	rca_genes	-0.178	Plastoquinone biosynthesis, homogentisate + solanesyl-PP => plastoquinol	4
+M00935	all	rca_genes	0.7458	Methanofuran biosynthesis	1
+M00936	all	rca_genes	0.2998	Melatonin biosynthesis, plants, tryptophan => serotonin => melatonin	4
+M00938	all	rca_genes	0.06766	Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP	6
+M00939	all	rca_genes	-0.1508	Pyrimidine degradation, uracil => 3-hydroxypropanoate	1
+M00940	all	rca_genes	-0.07569	Flavanone biosynthesis, p-coumaroyl-CoA => liquiritigenin	4
+M00941	all	rca_genes	0.7458	Isoflavone biosynthesis, liquiritigenin/naringenin => daidzein/genistein	1
+M00942	all	rca_genes	0.4403	Pterocarpan biosynthesis, daidzein => medicarpin	2
+M00943	all	rca_genes	0.5105	Reticuline biosynthesis, dopamine + 4HPAA => (S)-reticuline	2
+M00944	all	rca_genes	0.7458	Morphine biosynthesis, (S)-reticuline => morphine	1
+M00945	all	rca_genes	0.7458	Sanguinarine biosynthesis, (S)-reticuline => sanguinarine	1
+M00946	all	rca_genes	0.5105	Noscapine biosynthesis, (S)-reticuline => noscapine	2
+M00950	all	rca_genes	-0.1647	Biotin biosynthesis, BioU pathway, pimeloyl-ACP/CoA => biotin	6
+M00952	all	rca_genes	0.7458	Benzoxazinoid biosynthesis, indoleglycerol phosphate => DIMBOA-glucoside	1
+M00953	all	rca_genes	0.2584	Mugineic acid biosynthesis, methionine => 3-epihydroxymugineic acid	3
+M00956	all	rca_genes	-0.1743	Lysine degradation, bacteria, L-lysine => succinate	6
+M00957	all	rca_genes	-0.1718	Lysine degradation, bacteria, L-lysine => glutarate => succinate/acetyl-CoA	5
+M00958	all	rca_genes	0.06722	Adenine ribonucleotide degradation, AMP => Urate	6
+M00959	all	rca_genes	0.1941	Guanine ribonucleotide degradation, GMP => Urate	4
+M00961	all	rca_genes	0.3081	Betacyanin biosynthesis, L-tyrosine => amaranthin	3
+M00965	all	rca_genes	0.5105	Vinblastine biosynthesis, geissoschizine => vinblastine	2
+M00968	all	rca_genes	0.1354	Pentose bisphosphate pathway (nucleoside degradation), archaea, nucleoside/NMP => 3-PGA/glycerone phosphate	3
+M00970	all	rca_genes	-0.05757	Proline degradation, proline => glutamate	5
+M00971	all	rca_genes	0.3231	QS-7 biosynthesis, 2,3-epoxysqualene => QS-7	4
+M00972	all	rca_genes	-0.07934	Proline metabolism	6
+M00973	all	rca_genes	0.2975	Anammox, nitrite + ammonia => nitrogen	2
+M00974	all	rca_genes	-0.06983	Betaine metabolism, animals, betaine => glycine	6
+M00975	all	rca_genes	0.06979	Betaine degradation, bacteria, betaine => pyruvate	4
+M00976	all	rca_genes	0.005646	C19-Steroid hormone biosynthesis, pregnenolone => testosterone => dihydrotestosterone	7
+M00978	all	rca_genes	-0.1896	Ornithine-ammonia cycle	5
+M00980	all	rca_genes	0.7458	Strychnine biosynthesis, geissoschizine => strychnine	1
+M00981	all	rca_genes	0.1751	Geissoschizine biosynthesis, tryptophan => geissoschizine	5
+M00982	all	rca_genes	-0.03903	Methylcitrate cycle	4
+M00983	all	rca_genes	0.0706	GPI-anchor remodeling	5
+M00987	all	rca_genes	0.2136	Assimilatory sulfate reduction, plants, sulfate => H2S	3
+M00988	all	rca_genes	-0.0973	PreQ1 biosynthesis, GTP => 7-Aminomethyl-7-deazaguanine	6
+M00989	all	rca_genes	-0.1111	Ubiquinone biosynthesis, O2-independent, prokaryotes, chorismate (+ polyprenyl-PP) => ubiquinol	6
+M00990	all	rca_genes	0.1743	Dimethylsulfoniopropionate (DMSP) degradation, demethylation pathway, DMSP => methanethiol	5
+M00991	all	rca_genes	-0.1558	Dimethylsulfoniopropionate (DMSP) degradation, cleavage pathway, DMSP => acetyl-CoA	6
+M00992	all	rca_genes	-0.1558	Dimethylsulfoniopropionate (DMSP) degradation, cleavage pathway, DMSP => acrylate => acetyl-CoA	6
+M00001	land	complete	-0.04194	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	10
+M00002	land	complete	-0.04194	Glycolysis, core module involving three-carbon compounds	10
+M00003	land	complete	-0.04194	Gluconeogenesis, oxaloacetate => fructose-6P	10
+M00004	land	complete	-0.04194	Pentose phosphate pathway (Pentose phosphate cycle)	10
+M00005	land	complete	-0.04194	PRPP biosynthesis, ribose 5P => PRPP	10
+M00006	land	complete	-0.04194	Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P	10
+M00007	land	complete	-0.04194	Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P	10
+M00010	land	complete	-0.04194	Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate	10
+M00012	land	complete	-0.03436	Glyoxylate cycle	8
+M00015	land	complete	-0.006348	Proline biosynthesis, glutamate => proline	9
+M00017	land	complete	0.6956	Methionine biosynthesis, aspartate => homoserine => methionine	1
+M00018	land	complete	-0.006348	Threonine biosynthesis, aspartate => homoserine => threonine	9
+M00019	land	complete	-0.009161	Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine	9
+M00020	land	complete	-0.006348	Serine biosynthesis, glycerate-3P => serine	9
+M00021	land	complete	-0.04194	Cysteine biosynthesis, serine => cysteine	10
+M00022	land	complete	-0.01414	Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate	8
+M00023	land	complete	-0.05001	Tryptophan biosynthesis, chorismate => tryptophan	9
+M00026	land	complete	0.09027	Histidine biosynthesis, PRPP => histidine	7
+M00027	land	complete	0.0337	GABA (gamma-Aminobutyrate) shunt	8
+M00028	land	complete	0.0337	Ornithine biosynthesis, glutamate => ornithine	8
+M00034	land	complete	-0.05001	Methionine salvage pathway	9
+M00035	land	complete	0.444	Methionine degradation	2
+M00036	land	complete	0.03687	Leucine degradation, leucine => acetoacetate + acetyl-CoA	8
+M00039	land	complete	0.3575	Monolignol biosynthesis, phenylalanine/tyrosine => monolignol	3
+M00040	land	complete	0.03687	Tyrosine biosynthesis, chorismate => arogenate => tyrosine	8
+M00044	land	complete	-0.0885	Tyrosine degradation, tyrosine => homogentisate	7
+M00046	land	complete	0.03498	Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate	8
+M00048	land	complete	0.03498	De novo purine biosynthesis, PRPP + glutamine => IMP	8
+M00049	land	complete	-0.04194	Adenine ribonucleotide biosynthesis, IMP => ADP,ATP	10
+M00050	land	complete	-0.04194	Guanine ribonucleotide biosynthesis, IMP => GDP,GTP	10
+M00052	land	complete	-0.04194	Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP	10
+M00053	land	complete	0.03775	Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP	7
+M00055	land	complete	0.01103	N-glycan precursor biosynthesis	7
+M00065	land	complete	-0.06005	GPI-anchor biosynthesis, core oligosaccharide	2
+M00073	land	complete	0.1365	N-glycan precursor trimming	6
+M00081	land	complete	0.1358	Pectin degradation	3
+M00082	land	complete	-0.04194	Fatty acid biosynthesis, initiation	10
+M00083	land	complete	-0.04194	Fatty acid biosynthesis, elongation	10
+M00086	land	complete	-0.04194	beta-Oxidation, acyl-CoA synthesis	10
+M00087	land	complete	-0.04194	beta-Oxidation	10
+M00089	land	complete	-0.04194	Triacylglycerol biosynthesis	10
+M00091	land	complete	0.6956	Phosphatidylcholine (PC) biosynthesis, PE => PC	1
+M00092	land	complete	-0.03436	Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE	8
+M00093	land	complete	0.6956	Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE	1
+M00094	land	complete	0.6956	Ceramide biosynthesis	1
+M00095	land	complete	-0.04194	C5 isoprenoid biosynthesis, mevalonate pathway	10
+M00096	land	complete	0.09027	C5 isoprenoid biosynthesis, non-mevalonate pathway	7
+M00097	land	complete	-0.03436	beta-Carotene biosynthesis, GGAP => beta-carotene	8
+M00098	land	complete	-0.04194	Acylglycerol degradation	10
+M00099	land	complete	0.6956	Sphingosine biosynthesis	1
+M00100	land	complete	-0.009161	Sphingosine degradation	9
+M00112	land	complete	-0.04194	Tocopherol/tocotorienol biosynthesis, homogentisate + phytyl/geranylgeranyl-PP => tocopherol/tocotorienol	10
+M00113	land	complete	0.2758	Jasmonic acid biosynthesis	4
+M00114	land	complete	0.09027	Ascorbate biosynthesis, plants, fructose-6P => ascorbate	7
+M00115	land	complete	0.09027	NAD biosynthesis, aspartate => quinolinate => NAD	7
+M00118	land	complete	-0.1239	Glutathione biosynthesis, glutamate => glutathione	9
+M00120	land	complete	0.09027	Coenzyme A biosynthesis, pantothenate => CoA	7
+M00121	land	complete	-0.006348	Heme biosynthesis, plants and bacteria, glutamate => heme	9
+M00123	land	complete	-0.007477	Biotin biosynthesis, pimeloyl-ACP/CoA => biotin	9
+M00125	land	complete	-0.04194	Riboflavin biosynthesis, plants and bacteria, GTP => riboflavin/FMN/FAD	10
+M00126	land	complete	-0.0312	Tetrahydrofolate biosynthesis, GTP => THF	8
+M00132	land	complete	0.1275	Inositol phosphate metabolism, Ins(1,3,4)P3 => phytate	6
+M00133	land	complete	-0.03018	Polyamine biosynthesis, arginine => agmatine => putrescine => spermidine	8
+M00134	land	complete	-0.007753	Polyamine biosynthesis, arginine => ornithine => putrescine	7
+M00135	land	complete	0.6956	GABA biosynthesis, eukaryotes, putrescine => GABA	1
+M00137	land	complete	-0.04194	Flavanone biosynthesis, phenylalanine => naringenin	10
+M00138	land	complete	0.2758	Flavonoid biosynthesis, naringenin => pelargonidin	4
+M00140	land	complete	0.06116	C1-unit interconversion, prokaryotes	7
+M00143	land	complete	0.1843	NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria	1
+M00145	land	complete	0.1843	NAD(P)H:quinone oxidoreductase, chloroplasts and cyanobacteria	1
+M00151	land	complete	0.1075	Cytochrome bc1 complex respiratory unit	2
+M00157	land	complete	0.1843	F-type ATPase, prokaryotes and chloroplasts	1
+M00161	land	complete	0.1843	Photosystem II	1
+M00163	land	complete	0.1075	Photosystem I	2
+M00165	land	complete	0.02729	Reductive pentose phosphate cycle (Calvin cycle)	3
+M00168	land	complete	-0.04194	CAM (Crassulacean acid metabolism), dark	10
+M00169	land	complete	-0.01414	CAM (Crassulacean acid metabolism), light	8
+M00170	land	complete	-0.08599	C4-dicarboxylic acid cycle, phosphoenolpyruvate carboxykinase type	7
+M00171	land	complete	-0.05913	C4-dicarboxylic acid cycle, NAD - malic enzyme type	5
+M00172	land	complete	-0.01414	C4-dicarboxylic acid cycle, NADP - malic enzyme type	8
+M00307	land	complete	-0.04194	Pyruvate oxidation, pyruvate => acetyl-CoA	10
+M00344	land	complete	0.6956	Formaldehyde assimilation, xylulose monophosphate pathway	1
+M00364	land	complete	-0.04194	C10-C20 isoprenoid biosynthesis, bacteria	10
+M00365	land	complete	0.1925	C10-C20 isoprenoid biosynthesis, archaea	1
+M00366	land	complete	-0.05001	C10-C20 isoprenoid biosynthesis, plants	9
+M00368	land	complete	0.2758	Ethylene biosynthesis, methionine => ethylene	4
+M00371	land	complete	0.1116	Castasterone biosynthesis, campesterol => castasterone	2
+M00372	land	complete	0.3575	Abscisic acid biosynthesis, beta-carotene => abscisic acid	3
+M00415	land	complete	0.09834	Fatty acid elongation in endoplasmic reticulum	6
+M00432	land	complete	-0.04194	Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate	10
+M00527	land	complete	-0.006348	Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine	9
+M00531	land	complete	0.03498	Assimilatory nitrate reduction, nitrate => ammonia	8
+M00532	land	complete	0.1075	Photorespiration	2
+M00549	land	complete	-0.04194	Nucleotide sugar biosynthesis, glucose => UDP-glucose	10
+M00555	land	complete	-0.09725	Betaine biosynthesis, choline => betaine	8
+M00570	land	complete	-0.009161	Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine	9
+M00579	land	complete	-0.2779	Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate	5
+M00621	land	complete	-0.04194	Glycine cleavage system	10
+M00844	land	complete	-0.04194	Arginine biosynthesis, ornithine => arginine	10
+M00854	land	complete	-0.04194	Glycogen biosynthesis, glucose-1P => glycogen/starch	10
+M00855	land	complete	-0.04194	Glycogen degradation, glycogen => glucose-6P	10
+M00880	land	complete	0.03775	Molybdenum cofactor biosynthesis, GTP => molybdenum cofactor	7
+M00881	land	complete	-0.04194	Lipoic acid biosynthesis, plants and bacteria, octanoyl-ACP => dihydrolipoyl-E2/H	10
+M00882	land	complete	-0.09212	Lipoic acid biosynthesis, eukaryotes, octanoyl-ACP => dihydrolipoyl-H	7
+M00892	land	complete	0.03498	UDP-N-acetyl-D-glucosamine biosynthesis, eukaryotes, glucose => UDP-GlcNAc	8
+M00897	land	complete	-0.1239	Thiamine biosynthesis, plants, AIR (+ NAD+) => TMP/thiamine/TPP	9
+M00899	land	complete	-0.1239	Thiamine salvage pathway, HMP/HET => TMP	9
+M00910	land	complete	0.03687	Phenylalanine biosynthesis, chorismate => arogenate => phenylalanine	8
+M00916	land	complete	-0.04194	Pyridoxal-P biosynthesis, R5P + glyceraldehyde-3P + glutamine => pyridoxal-P	10
+M00927	land	complete	0.44	Gibberellin A12 biosynthesis, GAPP => GA12	2
+M00928	land	complete	0.1013	Gibberellin A4/A1 biosynthesis, GA12/GA53 => GA4/GA1	6
+M00932	land	complete	0.03498	Phylloquinone biosynthesis, chorismate (+ phytyl-PP) => phylloquinol	8
+M00933	land	complete	-0.04194	Plastoquinone biosynthesis, homogentisate + solanesyl-PP => plastoquinol	10
+M00936	land	complete	0.444	Melatonin biosynthesis, plants, tryptophan => serotonin => melatonin	2
+M00938	land	complete	0.03775	Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP	7
+M00941	land	complete	0.1925	Isoflavone biosynthesis, liquiritigenin/naringenin => daidzein/genistein	1
+M00972	land	complete	-0.006348	Proline metabolism	9
+M00987	land	complete	0.03559	Assimilatory sulfate reduction, plants, sulfate => H2S	7
+M00001	land	near	-0.01568	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	10
+M00002	land	near	-0.01568	Glycolysis, core module involving three-carbon compounds	10
+M00003	land	near	-0.01568	Gluconeogenesis, oxaloacetate => fructose-6P	10
+M00004	land	near	-0.01568	Pentose phosphate pathway (Pentose phosphate cycle)	10
+M00005	land	near	-0.01568	PRPP biosynthesis, ribose 5P => PRPP	10
+M00006	land	near	-0.01568	Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P	10
+M00007	land	near	-0.01568	Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P	10
+M00008	land	near	0.09607	Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate	4
+M00009	land	near	0.05841	Citrate cycle (TCA cycle, Krebs cycle)	8
+M00010	land	near	-0.01568	Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate	10
+M00011	land	near	0.05841	Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate	8
+M00012	land	near	-0.01568	Glyoxylate cycle	10
+M00013	land	near	0.1982	Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA	4
+M00015	land	near	-0.01568	Proline biosynthesis, glutamate => proline	10
+M00017	land	near	-0.102	Methionine biosynthesis, aspartate => homoserine => methionine	5
+M00018	land	near	-0.01568	Threonine biosynthesis, aspartate => homoserine => threonine	10
+M00019	land	near	0.009645	Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine	9
+M00020	land	near	-0.01568	Serine biosynthesis, glycerate-3P => serine	10
+M00021	land	near	-0.01568	Cysteine biosynthesis, serine => cysteine	10
+M00022	land	near	-0.01568	Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate	10
+M00023	land	near	-0.01568	Tryptophan biosynthesis, chorismate => tryptophan	10
+M00024	land	near	-0.01568	Phenylalanine biosynthesis, chorismate => phenylpyruvate => phenylalanine	10
+M00025	land	near	0.4316	Tyrosine biosynthesis, chorismate => HPP => tyrosine	1
+M00026	land	near	0.1044	Histidine biosynthesis, PRPP => histidine	7
+M00027	land	near	-0.01568	GABA (gamma-Aminobutyrate) shunt	10
+M00028	land	near	-0.01568	Ornithine biosynthesis, glutamate => ornithine	10
+M00029	land	near	-0.01568	Urea cycle	10
+M00034	land	near	-0.01568	Methionine salvage pathway	10
+M00035	land	near	-0.01568	Methionine degradation	10
+M00036	land	near	0.06092	Leucine degradation, leucine => acetoacetate + acetyl-CoA	8
+M00039	land	near	0.3422	Monolignol biosynthesis, phenylalanine/tyrosine => monolignol	4
+M00040	land	near	-0.01568	Tyrosine biosynthesis, chorismate => arogenate => tyrosine	10
+M00043	land	near	-0.01568	Thyroid hormone biosynthesis, tyrosine => triiodothyronine/thyroxine	10
+M00044	land	near	-0.01568	Tyrosine degradation, tyrosine => homogentisate	10
+M00046	land	near	-0.01568	Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate	10
+M00048	land	near	-0.01568	De novo purine biosynthesis, PRPP + glutamine => IMP	10
+M00049	land	near	-0.01568	Adenine ribonucleotide biosynthesis, IMP => ADP,ATP	10
+M00050	land	near	-0.01568	Guanine ribonucleotide biosynthesis, IMP => GDP,GTP	10
+M00051	land	near	-0.01568	De novo pyrimidine biosynthesis, glutamine (+ PRPP) => UMP	10
+M00052	land	near	-0.01568	Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP	10
+M00053	land	near	-0.01568	Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP	10
+M00055	land	near	-0.01568	N-glycan precursor biosynthesis	10
+M00063	land	near	0.02044	CMP-3-deoxy-D-manno-octulosonate biosynthesis, ribulose-5P => CMP-KDO	9
+M00065	land	near	0.1691	GPI-anchor biosynthesis, core oligosaccharide	6
+M00068	land	near	0.1016	Glycosphingolipid biosynthesis, globo-series, LacCer => Gb4Cer	7
+M00072	land	near	-0.01568	N-glycosylation by oligosaccharyltransferase	10
+M00073	land	near	-0.01568	N-glycan precursor trimming	10
+M00081	land	near	0.04878	Pectin degradation	8
+M00082	land	near	-0.01568	Fatty acid biosynthesis, initiation	10
+M00083	land	near	-0.01568	Fatty acid biosynthesis, elongation	10
+M00086	land	near	-0.01568	beta-Oxidation, acyl-CoA synthesis	10
+M00087	land	near	-0.01568	beta-Oxidation	10
+M00088	land	near	-0.2833	Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone	1
+M00089	land	near	-0.01568	Triacylglycerol biosynthesis	10
+M00090	land	near	-0.06538	Phosphatidylcholine (PC) biosynthesis, choline => PC	9
+M00091	land	near	-0.01568	Phosphatidylcholine (PC) biosynthesis, PE => PC	10
+M00092	land	near	0.009645	Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE	9
+M00093	land	near	-0.01568	Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE	10
+M00094	land	near	-0.01568	Ceramide biosynthesis	10
+M00095	land	near	-0.01568	C5 isoprenoid biosynthesis, mevalonate pathway	10
+M00096	land	near	-0.01568	C5 isoprenoid biosynthesis, non-mevalonate pathway	10
+M00097	land	near	-0.01568	beta-Carotene biosynthesis, GGAP => beta-carotene	10
+M00098	land	near	-0.01568	Acylglycerol degradation	10
+M00099	land	near	-0.01568	Sphingosine biosynthesis	10
+M00100	land	near	-0.01568	Sphingosine degradation	10
+M00103	land	near	0.5798	Cholecalciferol biosynthesis	1
+M00112	land	near	-0.01568	Tocopherol/tocotorienol biosynthesis, homogentisate + phytyl/geranylgeranyl-PP => tocopherol/tocotorienol	10
+M00113	land	near	0.1635	Jasmonic acid biosynthesis	6
+M00114	land	near	-0.01568	Ascorbate biosynthesis, plants, fructose-6P => ascorbate	10
+M00115	land	near	0.02044	NAD biosynthesis, aspartate => quinolinate => NAD	9
+M00118	land	near	-0.01568	Glutathione biosynthesis, glutamate => glutathione	10
+M00120	land	near	0.02044	Coenzyme A biosynthesis, pantothenate => CoA	9
+M00121	land	near	0.02044	Heme biosynthesis, plants and bacteria, glutamate => heme	9
+M00123	land	near	-0.01568	Biotin biosynthesis, pimeloyl-ACP/CoA => biotin	10
+M00125	land	near	-0.01568	Riboflavin biosynthesis, plants and bacteria, GTP => riboflavin/FMN/FAD	10
+M00126	land	near	0.02044	Tetrahydrofolate biosynthesis, GTP => THF	9
+M00128	land	near	-0.04815	Ubiquinone biosynthesis, eukaryotes, 4-hydroxybenzoate + polyprenyl-PP => ubiquinone	5
+M00130	land	near	0.5798	Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4	1
+M00132	land	near	0.02044	Inositol phosphate metabolism, Ins(1,3,4)P3 => phytate	9
+M00133	land	near	-0.01568	Polyamine biosynthesis, arginine => agmatine => putrescine => spermidine	10
+M00134	land	near	-0.01568	Polyamine biosynthesis, arginine => ornithine => putrescine	10
+M00135	land	near	-0.01568	GABA biosynthesis, eukaryotes, putrescine => GABA	10
+M00137	land	near	-0.01568	Flavanone biosynthesis, phenylalanine => naringenin	10
+M00138	land	near	0.3422	Flavonoid biosynthesis, naringenin => pelargonidin	4
+M00140	land	near	-0.01568	C1-unit interconversion, prokaryotes	10
+M00141	land	near	-0.01568	C1-unit interconversion, eukaryotes	10
+M00142	land	near	-0.01568	NADH:ubiquinone oxidoreductase, mitochondria	10
+M00143	land	near	-0.01568	NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria	10
+M00144	land	near	-0.01568	NADH:quinone oxidoreductase, prokaryotes	10
+M00145	land	near	-0.01568	NAD(P)H:quinone oxidoreductase, chloroplasts and cyanobacteria	10
+M00146	land	near	-0.01568	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	10
+M00147	land	near	-0.01568	NADH dehydrogenase (ubiquinone) 1 beta subcomplex	10
+M00148	land	near	-0.01568	Succinate dehydrogenase (ubiquinone)	10
+M00149	land	near	-0.01568	Succinate dehydrogenase, prokaryotes	10
+M00150	land	near	-0.01568	Fumarate reductase, prokaryotes	10
+M00151	land	near	-0.01568	Cytochrome bc1 complex respiratory unit	10
+M00152	land	near	-0.01568	Cytochrome bc1 complex	10
+M00153	land	near	-0.01568	Cytochrome bd ubiquinol oxidase	10
+M00154	land	near	-0.01568	Cytochrome c oxidase	10
+M00155	land	near	-0.01568	Cytochrome c oxidase, prokaryotes	10
+M00156	land	near	-0.01568	Cytochrome c oxidase, cbb3-type	10
+M00157	land	near	-0.01568	F-type ATPase, prokaryotes and chloroplasts	10
+M00158	land	near	-0.01568	F-type ATPase, eukaryotes	10
+M00159	land	near	-0.01568	V/A-type ATPase, prokaryotes	10
+M00160	land	near	-0.01568	V-type ATPase, eukaryotes	10
+M00161	land	near	-0.01568	Photosystem II	10
+M00162	land	near	-0.01568	Cytochrome b6f complex	10
+M00163	land	near	-0.01568	Photosystem I	10
+M00165	land	near	-0.01568	Reductive pentose phosphate cycle (Calvin cycle)	10
+M00168	land	near	-0.01568	CAM (Crassulacean acid metabolism), dark	10
+M00169	land	near	-0.01568	CAM (Crassulacean acid metabolism), light	10
+M00170	land	near	-0.01568	C4-dicarboxylic acid cycle, phosphoenolpyruvate carboxykinase type	10
+M00171	land	near	-0.01568	C4-dicarboxylic acid cycle, NAD - malic enzyme type	10
+M00172	land	near	-0.01568	C4-dicarboxylic acid cycle, NADP - malic enzyme type	10
+M00175	land	near	-0.01568	Nitrogen fixation, nitrogen => ammonia	10
+M00176	land	near	-0.009036	Assimilatory sulfate reduction, sulfate => H2S	8
+M00307	land	near	-0.01568	Pyruvate oxidation, pyruvate => acetyl-CoA	10
+M00308	land	near	-0.1773	Semi-phosphorylative Entner-Doudoroff pathway, gluconate => glycerate-3P	2
+M00338	land	near	0.5057	Cysteine biosynthesis, homocysteine + serine => cysteine	2
+M00344	land	near	0.06092	Formaldehyde assimilation, xylulose monophosphate pathway	8
+M00345	land	near	0.02044	Formaldehyde assimilation, ribulose monophosphate pathway	9
+M00364	land	near	-0.01568	C10-C20 isoprenoid biosynthesis, bacteria	10
+M00365	land	near	-0.01568	C10-C20 isoprenoid biosynthesis, archaea	10
+M00366	land	near	-0.01568	C10-C20 isoprenoid biosynthesis, plants	10
+M00367	land	near	-0.01568	C10-C20 isoprenoid biosynthesis, non-plant eukaryotes	10
+M00368	land	near	0.3422	Ethylene biosynthesis, methionine => ethylene	4
+M00369	land	near	0.5798	Cyanogenic glycoside biosynthesis, tyrosine => dhurrin	1
+M00370	land	near	0.1985	Glucosinolate biosynthesis, tryptophan => glucobrassicin	1
+M00371	land	near	0.3422	Castasterone biosynthesis, campesterol => castasterone	4
+M00372	land	near	0.3422	Abscisic acid biosynthesis, beta-carotene => abscisic acid	4
+M00415	land	near	-0.01568	Fatty acid elongation in endoplasmic reticulum	10
+M00416	land	near	-0.01568	Cytochrome aa3-600 menaquinol oxidase	10
+M00417	land	near	-0.01568	Cytochrome o ubiquinol oxidase	10
+M00432	land	near	-0.01568	Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate	10
+M00526	land	near	0.02044	Lysine biosynthesis, DAP dehydrogenase pathway, aspartate => lysine	9
+M00527	land	near	-0.01568	Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine	10
+M00531	land	near	-0.01568	Assimilatory nitrate reduction, nitrate => ammonia	10
+M00532	land	near	0.02044	Photorespiration	9
+M00535	land	near	-0.01568	Isoleucine biosynthesis, pyruvate => 2-oxobutanoate	10
+M00546	land	near	-0.01568	Purine degradation, xanthine => urea	10
+M00548	land	near	-0.01568	Benzene degradation, benzene => catechol	10
+M00549	land	near	-0.01568	Nucleotide sugar biosynthesis, glucose => UDP-glucose	10
+M00554	land	near	-0.01568	Nucleotide sugar biosynthesis, galactose => UDP-galactose	10
+M00555	land	near	-0.01568	Betaine biosynthesis, choline => betaine	10
+M00570	land	near	0.009645	Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine	9
+M00579	land	near	-0.2543	Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate	6
+M00580	land	near	-0.01568	Pentose phosphate pathway, archaea, fructose 6P => ribose 5P	10
+M00595	land	near	-0.01568	Sulfur oxidation, SOX system, thiosulfate => sulfate	10
+M00597	land	near	-0.01568	Anoxygenic photosystem II	10
+M00598	land	near	-0.01568	Anoxygenic photosystem I	10
+M00621	land	near	-0.01568	Glycine cleavage system	10
+M00632	land	near	-0.01568	Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P	10
+M00637	land	near	-0.01568	Anthranilate degradation, anthranilate => catechol	10
+M00638	land	near	-0.01568	Salicylate degradation, salicylate => gentisate	10
+M00741	land	near	-0.3034	Propanoyl-CoA metabolism, propanoyl-CoA => succinyl-CoA	1
+M00841	land	near	-0.03095	Tetrahydrofolate biosynthesis, mediated by PTPS, GTP => THF	8
+M00842	land	near	0.4316	Tetrahydrobiopterin biosynthesis, GTP => BH4	1
+M00843	land	near	0.4316	L-threo-Tetrahydrobiopterin biosynthesis, GTP => L-threo-BH4	1
+M00844	land	near	-0.01568	Arginine biosynthesis, ornithine => arginine	10
+M00846	land	near	0.02044	Siroheme biosynthesis, glutamyl-tRNA => siroheme	9
+M00849	land	near	0.009645	C5 isoprenoid biosynthesis, mevalonate pathway, archaea	9
+M00854	land	near	-0.01568	Glycogen biosynthesis, glucose-1P => glycogen/starch	10
+M00855	land	near	-0.01568	Glycogen degradation, glycogen => glucose-6P	10
+M00861	land	near	-0.01568	beta-Oxidation, peroxisome, VLCFA	10
+M00868	land	near	0.02044	Heme biosynthesis, animals and fungi, glycine => heme	9
+M00874	land	near	0.005914	Fatty acid biosynthesis in mitochondria, fungi	9
+M00880	land	near	0.06092	Molybdenum cofactor biosynthesis, GTP => molybdenum cofactor	8
+M00881	land	near	-0.01568	Lipoic acid biosynthesis, plants and bacteria, octanoyl-ACP => dihydrolipoyl-E2/H	10
+M00882	land	near	-0.01568	Lipoic acid biosynthesis, eukaryotes, octanoyl-ACP => dihydrolipoyl-H	10
+M00883	land	near	-0.00878	Lipoic acid biosynthesis, animals and bacteria, octanoyl-ACP => dihydrolipoyl-H => dihydrolipoyl-E2	7
+M00884	land	near	-0.01568	Lipoic acid biosynthesis, octanoyl-CoA => dihydrolipoyl-E2	10
+M00892	land	near	0.009645	UDP-N-acetyl-D-glucosamine biosynthesis, eukaryotes, glucose => UDP-GlcNAc	9
+M00897	land	near	-0.01568	Thiamine biosynthesis, plants, AIR (+ NAD+) => TMP/thiamine/TPP	10
+M00899	land	near	-0.01568	Thiamine salvage pathway, HMP/HET => TMP	10
+M00900	land	near	0.4316	Crocin biosynthesis, crocetin => crocin	1
+M00910	land	near	-0.01568	Phenylalanine biosynthesis, chorismate => arogenate => phenylalanine	10
+M00916	land	near	-0.01568	Pyridoxal-P biosynthesis, R5P + glyceraldehyde-3P + glutamine => pyridoxal-P	10
+M00917	land	near	0.02519	Phytosterol biosynthesis, squalene 2,3-epoxide => campesterol/sitosterol	6
+M00926	land	near	0.02044	Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme	9
+M00927	land	near	0.4033	Gibberellin A12 biosynthesis, GAPP => GA12	3
+M00928	land	near	-0.01568	Gibberellin A4/A1 biosynthesis, GA12/GA53 => GA4/GA1	10
+M00932	land	near	-0.01568	Phylloquinone biosynthesis, chorismate (+ phytyl-PP) => phylloquinol	10
+M00933	land	near	-0.01568	Plastoquinone biosynthesis, homogentisate + solanesyl-PP => plastoquinol	10
+M00936	land	near	0.3422	Melatonin biosynthesis, plants, tryptophan => serotonin => melatonin	4
+M00938	land	near	-0.01568	Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP	10
+M00940	land	near	-0.01568	Flavanone biosynthesis, p-coumaroyl-CoA => liquiritigenin	10
+M00941	land	near	0.5798	Isoflavone biosynthesis, liquiritigenin/naringenin => daidzein/genistein	1
+M00958	land	near	-0.01568	Adenine ribonucleotide degradation, AMP => Urate	10
+M00959	land	near	0.1487	Guanine ribonucleotide degradation, GMP => Urate	3
+M00970	land	near	-0.01568	Proline degradation, proline => glutamate	10
+M00972	land	near	-0.01568	Proline metabolism	10
+M00978	land	near	-0.05416	Ornithine-ammonia cycle	8
+M00981	land	near	0.5798	Geissoschizine biosynthesis, tryptophan => geissoschizine	1
+M00983	land	near	-0.01568	GPI-anchor remodeling	10
+M00985	land	near	-0.01568	Sulfide oxidation, sulfide => sulfur	10
+M00986	land	near	-0.01568	Sulfur reduction, sulfur => sulfide	10
+M00987	land	near	-0.01568	Assimilatory sulfate reduction, plants, sulfate => H2S	10
+M00001	land	rca_genes	-0.1984	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	4
+M00002	land	rca_genes	-0.1984	Glycolysis, core module involving three-carbon compounds	4
+M00003	land	rca_genes	-0.2102	Gluconeogenesis, oxaloacetate => fructose-6P	5
+M00004	land	rca_genes	-0.1194	Pentose phosphate pathway (Pentose phosphate cycle)	6
+M00005	land	rca_genes	0.1453	PRPP biosynthesis, ribose 5P => PRPP	5
+M00006	land	rca_genes	-0.02878	Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P	5
+M00007	land	rca_genes	-0.2102	Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P	5
+M00008	land	rca_genes	-0.02878	Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate	5
+M00009	land	rca_genes	-0.0623	Citrate cycle (TCA cycle, Krebs cycle)	5
+M00010	land	rca_genes	-0.05686	Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate	5
+M00011	land	rca_genes	0.01028	Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate	4
+M00012	land	rca_genes	0.06241	Glyoxylate cycle	5
+M00013	land	rca_genes	0.2536	Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA	4
+M00014	land	rca_genes	0.3857	Glucuronate pathway (uronate pathway)	3
+M00015	land	rca_genes	0.08833	Proline biosynthesis, glutamate => proline	5
+M00016	land	rca_genes	-0.1422	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine	6
+M00017	land	rca_genes	-0.0623	Methionine biosynthesis, aspartate => homoserine => methionine	5
+M00018	land	rca_genes	-0.1462	Threonine biosynthesis, aspartate => homoserine => threonine	7
+M00019	land	rca_genes	0.1016	Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine	6
+M00020	land	rca_genes	-0.005238	Serine biosynthesis, glycerate-3P => serine	5
+M00021	land	rca_genes	0.0008168	Cysteine biosynthesis, serine => cysteine	4
+M00022	land	rca_genes	0.06192	Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate	4
+M00023	land	rca_genes	-0.05496	Tryptophan biosynthesis, chorismate => tryptophan	3
+M00024	land	rca_genes	0.1035	Phenylalanine biosynthesis, chorismate => phenylpyruvate => phenylalanine	3
+M00025	land	rca_genes	0.2019	Tyrosine biosynthesis, chorismate => HPP => tyrosine	2
+M00026	land	rca_genes	-0.1225	Histidine biosynthesis, PRPP => histidine	6
+M00027	land	rca_genes	0.178	GABA (gamma-Aminobutyrate) shunt	5
+M00028	land	rca_genes	-0.1035	Ornithine biosynthesis, glutamate => ornithine	6
+M00029	land	rca_genes	-0.1231	Urea cycle	6
+M00030	land	rca_genes	0.7533	Lysine biosynthesis, AAA pathway, 2-oxoglutarate => 2-aminoadipate => lysine	1
+M00032	land	rca_genes	-0.01813	Lysine degradation, lysine => saccharopine => acetoacetyl-CoA	7
+M00033	land	rca_genes	-0.1225	Ectoine biosynthesis, aspartate => ectoine	6
+M00034	land	rca_genes	-0.0007806	Methionine salvage pathway	7
+M00035	land	rca_genes	0.2646	Methionine degradation	5
+M00036	land	rca_genes	0.07071	Leucine degradation, leucine => acetoacetate + acetyl-CoA	5
+M00037	land	rca_genes	0.1757	Melatonin biosynthesis, animals, tryptophan => serotonin => melatonin	4
+M00038	land	rca_genes	0.1471	Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate	4
+M00039	land	rca_genes	0.4403	Monolignol biosynthesis, phenylalanine/tyrosine => monolignol	3
+M00040	land	rca_genes	0.2356	Tyrosine biosynthesis, chorismate => arogenate => tyrosine	5
+M00042	land	rca_genes	0.1757	Catecholamine biosynthesis, tyrosine => dopamine => noradrenaline => adrenaline	4
+M00044	land	rca_genes	0.1513	Tyrosine degradation, tyrosine => homogentisate	5
+M00045	land	rca_genes	0.5309	Histidine degradation, histidine => N-formiminoglutamate => glutamate	2
+M00046	land	rca_genes	-0.06465	Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate	4
+M00048	land	rca_genes	0.06447	De novo purine biosynthesis, PRPP + glutamine => IMP	4
+M00049	land	rca_genes	-0.09557	Adenine ribonucleotide biosynthesis, IMP => ADP,ATP	5
+M00050	land	rca_genes	-0.2081	Guanine ribonucleotide biosynthesis, IMP => GDP,GTP	4
+M00051	land	rca_genes	-0.1951	De novo pyrimidine biosynthesis, glutamine (+ PRPP) => UMP	5
+M00052	land	rca_genes	-0.03422	Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP	5
+M00053	land	rca_genes	0.02999	Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP	6
+M00055	land	rca_genes	-0.0902	N-glycan precursor biosynthesis	5
+M00060	land	rca_genes	-0.1056	KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type	4
+M00061	land	rca_genes	-0.2208	D-Glucuronate degradation, D-glucuronate => pyruvate + D-glyceraldehyde 3P	3
+M00063	land	rca_genes	-0.1467	CMP-3-deoxy-D-manno-octulosonate biosynthesis, ribulose-5P => CMP-KDO	6
+M00065	land	rca_genes	-0.08349	GPI-anchor biosynthesis, core oligosaccharide	4
+M00068	land	rca_genes	0.3664	Glycosphingolipid biosynthesis, globo-series, LacCer => Gb4Cer	4
+M00072	land	rca_genes	0.08281	N-glycosylation by oligosaccharyltransferase	2
+M00073	land	rca_genes	0.007341	N-glycan precursor trimming	4
+M00074	land	rca_genes	-0.04711	N-glycan biosynthesis, high-mannose type	3
+M00075	land	rca_genes	0.04156	N-glycan biosynthesis, complex type	4
+M00078	land	rca_genes	0.3664	Heparan sulfate degradation	4
+M00079	land	rca_genes	-0.1872	Keratan sulfate degradation	2
+M00081	land	rca_genes	0.4022	Pectin degradation	3
+M00082	land	rca_genes	-0.1099	Fatty acid biosynthesis, initiation	5
+M00083	land	rca_genes	0.2067	Fatty acid biosynthesis, elongation	5
+M00085	land	rca_genes	-0.1826	Fatty acid elongation in mitochondria	3
+M00086	land	rca_genes	0.1169	beta-Oxidation, acyl-CoA synthesis	4
+M00087	land	rca_genes	-0.01038	beta-Oxidation	5
+M00088	land	rca_genes	0.01317	Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone	5
+M00089	land	rca_genes	-0.04275	Triacylglycerol biosynthesis	4
+M00090	land	rca_genes	-0.07871	Phosphatidylcholine (PC) biosynthesis, choline => PC	4
+M00091	land	rca_genes	-0.04275	Phosphatidylcholine (PC) biosynthesis, PE => PC	4
+M00092	land	rca_genes	-0.06693	Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE	6
+M00093	land	rca_genes	-0.03783	Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE	5
+M00094	land	rca_genes	0.06923	Ceramide biosynthesis	2
+M00095	land	rca_genes	0.06364	C5 isoprenoid biosynthesis, mevalonate pathway	4
+M00096	land	rca_genes	-0.06147	C5 isoprenoid biosynthesis, non-mevalonate pathway	7
+M00097	land	rca_genes	-0.1231	beta-Carotene biosynthesis, GGAP => beta-carotene	6
+M00098	land	rca_genes	0.02271	Acylglycerol degradation	4
+M00099	land	rca_genes	0.1325	Sphingosine biosynthesis	3
+M00100	land	rca_genes	-0.2137	Sphingosine degradation	4
+M00101	land	rca_genes	0.03135	Cholesterol biosynthesis, FPP => cholesterol	6
+M00102	land	rca_genes	0.1086	Ergocalciferol biosynthesis, FPP => ergosterol/ergocalciferol	6
+M00103	land	rca_genes	0.7533	Cholecalciferol biosynthesis	1
+M00104	land	rca_genes	0.7533	Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate	1
+M00109	land	rca_genes	0.3085	C21-Steroid hormone biosynthesis, progesterone => cortisol/cortisone	1
+M00112	land	rca_genes	-0.1228	Tocopherol/tocotorienol biosynthesis, homogentisate + phytyl/geranylgeranyl-PP => tocopherol/tocotorienol	7
+M00113	land	rca_genes	0.2375	Jasmonic acid biosynthesis	3
+M00114	land	rca_genes	0.02162	Ascorbate biosynthesis, plants, fructose-6P => ascorbate	7
+M00115	land	rca_genes	-0.205	NAD biosynthesis, aspartate => quinolinate => NAD	5
+M00116	land	rca_genes	0.1066	Menaquinone biosynthesis, chorismate (+ polyprenyl-PP) => menaquinol	6
+M00117	land	rca_genes	-0.1185	Ubiquinone biosynthesis, prokaryotes, chorismate (+ polyprenyl-PP) => ubiquinol	5
+M00118	land	rca_genes	-0.1947	Glutathione biosynthesis, glutamate => glutathione	6
+M00119	land	rca_genes	0.1528	Pantothenate biosynthesis, valine/L-aspartate => pantothenate	4
+M00120	land	rca_genes	0.1565	Coenzyme A biosynthesis, pantothenate => CoA	5
+M00121	land	rca_genes	-0.1996	Heme biosynthesis, plants and bacteria, glutamate => heme	5
+M00122	land	rca_genes	-0.1678	Cobalamin biosynthesis, cobyrinate a,c-diamide => cobalamin	2
+M00123	land	rca_genes	-0.1719	Biotin biosynthesis, pimeloyl-ACP/CoA => biotin	4
+M00124	land	rca_genes	-0.09029	Pyridoxal-P biosynthesis, erythrose-4P => pyridoxal-P	4
+M00125	land	rca_genes	-0.1035	Riboflavin biosynthesis, plants and bacteria, GTP => riboflavin/FMN/FAD	6
+M00126	land	rca_genes	-0.05556	Tetrahydrofolate biosynthesis, GTP => THF	6
+M00127	land	rca_genes	0.02596	Thiamine biosynthesis, prokaryotes, AIR (+ DXP/tyrosine) => TMP/TPP	7
+M00128	land	rca_genes	-0.1843	Ubiquinone biosynthesis, eukaryotes, 4-hydroxybenzoate + polyprenyl-PP => ubiquinone	4
+M00129	land	rca_genes	0.3149	Ascorbate biosynthesis, animals, glucose-1P => ascorbate	3
+M00130	land	rca_genes	0.1212	Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4	6
+M00131	land	rca_genes	-0.2137	Inositol phosphate metabolism, Ins(1,3,4,5)P4 => Ins(1,3,4)P3 => myo-inositol	4
+M00132	land	rca_genes	0.1459	Inositol phosphate metabolism, Ins(1,3,4)P3 => phytate	5
+M00133	land	rca_genes	0.1468	Polyamine biosynthesis, arginine => agmatine => putrescine => spermidine	3
+M00134	land	rca_genes	0.09377	Polyamine biosynthesis, arginine => ornithine => putrescine	5
+M00135	land	rca_genes	0.08082	GABA biosynthesis, eukaryotes, putrescine => GABA	4
+M00137	land	rca_genes	-0.1073	Flavanone biosynthesis, phenylalanine => naringenin	4
+M00138	land	rca_genes	0.4403	Flavonoid biosynthesis, naringenin => pelargonidin	3
+M00140	land	rca_genes	-0.1526	C1-unit interconversion, prokaryotes	5
+M00141	land	rca_genes	-0.2168	C1-unit interconversion, eukaryotes	3
+M00142	land	rca_genes	0.2297	NADH:ubiquinone oxidoreductase, mitochondria	4
+M00143	land	rca_genes	-0.1472	NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria	5
+M00144	land	rca_genes	-0.1472	NADH:quinone oxidoreductase, prokaryotes	5
+M00145	land	rca_genes	0.1528	NAD(P)H:quinone oxidoreductase, chloroplasts and cyanobacteria	4
+M00146	land	rca_genes	-0.2137	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	4
+M00147	land	rca_genes	-0.08569	NADH dehydrogenase (ubiquinone) 1 beta subcomplex	5
+M00148	land	rca_genes	-0.1526	Succinate dehydrogenase (ubiquinone)	5
+M00149	land	rca_genes	0.09362	Succinate dehydrogenase, prokaryotes	5
+M00151	land	rca_genes	-0.03939	Cytochrome bc1 complex respiratory unit	5
+M00152	land	rca_genes	-0.00672	Cytochrome bc1 complex	4
+M00154	land	rca_genes	0.02354	Cytochrome c oxidase	4
+M00155	land	rca_genes	0.1448	Cytochrome c oxidase, prokaryotes	1
+M00157	land	rca_genes	0.2375	F-type ATPase, prokaryotes and chloroplasts	3
+M00158	land	rca_genes	0.1224	F-type ATPase, eukaryotes	5
+M00160	land	rca_genes	-0.151	V-type ATPase, eukaryotes	6
+M00161	land	rca_genes	0.1121	Photosystem II	3
+M00162	land	rca_genes	0.1121	Cytochrome b6f complex	3
+M00163	land	rca_genes	0.01213	Photosystem I	4
+M00165	land	rca_genes	-0.2146	Reductive pentose phosphate cycle (Calvin cycle)	4
+M00168	land	rca_genes	0.06447	CAM (Crassulacean acid metabolism), dark	4
+M00169	land	rca_genes	0.06103	CAM (Crassulacean acid metabolism), light	5
+M00170	land	rca_genes	-0.09091	C4-dicarboxylic acid cycle, phosphoenolpyruvate carboxykinase type	5
+M00171	land	rca_genes	0.1257	C4-dicarboxylic acid cycle, NAD - malic enzyme type	6
+M00172	land	rca_genes	0.008655	C4-dicarboxylic acid cycle, NADP - malic enzyme type	5
+M00173	land	rca_genes	0.1119	Reductive citrate cycle (Arnon-Buchanan cycle)	5
+M00176	land	rca_genes	-0.1467	Assimilatory sulfate reduction, sulfate => H2S	6
+M00307	land	rca_genes	-0.1951	Pyruvate oxidation, pyruvate => acetyl-CoA	5
+M00308	land	rca_genes	-0.1795	Semi-phosphorylative Entner-Doudoroff pathway, gluconate => glycerate-3P	4
+M00338	land	rca_genes	0.5062	Cysteine biosynthesis, homocysteine + serine => cysteine	2
+M00344	land	rca_genes	0.02999	Formaldehyde assimilation, xylulose monophosphate pathway	6
+M00345	land	rca_genes	-0.05923	Formaldehyde assimilation, ribulose monophosphate pathway	7
+M00346	land	rca_genes	0.04079	Formaldehyde assimilation, serine pathway	6
+M00357	land	rca_genes	-0.1947	Methanogenesis, acetate => methane	6
+M00358	land	rca_genes	-0.2574	Coenzyme M biosynthesis	1
+M00364	land	rca_genes	0.1035	C10-C20 isoprenoid biosynthesis, bacteria	3
+M00365	land	rca_genes	0.02251	C10-C20 isoprenoid biosynthesis, archaea	6
+M00366	land	rca_genes	0.03509	C10-C20 isoprenoid biosynthesis, plants	4
+M00367	land	rca_genes	0.002573	C10-C20 isoprenoid biosynthesis, non-plant eukaryotes	7
+M00368	land	rca_genes	0.3664	Ethylene biosynthesis, methionine => ethylene	4
+M00369	land	rca_genes	0.7533	Cyanogenic glycoside biosynthesis, tyrosine => dhurrin	1
+M00370	land	rca_genes	0.4491	Glucosinolate biosynthesis, tryptophan => glucobrassicin	2
+M00371	land	rca_genes	0.4022	Castasterone biosynthesis, campesterol => castasterone	3
+M00372	land	rca_genes	0.2697	Abscisic acid biosynthesis, beta-carotene => abscisic acid	5
+M00373	land	rca_genes	-0.246	Ethylmalonyl pathway	3
+M00374	land	rca_genes	0.1065	Dicarboxylate-hydroxybutyrate cycle	5
+M00375	land	rca_genes	-0.2081	Hydroxypropionate-hydroxybutylate cycle	4
+M00376	land	rca_genes	-0.1951	3-Hydroxypropionate bi-cycle	5
+M00377	land	rca_genes	-0.1375	Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway)	5
+M00378	land	rca_genes	-0.117	F420 biosynthesis, archaea	1
+M00415	land	rca_genes	0.07988	Fatty acid elongation in endoplasmic reticulum	5
+M00418	land	rca_genes	0.259	Toluene degradation, anaerobic, toluene => benzoyl-CoA	1
+M00432	land	rca_genes	0.08911	Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate	5
+M00433	land	rca_genes	0.7533	Lysine biosynthesis, 2-oxoglutarate => 2-oxoadipate	1
+M00525	land	rca_genes	-0.1225	Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine	6
+M00526	land	rca_genes	-0.1462	Lysine biosynthesis, DAP dehydrogenase pathway, aspartate => lysine	7
+M00527	land	rca_genes	-0.1225	Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine	6
+M00529	land	rca_genes	0.7533	Denitrification, nitrate => nitrogen	1
+M00531	land	rca_genes	-0.1073	Assimilatory nitrate reduction, nitrate => ammonia	4
+M00532	land	rca_genes	-0.246	Photorespiration	3
+M00535	land	rca_genes	0.0662	Isoleucine biosynthesis, pyruvate => 2-oxobutanoate	5
+M00546	land	rca_genes	-0.02113	Purine degradation, xanthine => urea	6
+M00549	land	rca_genes	-0.05233	Nucleotide sugar biosynthesis, glucose => UDP-glucose	6
+M00552	land	rca_genes	-0.08545	D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P	4
+M00554	land	rca_genes	-0.1192	Nucleotide sugar biosynthesis, galactose => UDP-galactose	5
+M00555	land	rca_genes	-0.01425	Betaine biosynthesis, choline => betaine	7
+M00565	land	rca_genes	-0.2102	Trehalose biosynthesis, D-glucose 1P => trehalose	5
+M00570	land	rca_genes	0.1881	Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine	4
+M00572	land	rca_genes	0.2067	Pimeloyl-ACP biosynthesis, BioC-BioH pathway, malonyl-ACP => pimeloyl-ACP	5
+M00573	land	rca_genes	-0.1951	Biotin biosynthesis, BioI pathway, long-chain-acyl-ACP => pimeloyl-ACP => biotin	5
+M00577	land	rca_genes	-0.1951	Biotin biosynthesis, BioW pathway, pimelate => pimeloyl-CoA => biotin	5
+M00579	land	rca_genes	-0.1947	Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate	6
+M00580	land	rca_genes	-0.114	Pentose phosphate pathway, archaea, fructose 6P => ribose 5P	4
+M00608	land	rca_genes	0.7533	2-Oxocarboxylic acid chain extension, 2-oxoglutarate => 2-oxoadipate => 2-oxopimelate => 2-oxosuberate	1
+M00609	land	rca_genes	0.06364	Cysteine biosynthesis, methionine => cysteine	4
+M00620	land	rca_genes	-0.01439	Incomplete reductive citrate cycle, acetyl-CoA => oxoglutarate	2
+M00621	land	rca_genes	-0.1526	Glycine cleavage system	5
+M00631	land	rca_genes	-0.2208	D-Galacturonate degradation (bacteria), D-galacturonate => pyruvate + D-glyceraldehyde 3P	3
+M00632	land	rca_genes	0.3857	Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P	3
+M00740	land	rca_genes	-0.04727	Methylaspartate cycle	6
+M00741	land	rca_genes	-0.2402	Propanoyl-CoA metabolism, propanoyl-CoA => succinyl-CoA	2
+M00789	land	rca_genes	-0.1429	Rebeccamycin biosynthesis, tryptophan => rebeccamycin	1
+M00790	land	rca_genes	-0.1429	Pyrrolnitrin biosynthesis, tryptophan => pyrrolnitrin	1
+M00793	land	rca_genes	0.7533	dTDP-L-rhamnose biosynthesis, glucose-1P => dTDP-L-Rha	1
+M00819	land	rca_genes	0.7533	Pentalenolactone biosynthesis, farnesyl-PP => pentalenolactone	1
+M00830	land	rca_genes	0.7533	Neocarzinostatin naphthoate moiety biosynthesis, malonyl-CoA => 2-hydroxy-5-methyl-1-naphthoate => 2-hydroxy-7-methoxy-5-methyl-1-naphthoyl-CoA	1
+M00835	land	rca_genes	-0.07518	Pyocyanine biosynthesis, chorismate => pyocyanine	6
+M00840	land	rca_genes	-0.005921	Tetrahydrofolate biosynthesis, mediated by ribA and trpF, GTP => THF	4
+M00841	land	rca_genes	-0.1185	Tetrahydrofolate biosynthesis, mediated by PTPS, GTP => THF	5
+M00842	land	rca_genes	-0.0003078	Tetrahydrobiopterin biosynthesis, GTP => BH4	3
+M00843	land	rca_genes	-0.0003078	L-threo-Tetrahydrobiopterin biosynthesis, GTP => L-threo-BH4	3
+M00844	land	rca_genes	-0.1192	Arginine biosynthesis, ornithine => arginine	5
+M00845	land	rca_genes	-0.1231	Arginine biosynthesis, glutamate => acetylcitrulline => arginine	6
+M00846	land	rca_genes	-0.1467	Siroheme biosynthesis, glutamyl-tRNA => siroheme	6
+M00848	land	rca_genes	0.1164	Aurachin biosynthesis, anthranilate => aurachin A	5
+M00849	land	rca_genes	-0.001486	C5 isoprenoid biosynthesis, mevalonate pathway, archaea	3
+M00854	land	rca_genes	-0.132	Glycogen biosynthesis, glucose-1P => glycogen/starch	6
+M00855	land	rca_genes	-0.1947	Glycogen degradation, glycogen => glucose-6P	6
+M00861	land	rca_genes	0.03597	beta-Oxidation, peroxisome, VLCFA	4
+M00862	land	rca_genes	0.7533	beta-Oxidation, peroxisome, tri/dihydroxycholestanoyl-CoA => choloyl/chenodeoxycholoyl-CoA	1
+M00866	land	rca_genes	-0.1056	KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type	4
+M00868	land	rca_genes	-0.1947	Heme biosynthesis, animals and fungi, glycine => heme	6
+M00872	land	rca_genes	0.7533	O-glycan biosynthesis, mannose type (core M3)	1
+M00873	land	rca_genes	-0.1851	Fatty acid biosynthesis in mitochondria, animals	4
+M00874	land	rca_genes	0.3149	Fatty acid biosynthesis in mitochondria, fungi	3
+M00878	land	rca_genes	-0.1149	Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA	6
+M00880	land	rca_genes	-0.1277	Molybdenum cofactor biosynthesis, GTP => molybdenum cofactor	6
+M00881	land	rca_genes	-0.113	Lipoic acid biosynthesis, plants and bacteria, octanoyl-ACP => dihydrolipoyl-E2/H	5
+M00882	land	rca_genes	0.04008	Lipoic acid biosynthesis, eukaryotes, octanoyl-ACP => dihydrolipoyl-H	4
+M00883	land	rca_genes	0.04008	Lipoic acid biosynthesis, animals and bacteria, octanoyl-ACP => dihydrolipoyl-H => dihydrolipoyl-E2	4
+M00884	land	rca_genes	-0.001955	Lipoic acid biosynthesis, octanoyl-CoA => dihydrolipoyl-E2	5
+M00885	land	rca_genes	-0.04281	Meromycolic acid biosynthesis, initiation and elongation FAS II (KasA)	4
+M00886	land	rca_genes	-0.04281	Meromycolic acid biosynthesis, initiation and elongation FAS II (KasA and KasB)	4
+M00892	land	rca_genes	-0.1996	UDP-N-acetyl-D-glucosamine biosynthesis, eukaryotes, glucose => UDP-GlcNAc	5
+M00895	land	rca_genes	0.02596	Thiamine biosynthesis, prokaryotes, AIR (+ DXP/glycine) => TMP/TPP	7
+M00896	land	rca_genes	-0.01326	Thiamine biosynthesis, archaea, AIR (+ NAD+) => TMP/TPP	8
+M00897	land	rca_genes	-0.205	Thiamine biosynthesis, plants, AIR (+ NAD+) => TMP/thiamine/TPP	5
+M00898	land	rca_genes	-0.2024	Thiamine biosynthesis, pyridoxal-5P => TMP/thiamine/TPP	2
+M00899	land	rca_genes	-0.176	Thiamine salvage pathway, HMP/HET => TMP	5
+M00900	land	rca_genes	0.259	Crocin biosynthesis, crocetin => crocin	1
+M00902	land	rca_genes	0.2838	Podophyllotoxin biosynthesis, coniferyl alcohol => podophyllotoxin	2
+M00909	land	rca_genes	-0.1192	UDP-N-acetyl-D-glucosamine biosynthesis, prokaryotes, glucose => UDP-GlcNAc	5
+M00910	land	rca_genes	-0.02342	Phenylalanine biosynthesis, chorismate => arogenate => phenylalanine	5
+M00911	land	rca_genes	0.1165	Riboflavin biosynthesis, fungi, GTP => riboflavin/FMN/FAD	5
+M00912	land	rca_genes	-0.142	NAD biosynthesis, tryptophan => quinolinate => NAD	5
+M00913	land	rca_genes	0.1813	Pantothenate biosynthesis, 2-oxoisovalerate/spermine => pantothenate	4
+M00914	land	rca_genes	0.007341	Coenzyme A biosynthesis, archaea, 2-oxoisovalerate => 4-phosphopantoate => CoA	4
+M00916	land	rca_genes	-0.07307	Pyridoxal-P biosynthesis, R5P + glyceraldehyde-3P + glutamine => pyridoxal-P	4
+M00917	land	rca_genes	0.002573	Phytosterol biosynthesis, squalene 2,3-epoxide => campesterol/sitosterol	7
+M00921	land	rca_genes	0.7533	Cyclooctatin biosynthesis, dimethylallyl-PP + isopentenyl-PP => cyclooctatin	1
+M00924	land	rca_genes	-0.1843	Cobalamin biosynthesis, anaerobic, uroporphyrinogen III => sirohydrochlorin => cobyrinate a,c-diamide	4
+M00925	land	rca_genes	-0.205	Cobalamin biosynthesis, aerobic, uroporphyrinogen III => precorrin 2 => cobyrinate a,c-diamide	5
+M00926	land	rca_genes	-0.002855	Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme	5
+M00927	land	rca_genes	0.1414	Gibberellin A12 biosynthesis, GAPP => GA12	5
+M00928	land	rca_genes	0.2173	Gibberellin A4/A1 biosynthesis, GA12/GA53 => GA4/GA1	4
+M00932	land	rca_genes	0.07095	Phylloquinone biosynthesis, chorismate (+ phytyl-PP) => phylloquinol	7
+M00933	land	rca_genes	-0.1977	Plastoquinone biosynthesis, homogentisate + solanesyl-PP => plastoquinol	3
+M00935	land	rca_genes	0.7533	Methanofuran biosynthesis	1
+M00936	land	rca_genes	0.2821	Melatonin biosynthesis, plants, tryptophan => serotonin => melatonin	4
+M00938	land	rca_genes	0.1021	Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP	6
+M00940	land	rca_genes	-0.1073	Flavanone biosynthesis, p-coumaroyl-CoA => liquiritigenin	4
+M00941	land	rca_genes	0.7533	Isoflavone biosynthesis, liquiritigenin/naringenin => daidzein/genistein	1
+M00942	land	rca_genes	0.4491	Pterocarpan biosynthesis, daidzein => medicarpin	2
+M00943	land	rca_genes	0.5062	Reticuline biosynthesis, dopamine + 4HPAA => (S)-reticuline	2
+M00944	land	rca_genes	0.7533	Morphine biosynthesis, (S)-reticuline => morphine	1
+M00945	land	rca_genes	0.7533	Sanguinarine biosynthesis, (S)-reticuline => sanguinarine	1
+M00946	land	rca_genes	0.5062	Noscapine biosynthesis, (S)-reticuline => noscapine	2
+M00950	land	rca_genes	-0.1951	Biotin biosynthesis, BioU pathway, pimeloyl-ACP/CoA => biotin	5
+M00952	land	rca_genes	0.7533	Benzoxazinoid biosynthesis, indoleglycerol phosphate => DIMBOA-glucoside	1
+M00953	land	rca_genes	0.2375	Mugineic acid biosynthesis, methionine => 3-epihydroxymugineic acid	3
+M00956	land	rca_genes	-0.1996	Lysine degradation, bacteria, L-lysine => succinate	5
+M00957	land	rca_genes	-0.2013	Lysine degradation, bacteria, L-lysine => glutarate => succinate/acetyl-CoA	4
+M00958	land	rca_genes	0.09291	Adenine ribonucleotide degradation, AMP => Urate	5
+M00959	land	rca_genes	0.2984	Guanine ribonucleotide degradation, GMP => Urate	3
+M00961	land	rca_genes	0.2803	Betacyanin biosynthesis, L-tyrosine => amaranthin	2
+M00965	land	rca_genes	0.5062	Vinblastine biosynthesis, geissoschizine => vinblastine	2
+M00968	land	rca_genes	0.1121	Pentose bisphosphate pathway (nucleoside degradation), archaea, nucleoside/NMP => 3-PGA/glycerone phosphate	3
+M00970	land	rca_genes	-0.07307	Proline degradation, proline => glutamate	4
+M00971	land	rca_genes	0.301	QS-7 biosynthesis, 2,3-epoxysqualene => QS-7	4
+M00972	land	rca_genes	-0.1237	Proline metabolism	6
+M00973	land	rca_genes	0.7533	Anammox, nitrite + ammonia => nitrogen	1
+M00974	land	rca_genes	-0.09091	Betaine metabolism, animals, betaine => glycine	5
+M00975	land	rca_genes	0.1302	Betaine degradation, bacteria, betaine => pyruvate	3
+M00976	land	rca_genes	0.02251	C19-Steroid hormone biosynthesis, pregnenolone => testosterone => dihydrotestosterone	6
+M00978	land	rca_genes	-0.227	Ornithine-ammonia cycle	4
+M00980	land	rca_genes	0.7533	Strychnine biosynthesis, geissoschizine => strychnine	1
+M00981	land	rca_genes	0.1695	Geissoschizine biosynthesis, tryptophan => geissoschizine	5
+M00982	land	rca_genes	-0.01689	Methylcitrate cycle	3
+M00983	land	rca_genes	0.05489	GPI-anchor remodeling	5
+M00987	land	rca_genes	0.2034	Assimilatory sulfate reduction, plants, sulfate => H2S	3
+M00988	land	rca_genes	-0.1092	PreQ1 biosynthesis, GTP => 7-Aminomethyl-7-deazaguanine	5
+M00989	land	rca_genes	-0.1185	Ubiquinone biosynthesis, O2-independent, prokaryotes, chorismate (+ polyprenyl-PP) => ubiquinol	5
+M00990	land	rca_genes	0.1613	Dimethylsulfoniopropionate (DMSP) degradation, demethylation pathway, DMSP => methanethiol	5
+M00991	land	rca_genes	-0.176	Dimethylsulfoniopropionate (DMSP) degradation, cleavage pathway, DMSP => acetyl-CoA	5
+M00992	land	rca_genes	-0.176	Dimethylsulfoniopropionate (DMSP) degradation, cleavage pathway, DMSP => acrylate => acetyl-CoA	5

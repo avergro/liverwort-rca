@@ -1,0 +1,12 @@
+species	annotation	source	rna_evidence	genes_reported	transcripts_reported	genes_in_our_file	isoforms_per_gene_our_file
+Pabies	Picab02 V2	Ahlgren Kalman et al. 2025 (Research Square)	PacBio Iso-Seq (pooled tissues) + ~1,800 Illumina RNA-seq libraries in 27 batches	43,410 (non-TE)	not reported	54510	3.32
+Ppatens	Phypa V3	Lang et al. 2018 Plant J	not found yet			32234	2.69
+Athaliana	Araport11	Cheng et al. 2017 Plant J	113 RNA-seq datasets, 11 tissues	27,655	48,359	27628	1.75
+Mpolymorpha	MpTak1 v7.1	MarpolBase 2025 (Plant Cell Physiol, doi 10.1093/pcp/pcaf159)	lift-over from v6.1 + Iso-Seq (PRJDB8530) + 1 RNA-seq run (SRR896227) + manual curation	18,007	22,248	18004	1.24
+Creinhardtii	v5.5	not found yet	not found yet			17743	1.10
+Lcruciata	CoGe gid 64629	Linde et al. 2023 GBE	not stated in the paper text			25683	1.00
+Smoellendorffii	v1.0	Banks et al. 2011 Science	not found yet			34799	1.00
+Afiliculoides	FernBase v1.1	Li et al. 2018 Nature Plants	38 RNA-seq libraries	20,201 high-confidence	not reported	33800	1.00
+Pamericana	GCA_029852735.1	not identified	not found yet			42442	1.00
+Scucullata	FernBase v1.2	Li et al. 2018 Nature Plants	6 RNA-seq libraries	19,914 high-confidence	not reported	19779	1.00
+Slycopersicum	SL3.0 / ITAG3.2	not found yet	not found yet			34429	1.00

@@ -1,0 +1,4 @@
+__pycache__/
+.DS_Store
+plots/figures/
+.built_by_36_build_repository

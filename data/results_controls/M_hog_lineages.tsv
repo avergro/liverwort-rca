@@ -1,0 +1,3 @@
+orthogroups	hierarchical_orthogroups	liverwort_genes_per_angiosperm_lineage_N8	liverwort_genes_per_seed_plant_lineage_N7	angiosperm_genes_per_angiosperm_lineage_N8
+without a transcription factor	5800	0.8971	0.9837	1.5968
+with a transcription factor	200	0.4143	0.4912	1.7814

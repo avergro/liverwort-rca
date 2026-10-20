@@ -1,0 +1,100 @@
+context	species	orthogroups_in_context	occupied	fraction_occupied	genes
+whole_genome	Afiliculoides	11383	7689	0.6755	17541
+whole_genome	Athaliana	11383	7938	0.6974	23327
+whole_genome	Creinhardtii	11383	5811	0.5105	7919
+whole_genome	Lcruciata	11383	8113	0.7127	14954
+whole_genome	Mpolymorpha	11383	8373	0.7356	13569
+whole_genome	Pabies	11383	7800	0.6852	31773
+whole_genome	Pamericana	11383	8203	0.7206	28824
+whole_genome	Ppatens	11383	7813	0.6864	21550
+whole_genome	Scucullata	11383	7701	0.6765	16611
+whole_genome	Slycopersicum	11383	8125	0.7138	27555
+whole_genome	Smoellendorffii	11383	7201	0.6326	18890
+KEGG primary	Afiliculoides	913	848	0.9288	17541
+KEGG primary	Athaliana	913	913	1.0	23327
+KEGG primary	Creinhardtii	913	773	0.8467	7919
+KEGG primary	Lcruciata	913	836	0.9157	14954
+KEGG primary	Mpolymorpha	913	874	0.9573	13569
+KEGG primary	Pabies	913	877	0.9606	31773
+KEGG primary	Pamericana	913	899	0.9847	28824
+KEGG primary	Ppatens	913	881	0.965	21550
+KEGG primary	Scucullata	913	830	0.9091	16611
+KEGG primary	Slycopersicum	913	898	0.9836	27555
+KEGG primary	Smoellendorffii	913	873	0.9562	18890
+KEGG carbon	Afiliculoides	391	363	0.9284	17541
+KEGG carbon	Athaliana	391	391	1.0	23327
+KEGG carbon	Creinhardtii	391	332	0.8491	7919
+KEGG carbon	Lcruciata	391	353	0.9028	14954
+KEGG carbon	Mpolymorpha	391	378	0.9668	13569
+KEGG carbon	Pabies	391	373	0.954	31773
+KEGG carbon	Pamericana	391	386	0.9872	28824
+KEGG carbon	Ppatens	391	379	0.9693	21550
+KEGG carbon	Scucullata	391	356	0.9105	16611
+KEGG carbon	Slycopersicum	391	385	0.9847	27555
+KEGG carbon	Smoellendorffii	391	373	0.954	18890
+KEGG nitrogen	Afiliculoides	272	250	0.9191	17541
+KEGG nitrogen	Athaliana	272	272	1.0	23327
+KEGG nitrogen	Creinhardtii	272	229	0.8419	7919
+KEGG nitrogen	Lcruciata	272	253	0.9301	14954
+KEGG nitrogen	Mpolymorpha	272	257	0.9449	13569
+KEGG nitrogen	Pabies	272	267	0.9816	31773
+KEGG nitrogen	Pamericana	272	265	0.9743	28824
+KEGG nitrogen	Ppatens	272	261	0.9596	21550
+KEGG nitrogen	Scucullata	272	243	0.8934	16611
+KEGG nitrogen	Slycopersicum	272	268	0.9853	27555
+KEGG nitrogen	Smoellendorffii	272	260	0.9559	18890
+KEGG regulatory	Afiliculoides	165	148	0.897	17541
+KEGG regulatory	Athaliana	165	165	1.0	23327
+KEGG regulatory	Creinhardtii	165	93	0.5636	7919
+KEGG regulatory	Lcruciata	165	141	0.8545	14954
+KEGG regulatory	Mpolymorpha	165	146	0.8848	13569
+KEGG regulatory	Pabies	165	154	0.9333	31773
+KEGG regulatory	Pamericana	165	162	0.9818	28824
+KEGG regulatory	Ppatens	165	143	0.8667	21550
+KEGG regulatory	Scucullata	165	145	0.8788	16611
+KEGG regulatory	Slycopersicum	165	163	0.9879	27555
+KEGG regulatory	Smoellendorffii	165	148	0.897	18890
+GO primary	Afiliculoides	2454	1994	0.8126	17541
+GO primary	Athaliana	2454	2089	0.8513	23327
+GO primary	Creinhardtii	2454	1630	0.6642	7919
+GO primary	Lcruciata	2454	1994	0.8126	14954
+GO primary	Mpolymorpha	2454	2045	0.8333	13569
+GO primary	Pabies	2454	2096	0.8541	31773
+GO primary	Pamericana	2454	2136	0.8704	28824
+GO primary	Ppatens	2454	2038	0.8305	21550
+GO primary	Scucullata	2454	1993	0.8121	16611
+GO primary	Slycopersicum	2454	2113	0.861	27555
+GO primary	Smoellendorffii	2454	2019	0.8227	18890
+GO carbon	Afiliculoides	1137	907	0.7977	17541
+GO carbon	Athaliana	1137	968	0.8514	23327
+GO carbon	Creinhardtii	1137	702	0.6174	7919
+GO carbon	Lcruciata	1137	869	0.7643	14954
+GO carbon	Mpolymorpha	1137	911	0.8012	13569
+GO carbon	Pabies	1137	954	0.8391	31773
+GO carbon	Pamericana	1137	971	0.854	28824
+GO carbon	Ppatens	1137	917	0.8065	21550
+GO carbon	Scucullata	1137	919	0.8083	16611
+GO carbon	Slycopersicum	1137	976	0.8584	27555
+GO carbon	Smoellendorffii	1137	918	0.8074	18890
+GO nitrogen	Afiliculoides	469	397	0.8465	17541
+GO nitrogen	Athaliana	469	410	0.8742	23327
+GO nitrogen	Creinhardtii	469	359	0.7655	7919
+GO nitrogen	Lcruciata	469	411	0.8763	14954
+GO nitrogen	Mpolymorpha	469	415	0.8849	13569
+GO nitrogen	Pabies	469	414	0.8827	31773
+GO nitrogen	Pamericana	469	428	0.9126	28824
+GO nitrogen	Ppatens	469	415	0.8849	21550
+GO nitrogen	Scucullata	469	386	0.823	16611
+GO nitrogen	Slycopersicum	469	414	0.8827	27555
+GO nitrogen	Smoellendorffii	469	414	0.8827	18890
+GO regulatory	Afiliculoides	889	684	0.7694	17541
+GO regulatory	Athaliana	889	763	0.8583	23327
+GO regulatory	Creinhardtii	889	463	0.5208	7919
+GO regulatory	Lcruciata	889	731	0.8223	14954
+GO regulatory	Mpolymorpha	889	740	0.8324	13569
+GO regulatory	Pabies	889	755	0.8493	31773
+GO regulatory	Pamericana	889	782	0.8796	28824
+GO regulatory	Ppatens	889	685	0.7705	21550
+GO regulatory	Scucullata	889	674	0.7582	16611
+GO regulatory	Slycopersicum	889	777	0.874	27555
+GO regulatory	Smoellendorffii	889	687	0.7728	18890

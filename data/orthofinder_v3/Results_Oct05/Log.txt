@@ -1,0 +1,28 @@
+2026-10-05 12:21:50 : Started OrthoFinder version 3.1.4
+Command Line: /opt/miniconda3/envs/orthofinder_env/bin/orthofinder -f data/orthofinder_input -o data/orthofinder_v4 -S diamond_ultra_sens -M msa -T fasttree -t 12 -a 12
+
+Search program: diamond_ultra_sens
+MSA program: famsa
+Tree program: fasttree
+Scoring matrix: BLOSUM62
+Gap extend: 1
+Gap open: 11
+
+WorkingDirectory_Base: ./data/orthofinder_v4/Results_Oct05/WorkingDirectory/
+
+Species used: 
+0: Afiliculoides.fa
+1: Athaliana.fa
+2: Creinhardtii.fa
+3: Lcruciata.fa
+4: Mpolymorpha.fa
+5: Pabies.fa
+6: Pamericana.fa
+7: Ppatens.fa
+8: Scucullata.fa
+9: Slycopersicum.fa
+10: Smoellendorffii.fa
+
+FN_Orthogroups: ./data/orthofinder_v4/Results_Oct05/WorkingDirectory/clusters_OrthoFinder_I1.2.txt_id_pairs.txt
+WorkingDirectory_Trees: ./data/orthofinder_v4/Results_Oct05/WorkingDirectory/
+2026-10-05 13:46:19 : OrthoFinder run completed

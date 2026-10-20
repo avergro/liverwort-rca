@@ -1,0 +1,93 @@
+pathway	pathway_name	n_OGs	mean_ubiquity
+ath01240	Biosynthesis of cofactors	46	5.543478260869565
+ath01200	Carbon metabolism	23	5.260869565217392
+ath00230	Purine metabolism	19	5.578947368421052
+ath00860	Porphyrin metabolism	19	5.578947368421052
+ath01230	Biosynthesis of amino acids	14	5.214285714285714
+ath00130	Ubiquinone and other terpenoid-quinone biosynthesis	12	5.5
+ath00190	Oxidative phosphorylation	12	5.416666666666667
+ath01210	2-Oxocarboxylic acid metabolism	11	5.363636363636363
+ath00195	Photosynthesis	9	5.888888888888889
+ath00500	Starch and sucrose metabolism	9	5.0
+ath00240	Pyrimidine metabolism	8	5.625
+ath00280	Valine, leucine and isoleucine degradation	8	5.375
+ath00330	Arginine and proline metabolism	8	5.0
+ath00480	Glutathione metabolism	8	5.625
+ath01232	Nucleotide metabolism	8	5.5
+ath01250	Biosynthesis of nucleotide sugars	8	4.5
+ath00010	Glycolysis / Gluconeogenesis	7	5.428571428571429
+ath00270	Cysteine and methionine metabolism	7	5.428571428571429
+ath00410	beta-Alanine metabolism	7	5.285714285714286
+ath00520	Amino sugar and nucleotide sugar metabolism	7	4.714285714285714
+ath00564	Glycerophospholipid metabolism	7	5.0
+ath00620	Pyruvate metabolism	7	5.428571428571429
+ath00630	Glyoxylate and dicarboxylate metabolism	7	5.428571428571429
+ath00640	Propanoate metabolism	7	5.571428571428571
+ath00785	Lipoic acid metabolism	7	5.285714285714286
+ath00220	Arginine biosynthesis	6	5.5
+ath00250	Alanine, aspartate and glutamate metabolism	6	5.333333333333333
+ath00260	Glycine, serine and threonine metabolism	6	5.333333333333333
+ath00562	Inositol phosphate metabolism	6	5.333333333333333
+ath00790	Folate biosynthesis	6	5.666666666666667
+ath01212	Fatty acid metabolism	6	5.333333333333333
+ath00020	Citrate cycle (TCA cycle)	5	5.4
+ath00561	Glycerolipid metabolism	5	5.6
+ath00650	Butanoate metabolism	5	5.4
+ath00710	Carbon fixation by Calvin cycle	5	5.0
+ath00760	Nicotinate and nicotinamide metabolism	5	5.6
+ath00053	Ascorbate and aldarate metabolism	4	5.0
+ath00100	Steroid biosynthesis	4	4.5
+ath00360	Phenylalanine metabolism	4	5.25
+ath00380	Tryptophan metabolism	4	5.0
+ath00670	One carbon pool by folate	4	5.25
+ath00740	Riboflavin metabolism	4	6.0
+ath00940	Phenylpropanoid biosynthesis	4	5.0
+ath04142	Lysosome biogenesis	4	5.25
+ath04145	Phagocytosis	4	5.0
+ath00030	Pentose phosphate pathway	3	5.0
+ath00040	Pentose and glucuronate interconversions	3	5.0
+ath00051	Fructose and mannose metabolism	3	4.333333333333333
+ath00052	Galactose metabolism	3	5.333333333333333
+ath00061	Fatty acid biosynthesis	3	5.0
+ath00340	Histidine metabolism	3	5.333333333333333
+ath00541	Biosynthesis of various nucleotide sugars	3	5.0
+ath00600	Sphingolipid metabolism	3	6.0
+ath00750	Vitamin B6 metabolism	3	5.666666666666667
+ath00770	Pantothenate and CoA biosynthesis	3	5.333333333333333
+ath00780	Biotin metabolism	3	4.666666666666667
+ath04070	Phosphatidylinositol signaling system	3	4.666666666666667
+ath04146	Peroxisome	3	5.333333333333333
+ath00071	Fatty acid degradation	2	5.5
+ath00196	Photosynthesis - antenna proteins	2	4.5
+ath00310	Lysine degradation	2	5.0
+ath00350	Tyrosine metabolism	2	6.5
+ath00566	Sulfoquinovose metabolism	2	6.0
+ath00592	alpha-Linolenic acid metabolism	2	5.5
+ath00730	Thiamine metabolism	2	6.0
+ath00910	Nitrogen metabolism	2	5.0
+ath01040	Biosynthesis of unsaturated fatty acids	2	6.0
+ath04122	Sulfur relay system	2	5.5
+ath00062	Fatty acid elongation	1	6.0
+ath00232	Caffeine metabolism	1	6.0
+ath00261	Monobactam biosynthesis	1	6.0
+ath00300	Lysine biosynthesis	1	6.0
+ath00400	Phenylalanine, tyrosine and tryptophan biosynthesis	1	6.0
+ath00450	Selenocompound metabolism	1	6.0
+ath00511	Other glycan degradation	1	6.0
+ath00531	Glycosaminoglycan degradation	1	6.0
+ath00565	Ether lipid metabolism	1	4.0
+ath00590	Arachidonic acid metabolism	1	7.0
+ath00604	Glycosphingolipid biosynthesis - ganglio series	1	6.0
+ath00920	Sulfur metabolism	1	4.0
+ath00941	Flavonoid biosynthesis	1	5.0
+ath00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis	1	5.0
+ath00950	Isoquinoline alkaloid biosynthesis	1	6.0
+ath00960	Tropane, piperidine and pyridine alkaloid biosynthesis	1	6.0
+ath00970	Aminoacyl-tRNA biosynthesis	1	6.0
+ath01320	Sulfur cycle	1	4.0
+ath03008	Ribosome biogenesis in eukaryotes	1	6.0
+ath03010	Ribosome	1	7.0
+ath03450	Non-homologous end-joining	1	6.0
+ath04016	MAPK signaling pathway - plant	1	5.0
+ath04136	Autophagy - other	1	5.0
+ath04626	Plant-pathogen interaction	1	5.0

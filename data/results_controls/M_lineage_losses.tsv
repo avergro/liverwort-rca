@@ -1,0 +1,25 @@
+lineage	unit	reference	missing_in_whole_lineage	missing_Mpolymorpha	missing_Lcruciata	missing_Athaliana	missing_Slycopersicum	missing_Pamericana	missing_Afiliculoides	missing_Scucullata	missing_Ppatens	missing_Smoellendorffii	missing_Pabies
+liverworts	orthogroups	4987	117	157.0	364.0								
+liverworts	KEGG orthologs	328	2	2.0	18.0								
+liverworts	complete modules	35	0	0.0	1.0								
+angiosperms	orthogroups	4825	69			121.0	163.0	119.0					
+angiosperms	KEGG orthologs	322	0			0.0	3.0	9.0					
+angiosperms	complete modules	37	0			0.0	0.0	3.0					
+ferns	orthogroups	5099	59						270.0	305.0			
+ferns	KEGG orthologs	373	4						28.0	39.0			
+ferns	complete modules	48	5						8.0	11.0			
+moss	orthogroups	4707	124								124.0		
+moss	KEGG orthologs	311	1								1.0		
+moss	complete modules	34	0								0.0		
+lycophyte	orthogroups	4879	296									296.0	
+lycophyte	KEGG orthologs	312	2									2.0	
+lycophyte	complete modules	34	0									0.0	
+gymnosperm	orthogroups	4661	78										78.0
+gymnosperm	KEGG orthologs	314	4										4.0
+gymnosperm	complete modules	37	3										3.0
+bryophytes	orthogroups	5194	61	226.0	439.0						207.0		
+bryophytes	KEGG orthologs	330	0	3.0	18.0						2.0		
+bryophytes	complete modules	35	0	0.0	1.0						0.0		
+seed_plants	orthogroups	5087	160			298.0	338.0	282.0					262.0
+seed_plants	KEGG orthologs	327	1			1.0	4.0	10.0					5.0
+seed_plants	complete modules	40	0			0.0	0.0	3.0					3.0

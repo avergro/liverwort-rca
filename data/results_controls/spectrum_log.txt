@@ -1,0 +1,21 @@
+  whole_genome: done
+  primary_metabolism: done
+  C_metabolism: done
+  N_metabolism: done
+  regulatory_networks: done
+
+=== eigenvalue spectrum and CA inertia ===
+            context  n_orthogroups  lambda2  lambda3  lambda4  gap_2_3  ratio_3_2  CA_inertia_axis1  CA_inertia_axis2
+       whole_genome          15579    0.433    0.264    0.233    0.169      0.610             0.255             0.155
+ primary_metabolism           1000    0.347    0.153    0.146    0.195      0.439             0.288             0.126
+       C_metabolism            457    0.345    0.155    0.143    0.190      0.448             0.281             0.126
+       N_metabolism            289    0.399    0.162    0.131    0.237      0.405             0.348             0.141
+regulatory_networks            198    0.464    0.235    0.144    0.229      0.507             0.342             0.173
+
+=== nestedness (NODF) against the degree-preserving null ===
+            context  NODF_observed  NODF_null_mean  NODF_null_sd       z  p_one_sided
+       whole_genome         50.857          52.490         0.016 -99.140          1.0
+ primary_metabolism         55.698          57.937         0.086 -26.117          1.0
+       C_metabolism         54.473          56.483         0.129 -15.537          1.0
+       N_metabolism         57.910          62.265         0.169 -25.708          1.0
+regulatory_networks         53.133          56.917         0.191 -19.849          1.0

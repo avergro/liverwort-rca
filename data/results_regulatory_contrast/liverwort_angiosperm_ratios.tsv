@@ -1,0 +1,16 @@
+category	orthogroups	L/A coverage	L/A genes_per_OG	L/A retained_dup_per_OG	L/A genes
+whole genome	11383	1.019	0.528	0.298	0.537
+KEGG primary	913	0.946	0.578	0.367	0.546
+KEGG carbon	391	0.944	0.541	0.334	0.510
+KEGG nitrogen	272	0.950	0.534	0.330	0.508
+KEGG regulatory	165	0.879	0.356	0.258	0.313
+GO primary	2454	0.956	0.511	0.338	0.487
+GO carbon	1137	0.916	0.454	0.300	0.415
+GO nitrogen	469	0.990	0.441	0.280	0.436
+GO regulatory	889	0.950	0.382	0.281	0.362
+KEGG hormone signal transduction	64	0.859	0.350	0.262	0.301
+KEGG MAPK signalling	47	0.917	0.376	0.266	0.345
+KEGG circadian rhythm	20	0.975	0.303	0.254	0.295
+KEGG plant-pathogen interaction	48	0.809	0.388	0.293	0.314
+KEGG phosphatidylinositol signalling	25	0.900	0.562	0.302	0.498
+transcription factors	191	0.859	0.272	0.176	0.233

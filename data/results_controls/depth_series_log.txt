@@ -1,0 +1,78 @@
+depth series, all 11 species
+    all_species whole_genome depth=12470: done
+    all_species whole_genome depth=14137: done
+    all_species whole_genome depth=17413: done
+    all_species whole_genome depth=24459: done
+    all_species whole_genome depth=34622: done
+    all_species whole_genome depth=None: done
+    all_species primary_metabolism depth=12470: done
+    all_species primary_metabolism depth=14137: done
+    all_species primary_metabolism depth=17413: done
+    all_species primary_metabolism depth=24459: done
+    all_species primary_metabolism depth=34622: done
+    all_species primary_metabolism depth=None: done
+    all_species C_metabolism depth=12470: done
+    all_species C_metabolism depth=14137: done
+    all_species C_metabolism depth=17413: done
+    all_species C_metabolism depth=24459: done
+    all_species C_metabolism depth=34622: done
+    all_species C_metabolism depth=None: done
+    all_species N_metabolism depth=12470: done
+    all_species N_metabolism depth=14137: done
+    all_species N_metabolism depth=17413: done
+    all_species N_metabolism depth=24459: done
+    all_species N_metabolism depth=34622: done
+    all_species N_metabolism depth=None: done
+    all_species regulatory_networks depth=12470: done
+    all_species regulatory_networks depth=14137: done
+    all_species regulatory_networks depth=17413: done
+    all_species regulatory_networks depth=24459: done
+    all_species regulatory_networks depth=34622: done
+    all_species regulatory_networks depth=None: done
+depth series, Chlamydomonas excluded
+    no_Chlamydomonas whole_genome depth=12470: done
+    no_Chlamydomonas whole_genome depth=14137: done
+    no_Chlamydomonas whole_genome depth=17413: done
+    no_Chlamydomonas whole_genome depth=24459: done
+    no_Chlamydomonas whole_genome depth=34622: done
+    no_Chlamydomonas whole_genome depth=None: done
+    no_Chlamydomonas primary_metabolism depth=12470: done
+    no_Chlamydomonas primary_metabolism depth=14137: done
+    no_Chlamydomonas primary_metabolism depth=17413: done
+    no_Chlamydomonas primary_metabolism depth=24459: done
+    no_Chlamydomonas primary_metabolism depth=34622: done
+    no_Chlamydomonas primary_metabolism depth=None: done
+    no_Chlamydomonas C_metabolism depth=12470: done
+    no_Chlamydomonas C_metabolism depth=14137: done
+    no_Chlamydomonas C_metabolism depth=17413: done
+    no_Chlamydomonas C_metabolism depth=24459: done
+    no_Chlamydomonas C_metabolism depth=34622: done
+    no_Chlamydomonas C_metabolism depth=None: done
+    no_Chlamydomonas N_metabolism depth=12470: done
+    no_Chlamydomonas N_metabolism depth=14137: done
+    no_Chlamydomonas N_metabolism depth=17413: done
+    no_Chlamydomonas N_metabolism depth=24459: done
+    no_Chlamydomonas N_metabolism depth=34622: done
+    no_Chlamydomonas N_metabolism depth=None: done
+    no_Chlamydomonas regulatory_networks depth=12470: done
+    no_Chlamydomonas regulatory_networks depth=14137: done
+    no_Chlamydomonas regulatory_networks depth=17413: done
+    no_Chlamydomonas regulatory_networks depth=24459: done
+    no_Chlamydomonas regulatory_networks depth=34622: done
+    no_Chlamydomonas regulatory_networks depth=None: done
+
+fraction of replicates with both liverworts in the top two:
+depth                                 12470  14137  17413  24459  34622  none
+set              context                                                     
+all_species      C_metabolism          0.16   0.10   0.87   0.46   0.05   0.0
+                 N_metabolism          0.11   0.19   0.85   0.83   0.78   1.0
+                 primary_metabolism    0.27   0.13   0.99   0.99   1.00   1.0
+                 regulatory_networks   0.00   0.01   0.06   0.02   0.05   0.0
+                 whole_genome          1.00   1.00   1.00   1.00   1.00   1.0
+no_Chlamydomonas C_metabolism          0.28   0.26   0.87   0.95   0.97   1.0
+                 N_metabolism          0.07   0.14   0.53   0.63   0.46   1.0
+                 primary_metabolism    0.37   0.29   0.99   1.00   1.00   1.0
+                 regulatory_networks   0.11   0.22   0.30   0.23   0.67   0.0
+                 whole_genome          1.00   1.00   1.00   1.00   1.00   1.0
+
+written to ./data/results_controls

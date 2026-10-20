@@ -1,0 +1,31 @@
+context	estimator	species	rho_genes_per_OG	rho_occupied	rho_genome_gene_number
+whole_genome	MCi_RCA	all eleven	-0.873	-0.264	-0.873
+whole_genome	MCi_RCA	land plants	-0.867	-0.224	-0.867
+whole_genome	diversity	all eleven	-0.791	-0.018	-0.791
+whole_genome	diversity	land plants	-0.915	-0.018	-0.915
+whole_genome	fitness	all eleven	-0.836	0.018	-0.836
+whole_genome	fitness	land plants	-0.976	0.030	-0.976
+KEGG primary	MCi_RCA	all eleven	-0.864	-0.673	-0.864
+KEGG primary	MCi_RCA	land plants	-0.915	-0.697	-0.915
+KEGG primary	diversity	all eleven	-0.879	-0.647	-0.879
+KEGG primary	diversity	land plants	-0.839	-0.529	-0.839
+KEGG primary	fitness	all eleven	-0.864	-0.700	-0.864
+KEGG primary	fitness	land plants	-0.818	-0.600	-0.818
+KEGG carbon	MCi_RCA	all eleven	-0.773	-0.446	-0.836
+KEGG carbon	MCi_RCA	land plants	-0.794	-0.401	-0.879
+KEGG carbon	diversity	all eleven	-0.864	-0.565	-0.882
+KEGG carbon	diversity	land plants	-0.818	-0.419	-0.842
+KEGG carbon	fitness	all eleven	-0.864	-0.565	-0.882
+KEGG carbon	fitness	land plants	-0.818	-0.419	-0.842
+KEGG nitrogen	MCi_RCA	all eleven	-0.882	-0.682	-0.900
+KEGG nitrogen	MCi_RCA	land plants	-0.891	-0.661	-0.903
+KEGG nitrogen	diversity	all eleven	-0.873	-0.773	-0.791
+KEGG nitrogen	diversity	land plants	-0.830	-0.697	-0.721
+KEGG nitrogen	fitness	all eleven	-0.873	-0.800	-0.809
+KEGG nitrogen	fitness	land plants	-0.830	-0.733	-0.745
+KEGG regulatory	MCi_RCA	all eleven	-0.873	-0.779	-0.864
+KEGG regulatory	MCi_RCA	land plants	-0.867	-0.766	-0.855
+KEGG regulatory	diversity	all eleven	-0.391	-0.451	-0.400
+KEGG regulatory	diversity	land plants	-0.406	-0.462	-0.418
+KEGG regulatory	fitness	all eleven	-0.045	-0.032	-0.073
+KEGG regulatory	fitness	land plants	-0.127	-0.134	-0.164

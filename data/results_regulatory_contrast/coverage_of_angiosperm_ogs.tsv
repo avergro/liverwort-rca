@@ -1,0 +1,16 @@
+category	angiosperm_OGs	also_in_a_liverwort	share
+whole genome	8208	6682	0.814
+KEGG primary	910	880	0.967
+KEGG carbon	389	380	0.977
+KEGG nitrogen	271	261	0.963
+KEGG regulatory	164	147	0.896
+GO primary	2130	1928	0.905
+GO carbon	981	863	0.880
+GO nitrogen	420	390	0.929
+GO regulatory	778	674	0.866
+KEGG hormone signal transduction	64	56	0.875
+KEGG MAPK signalling	46	43	0.935
+KEGG circadian rhythm	20	20	1.000
+KEGG plant-pathogen interaction	48	39	0.812
+KEGG phosphatidylinositol signalling	25	24	0.960
+transcription factors	190	163	0.858

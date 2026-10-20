@@ -1,0 +1,17 @@
+# BUSCO version is: 6.0.0 
+# The lineage dataset is: embryophyta_odb10 (Creation date: 2024-01-08, number of genomes: 50, number of BUSCOs: 1614)
+# Summarized benchmarking in BUSCO notation for file ./data/proteomes/filtered/Creinhardtii.primary.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:31.9%[S:30.8%,D:1.1%],F:3.5%,M:64.6%,n:1614	   
+	515	Complete BUSCOs (C)			   
+	497	Complete and single-copy BUSCOs (S)	   
+	18	Complete and duplicated BUSCOs (D)	   
+	56	Fragmented BUSCOs (F)			   
+	1043	Missing BUSCOs (M)			   
+	1614	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4

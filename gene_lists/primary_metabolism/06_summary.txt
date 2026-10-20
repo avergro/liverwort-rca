@@ -1,0 +1,36 @@
+=== primary_metabolism — gene extraction summary (2026-05-05) ===
+
+Input: 908 orthogroups (MCi-RCA matrix, ≥2 species after singleton filter)
+
+--- Filter A: ≥1 liverwort present, all angiosperms absent ---
+  OGs: 265 / 908 (29.2%)
+  Ubiquity range: 2–7 species
+  Genes per non-angiosperm species in these OGs:
+    Marchantia polymorpha                 454 genes
+    Lunularia cruciata                    519 genes
+    Physcomitrium patens                  634 genes
+    Chlamydomonas reinhardtii             285 genes
+    Azolla filiculoides                   401 genes
+    Salvinia cucullata                    369 genes
+    Selaginella moellendorffii            457 genes
+    Picea abies                           475 genes
+
+--- Filter B: BOTH liverworts present, all angiosperms absent ---
+  OGs: 212 / 908 (23.3%)
+
+--- Filter C: ≥1 liverwort + Physcomitrium present, all angiosperms absent ---
+  OGs: 144 / 908 (15.9%)
+  (Bryophyte-conserved: OGs shared by liverworts + moss, lost in angiosperms)
+
+--- GCi note ---
+  GCi sign convention can invert in small biased subsets.
+  OGs sorted by ubiquity (ascending) within filter A — lower ubiquity =
+  more restricted to non-angiosperm lineages.
+
+--- Output files ---
+  01_OGs_liverwort_specific.tsv    Filter A OG table
+  02_OGs_both_liverworts.tsv       Filter B OG table
+  03_OGs_bryophyte_conserved.tsv   Filter C OG table
+  04_genes_by_species.tsv          All genes in filter-A OGs, all species
+  05_genes_SPECIES.txt             Per-species gene ID lists (filter A)
+  06_summary.txt                   This file

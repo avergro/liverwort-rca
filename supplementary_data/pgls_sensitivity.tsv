@@ -1,0 +1,61 @@
+Setting	Context	Model	Pagel λ	β, log genes	t, log genes	β, BUSCO	t, BUSCO
+all species, root 750 Ma	Whole genome	log gene number	1.0	-0.5521161601309911	-3.4297711330033476		
+all species, root 750 Ma	Whole genome	log gene number + BUSCO	1.0	-0.5420179996921793	-3.899205486133319	-0.0095288702731509	-2.0212255996881394
+all species, root 750 Ma	Primary metabolism	log gene number	1.0	-0.5243566237704347	-2.8157854835275105		
+all species, root 750 Ma	Primary metabolism	log gene number + BUSCO	0.91	-0.5292295290873078	-3.806485352241668	-0.0132540840459264	-2.7878925025085537
+all species, root 750 Ma	Carbon metabolism	log gene number	1.0	-0.6517088094404937	-3.8888288994652696		
+all species, root 750 Ma	Carbon metabolism	log gene number + BUSCO	1.0	-0.6441473256023259	-3.986916591642023	-0.0071352004162524	-1.3021741814437728
+all species, root 750 Ma	Nitrogen metabolism	log gene number	0.0	-0.7312577273323764	-5.477487174113611		
+all species, root 750 Ma	Nitrogen metabolism	log gene number + BUSCO	0.0	-0.69400129333354	-5.158018368462522	-0.005660532707858	-1.175319085758996
+all species, root 750 Ma	Regulatory context	log gene number	1.0	-0.6600767135053713	-4.239220247462703		
+all species, root 750 Ma	Regulatory context	log gene number + BUSCO	1.0	-0.651068079656283	-4.667503342038072	-0.0085007664323025	-1.7969139475985163
+all species, root 1000 Ma	Whole genome	log gene number	1.0	-0.5650383986599445	-3.455754450557642		
+all species, root 1000 Ma	Whole genome	log gene number + BUSCO	1.0	-0.5415941601936066	-3.796157449107818	-0.0095427386623989	-1.97568173576099
+all species, root 1000 Ma	Primary metabolism	log gene number	1.0	-0.5401089858460794	-2.857932742737098		
+all species, root 1000 Ma	Primary metabolism	log gene number + BUSCO	0.0	-0.6195786986596173	-5.03047316193024	-0.012945013500382	-2.9362345576873565
+all species, root 1000 Ma	Carbon metabolism	log gene number	1.0	-0.6680666915298354	-3.939241928045003		
+all species, root 1000 Ma	Carbon metabolism	log gene number + BUSCO	0.0	-0.6913878860127712	-4.955533728934697	-0.0074806680508144	-1.4979072888250784
+all species, root 1000 Ma	Nitrogen metabolism	log gene number	0.0	-0.7312577273323764	-5.477487174113611		
+all species, root 1000 Ma	Nitrogen metabolism	log gene number + BUSCO	0.0	-0.69400129333354	-5.158018368462522	-0.005660532707858	-1.175319085758996
+all species, root 1000 Ma	Regulatory context	log gene number	1.0	-0.6776174518452613	-4.316724882753907		
+all species, root 1000 Ma	Regulatory context	log gene number + BUSCO	1.0	-0.6572282945734884	-4.601200932191187	-0.0082991989554471	-1.7161878917655249
+all species, root 1500 Ma	Whole genome	log gene number	1.0	-0.5769395878545035	-3.481778966588081		
+all species, root 1500 Ma	Whole genome	log gene number + BUSCO	1.0	-0.5411647486219887	-3.699377953320859	-0.0095567893746209	-1.9327916834205612
+all species, root 1500 Ma	Primary metabolism	log gene number	0.0	-0.7047800508964567	-4.3326413986811625		
+all species, root 1500 Ma	Primary metabolism	log gene number + BUSCO	0.0	-0.6195786986596173	-5.03047316193024	-0.012945013500382	-2.9362345576873565
+all species, root 1500 Ma	Carbon metabolism	log gene number	0.0	-0.7406240674617925	-5.119871403523193		
+all species, root 1500 Ma	Carbon metabolism	log gene number + BUSCO	0.0	-0.6913878860127712	-4.955533728934697	-0.0074806680508144	-1.4979072888250784
+all species, root 1500 Ma	Nitrogen metabolism	log gene number	0.0	-0.7312577273323764	-5.477487174113611		
+all species, root 1500 Ma	Nitrogen metabolism	log gene number + BUSCO	0.0	-0.69400129333354	-5.158018368462522	-0.005660532707858	-1.175319085758996
+all species, root 1500 Ma	Regulatory context	log gene number	1.0	-0.6937722105681753	-4.392571030340465		
+all species, root 1500 Ma	Regulatory context	log gene number + BUSCO	1.0	-0.6634694957309429	-4.54058080794167	-0.0080949815398594	-1.6390044787902172
+all species, node ages at the younger bounds	Whole genome	log gene number	1.0	-0.5506322751149778	-3.313947161939723		
+all species, node ages at the younger bounds	Whole genome	log gene number + BUSCO	1.0	-0.5356099622611843	-3.720898835446101	-0.0096048835202866	-2.0059990399410337
+all species, node ages at the younger bounds	Primary metabolism	log gene number	1.0	-0.52663231158134	-2.778851189415688		
+all species, node ages at the younger bounds	Primary metabolism	log gene number + BUSCO	0.98	-0.5131070591153071	-3.553247793691321	-0.0131673862987357	-2.7290754426670154
+all species, node ages at the younger bounds	Carbon metabolism	log gene number	1.0	-0.6582204553673064	-3.8457569065901662		
+all species, node ages at the younger bounds	Carbon metabolism	log gene number + BUSCO	0.0	-0.6913878860127712	-4.955533728934697	-0.0074806680508144	-1.4979072888250784
+all species, node ages at the younger bounds	Nitrogen metabolism	log gene number	0.0	-0.7312577273323764	-5.477487174113611		
+all species, node ages at the younger bounds	Nitrogen metabolism	log gene number + BUSCO	0.0	-0.69400129333354	-5.158018368462522	-0.005660532707858	-1.175319085758996
+all species, node ages at the younger bounds	Regulatory context	log gene number	1.0	-0.6654171739280365	-4.189489293931365		
+all species, node ages at the younger bounds	Regulatory context	log gene number + BUSCO	1.0	-0.6525241654077655	-4.526604686613701	-0.0082434606620523	-1.7191942136948108
+all species, node ages at the older bounds	Whole genome	log gene number	1.0	-0.5729551640785543	-3.528676094171177		
+all species, node ages at the older bounds	Whole genome	log gene number + BUSCO	1.0	-0.5456712999680884	-3.8387419187028926	-0.0095386200602352	-1.9637163246542424
+all species, node ages at the older bounds	Primary metabolism	log gene number	0.97	-0.5675205747664868	-3.0202026111109346		
+all species, node ages at the older bounds	Primary metabolism	log gene number + BUSCO	0.0	-0.6195786986596173	-5.03047316193024	-0.012945013500382	-2.9362345576873565
+all species, node ages at the older bounds	Carbon metabolism	log gene number	1.0	-0.6725386887462399	-3.958032515086884		
+all species, node ages at the older bounds	Carbon metabolism	log gene number + BUSCO	0.0	-0.6913878860127712	-4.955533728934697	-0.0074806680508144	-1.4979072888250784
+all species, node ages at the older bounds	Nitrogen metabolism	log gene number	0.0	-0.7312577273323764	-5.477487174113611		
+all species, node ages at the older bounds	Nitrogen metabolism	log gene number + BUSCO	0.0	-0.69400129333354	-5.158018368462522	-0.005660532707858	-1.175319085758996
+all species, node ages at the older bounds	Regulatory context	log gene number	1.0	-0.6843273240478429	-4.369212784369853		
+all species, node ages at the older bounds	Regulatory context	log gene number + BUSCO	1.0	-0.6604362865443048	-4.6244474987257655	-0.0083524653497914	-1.7115082869516165
+Chlamydomonas removed	Whole genome	log gene number	1.0	-0.6287018456432322	-3.4235239948711405		
+Chlamydomonas removed	Whole genome	log gene number + BUSCO	1.0	-0.5715822589815521	-3.3601681342815044	-0.0094662796675568	-1.6511111049967078
+Chlamydomonas removed	Primary metabolism	log gene number	1.0	-0.6645460142590618	-3.38554336691097		
+Chlamydomonas removed	Primary metabolism	log gene number + BUSCO	0.94	-0.6029815548027692	-3.511884787936673	-0.0115068707492826	-1.9798175212265
+Chlamydomonas removed	Carbon metabolism	log gene number	1.0	-0.7150291879181393	-3.928701955702546		
+Chlamydomonas removed	Carbon metabolism	log gene number + BUSCO	1.0	-0.6590963197041656	-3.891597101662822	-0.0092696079237794	-1.6238841724806397
+Chlamydomonas removed	Nitrogen metabolism	log gene number	0.0	-0.8752012253164526	-5.954890648506436		
+Chlamydomonas removed	Nitrogen metabolism	log gene number + BUSCO	0.0	-0.824331112594143	-4.31225599865292	-0.0029841678791636	-0.4538830461402321
+Chlamydomonas removed	Regulatory context	log gene number	1.0	-0.7913452312335704	-4.388698581559794		
+Chlamydomonas removed	Regulatory context	log gene number + BUSCO	1.0	-0.7504425983097591	-4.132141453094523	-0.0067786863495655	-1.1074342223971887

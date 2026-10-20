@@ -1,0 +1,3 @@
+subset	genes	protein_sequences	isoforms_per_gene	pct_genes_multi_isoform
+Pabies_non_TE	43410	167432	3.86	55.7
+Pabies_TE	11100	13614	1.23	NA

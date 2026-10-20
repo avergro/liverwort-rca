@@ -1,0 +1,326 @@
+setting	context	species	residual	rank_residual
+all species, root 750 Ma	whole_genome	Afiliculoides	0.03643282152870678	4.0
+all species, root 750 Ma	whole_genome	Athaliana	-0.2780380123741739	10.0
+all species, root 750 Ma	whole_genome	Creinhardtii	-0.10449043373779315	8.0
+all species, root 750 Ma	whole_genome	Lcruciata	0.1515599982722004	3.0
+all species, root 750 Ma	whole_genome	Mpolymorpha	-0.004914402982910904	6.0
+all species, root 750 Ma	whole_genome	Pabies	-0.013481230864075489	7.0
+all species, root 750 Ma	whole_genome	Pamericana	-0.24955194418140336	9.0
+all species, root 750 Ma	whole_genome	Ppatens	0.1975634088773277	2.0
+all species, root 750 Ma	whole_genome	Scucullata	2.283028759574035e-05	5.0
+all species, root 750 Ma	whole_genome	Slycopersicum	-0.2928235844801549	11.0
+all species, root 750 Ma	whole_genome	Smoellendorffii	0.2164975062416083	1.0
+all species, root 750 Ma	primary_metabolism	Afiliculoides	0.053352889764566674	4.0
+all species, root 750 Ma	primary_metabolism	Athaliana	-0.30293281513525194	11.0
+all species, root 750 Ma	primary_metabolism	Creinhardtii	-0.12737507839615098	8.0
+all species, root 750 Ma	primary_metabolism	Lcruciata	0.19926930745128946	2.0
+all species, root 750 Ma	primary_metabolism	Mpolymorpha	0.0449738859267462	5.0
+all species, root 750 Ma	primary_metabolism	Pabies	-0.14502531873419616	9.0
+all species, root 750 Ma	primary_metabolism	Pamericana	-0.0985921811598881	7.0
+all species, root 750 Ma	primary_metabolism	Ppatens	0.13439694007073336	3.0
+all species, root 750 Ma	primary_metabolism	Scucullata	0.0276105257465884	6.0
+all species, root 750 Ma	primary_metabolism	Slycopersicum	-0.25208607823144835	10.0
+all species, root 750 Ma	primary_metabolism	Smoellendorffii	0.2927689359095962	1.0
+all species, root 750 Ma	C_metabolism	Afiliculoides	0.027680648135594225	4.0
+all species, root 750 Ma	C_metabolism	Athaliana	-0.14922761798761197	10.0
+all species, root 750 Ma	C_metabolism	Creinhardtii	-0.13227137006618445	9.0
+all species, root 750 Ma	C_metabolism	Lcruciata	0.10791281604080095	3.0
+all species, root 750 Ma	C_metabolism	Mpolymorpha	0.02736391764816179	5.0
+all species, root 750 Ma	C_metabolism	Pabies	-0.22498548513198524	11.0
+all species, root 750 Ma	C_metabolism	Pamericana	-0.017039123492053387	6.0
+all species, root 750 Ma	C_metabolism	Ppatens	0.24134432063086228	2.0
+all species, root 750 Ma	C_metabolism	Scucullata	-0.045565713982614824	7.0
+all species, root 750 Ma	C_metabolism	Slycopersicum	-0.12710810698459235	8.0
+all species, root 750 Ma	C_metabolism	Smoellendorffii	0.2692412007928011	1.0
+all species, root 750 Ma	N_metabolism	Afiliculoides	0.04430919381844001	5.0
+all species, root 750 Ma	N_metabolism	Athaliana	0.00907101301670532	6.0
+all species, root 750 Ma	N_metabolism	Creinhardtii	-0.2076574001769712	11.0
+all species, root 750 Ma	N_metabolism	Lcruciata	0.11604656634744398	2.0
+all species, root 750 Ma	N_metabolism	Mpolymorpha	-0.05334048620089274	8.0
+all species, root 750 Ma	N_metabolism	Pabies	-0.16356481989832694	9.0
+all species, root 750 Ma	N_metabolism	Pamericana	-0.17244909217517418	10.0
+all species, root 750 Ma	N_metabolism	Ppatens	0.27332919303020387	1.0
+all species, root 750 Ma	N_metabolism	Scucullata	-0.00897865306733446	7.0
+all species, root 750 Ma	N_metabolism	Slycopersicum	0.09780066654536135	3.0
+all species, root 750 Ma	N_metabolism	Smoellendorffii	0.06543381876053925	4.0
+all species, root 750 Ma	regulatory_networks	Afiliculoides	0.02379323106454377	5.0
+all species, root 750 Ma	regulatory_networks	Athaliana	-0.20773251531206058	10.0
+all species, root 750 Ma	regulatory_networks	Creinhardtii	-0.14183605674121183	9.0
+all species, root 750 Ma	regulatory_networks	Lcruciata	0.1318702401835246	3.0
+all species, root 750 Ma	regulatory_networks	Mpolymorpha	0.025754110629515353	4.0
+all species, root 750 Ma	regulatory_networks	Pabies	-0.07512770953515308	7.0
+all species, root 750 Ma	regulatory_networks	Pamericana	-0.2133427899820189	11.0
+all species, root 750 Ma	regulatory_networks	Ppatens	0.26565818831290955	1.0
+all species, root 750 Ma	regulatory_networks	Scucullata	-0.03183706743028418	6.0
+all species, root 750 Ma	regulatory_networks	Slycopersicum	-0.09399059784944364	8.0
+all species, root 750 Ma	regulatory_networks	Smoellendorffii	0.21280031116420994	2.0
+all species, root 1000 Ma	whole_genome	Afiliculoides	0.04540040455554571	4.0
+all species, root 1000 Ma	whole_genome	Athaliana	-0.26470697165727314	10.0
+all species, root 1000 Ma	whole_genome	Creinhardtii	-0.10019248226197902	8.0
+all species, root 1000 Ma	whole_genome	Lcruciata	0.1599654987967359	3.0
+all species, root 1000 Ma	whole_genome	Mpolymorpha	0.0007876999544526309	7.0
+all species, root 1000 Ma	whole_genome	Pabies	0.005196423710751519	6.0
+all species, root 1000 Ma	whole_genome	Pamericana	-0.2324507968307491	9.0
+all species, root 1000 Ma	whole_genome	Ppatens	0.21037228875389635	2.0
+all species, root 1000 Ma	whole_genome	Scucullata	0.00814995576820654	5.0
+all species, root 1000 Ma	whole_genome	Slycopersicum	-0.27753659785651164	11.0
+all species, root 1000 Ma	whole_genome	Smoellendorffii	0.22847738753034808	1.0
+all species, root 1000 Ma	primary_metabolism	Afiliculoides	0.06428447986528323	4.0
+all species, root 1000 Ma	primary_metabolism	Athaliana	-0.28668211834248636	11.0
+all species, root 1000 Ma	primary_metabolism	Creinhardtii	-0.12213582455643007	8.0
+all species, root 1000 Ma	primary_metabolism	Lcruciata	0.2095157123131769	2.0
+all species, root 1000 Ma	primary_metabolism	Mpolymorpha	0.051924817056884925	5.0
+all species, root 1000 Ma	primary_metabolism	Pabies	-0.1222570362166348	9.0
+all species, root 1000 Ma	primary_metabolism	Pamericana	-0.07774567965220336	7.0
+all species, root 1000 Ma	primary_metabolism	Ppatens	0.1500111166042416	3.0
+all species, root 1000 Ma	primary_metabolism	Scucullata	0.03751758812730273	6.0
+all species, root 1000 Ma	primary_metabolism	Slycopersicum	-0.2334510601731103	10.0
+all species, root 1000 Ma	primary_metabolism	Smoellendorffii	0.30737255332933944	1.0
+all species, root 1000 Ma	C_metabolism	Afiliculoides	0.03903244801536857	4.0
+all species, root 1000 Ma	C_metabolism	Athaliana	-0.13235224521944555	10.0
+all species, root 1000 Ma	C_metabolism	Creinhardtii	-0.12683071956979175	9.0
+all species, root 1000 Ma	C_metabolism	Lcruciata	0.11855309219528883	3.0
+all species, root 1000 Ma	C_metabolism	Mpolymorpha	0.03458204222477196	5.0
+all species, root 1000 Ma	C_metabolism	Pabies	-0.20134199096834715	11.0
+all species, root 1000 Ma	C_metabolism	Pamericana	0.004608716495395904	6.0
+all species, root 1000 Ma	C_metabolism	Ppatens	0.2575587053327052	2.0
+all species, root 1000 Ma	C_metabolism	Scucullata	-0.0352778246173766	7.0
+all species, root 1000 Ma	C_metabolism	Slycopersicum	-0.10775675976014754	8.0
+all species, root 1000 Ma	C_metabolism	Smoellendorffii	0.28440618053887323	1.0
+all species, root 1000 Ma	N_metabolism	Afiliculoides	0.04430919381844001	5.0
+all species, root 1000 Ma	N_metabolism	Athaliana	0.00907101301670532	6.0
+all species, root 1000 Ma	N_metabolism	Creinhardtii	-0.2076574001769712	11.0
+all species, root 1000 Ma	N_metabolism	Lcruciata	0.11604656634744398	2.0
+all species, root 1000 Ma	N_metabolism	Mpolymorpha	-0.05334048620089274	8.0
+all species, root 1000 Ma	N_metabolism	Pabies	-0.16356481989832694	9.0
+all species, root 1000 Ma	N_metabolism	Pamericana	-0.17244909217517418	10.0
+all species, root 1000 Ma	N_metabolism	Ppatens	0.27332919303020387	1.0
+all species, root 1000 Ma	N_metabolism	Scucullata	-0.00897865306733446	7.0
+all species, root 1000 Ma	N_metabolism	Slycopersicum	0.09780066654536135	3.0
+all species, root 1000 Ma	N_metabolism	Smoellendorffii	0.06543381876053925	4.0
+all species, root 1000 Ma	regulatory_networks	Afiliculoides	0.0359658919438926	4.0
+all species, root 1000 Ma	regulatory_networks	Athaliana	-0.18963686597935173	10.0
+all species, root 1000 Ma	regulatory_networks	Creinhardtii	-0.13600198688823176	9.0
+all species, root 1000 Ma	regulatory_networks	Lcruciata	0.14327992628290448	3.0
+all species, root 1000 Ma	regulatory_networks	Mpolymorpha	0.03349418564726833	5.0
+all species, root 1000 Ma	regulatory_networks	Pabies	-0.04977452858544279	7.0
+all species, root 1000 Ma	regulatory_networks	Pamericana	-0.19012957113316298	11.0
+all species, root 1000 Ma	regulatory_networks	Ppatens	0.2830450528130926	1.0
+all species, root 1000 Ma	regulatory_networks	Scucullata	-0.020805249592266192	6.0
+all species, root 1000 Ma	regulatory_networks	Slycopersicum	-0.0732399336537698	8.0
+all species, root 1000 Ma	regulatory_networks	Smoellendorffii	0.2290618870945633	2.0
+all species, root 1500 Ma	whole_genome	Afiliculoides	0.05365941494149101	4.0
+all species, root 1500 Ma	whole_genome	Athaliana	-0.2524292817371647	10.0
+all species, root 1500 Ma	whole_genome	Creinhardtii	-0.0962341329753556	8.0
+all species, root 1500 Ma	whole_genome	Lcruciata	0.1677068395708817	3.0
+all species, root 1500 Ma	whole_genome	Mpolymorpha	0.006039251820820574	7.0
+all species, root 1500 Ma	whole_genome	Pabies	0.022398265350460134	5.0
+all species, root 1500 Ma	whole_genome	Pamericana	-0.21670089486073707	9.0
+all species, root 1500 Ma	whole_genome	Ppatens	0.22216907631820482	2.0
+all species, root 1500 Ma	whole_genome	Scucullata	0.01563491727359259	6.0
+all species, root 1500 Ma	whole_genome	Slycopersicum	-0.26345751089220615	11.0
+all species, root 1500 Ma	whole_genome	Smoellendorffii	0.23951067974408957	1.0
+all species, root 1500 Ma	primary_metabolism	Afiliculoides	0.03608271865812862	4.0
+all species, root 1500 Ma	primary_metabolism	Athaliana	-0.25927933212430165	11.0
+all species, root 1500 Ma	primary_metabolism	Creinhardtii	-0.20984377729357306	10.0
+all species, root 1500 Ma	primary_metabolism	Lcruciata	0.17415120418000804	2.0
+all species, root 1500 Ma	primary_metabolism	Mpolymorpha	-0.017889709851032803	7.0
+all species, root 1500 Ma	primary_metabolism	Pabies	-0.026721116840047965	8.0
+all species, root 1500 Ma	primary_metabolism	Pamericana	-0.0022995553279579473	6.0
+all species, root 1500 Ma	primary_metabolism	Ppatens	0.17075988683963578	3.0
+all species, root 1500 Ma	primary_metabolism	Scucullata	-0.0013943173754334404	5.0
+all species, root 1500 Ma	primary_metabolism	Slycopersicum	-0.18112320428355616	9.0
+all species, root 1500 Ma	primary_metabolism	Smoellendorffii	0.31755720341812194	1.0
+all species, root 1500 Ma	C_metabolism	Afiliculoides	0.013449907424798166	5.0
+all species, root 1500 Ma	C_metabolism	Athaliana	-0.13343430632485315	9.0
+all species, root 1500 Ma	C_metabolism	Creinhardtii	-0.17863288233745522	11.0
+all species, root 1500 Ma	C_metabolism	Lcruciata	0.08981450156485689	3.0
+all species, root 1500 Ma	C_metabolism	Mpolymorpha	-0.009335918031633694	6.0
+all species, root 1500 Ma	C_metabolism	Pabies	-0.17240322628700278	10.0
+all species, root 1500 Ma	C_metabolism	Pamericana	0.0246955143083486	4.0
+all species, root 1500 Ma	C_metabolism	Ppatens	0.2535447512503931	2.0
+all species, root 1500 Ma	C_metabolism	Scucullata	-0.06557946971912679	7.0
+all species, root 1500 Ma	C_metabolism	Slycopersicum	-0.09785633496420681	8.0
+all species, root 1500 Ma	C_metabolism	Smoellendorffii	0.2757374631158761	1.0
+all species, root 1500 Ma	N_metabolism	Afiliculoides	0.04430919381844001	5.0
+all species, root 1500 Ma	N_metabolism	Athaliana	0.00907101301670532	6.0
+all species, root 1500 Ma	N_metabolism	Creinhardtii	-0.2076574001769712	11.0
+all species, root 1500 Ma	N_metabolism	Lcruciata	0.11604656634744398	2.0
+all species, root 1500 Ma	N_metabolism	Mpolymorpha	-0.05334048620089274	8.0
+all species, root 1500 Ma	N_metabolism	Pabies	-0.16356481989832694	9.0
+all species, root 1500 Ma	N_metabolism	Pamericana	-0.17244909217517418	10.0
+all species, root 1500 Ma	N_metabolism	Ppatens	0.27332919303020387	1.0
+all species, root 1500 Ma	N_metabolism	Scucullata	-0.00897865306733446	7.0
+all species, root 1500 Ma	N_metabolism	Slycopersicum	0.09780066654536135	3.0
+all species, root 1500 Ma	N_metabolism	Smoellendorffii	0.06543381876053925	4.0
+all species, root 1500 Ma	regulatory_networks	Afiliculoides	0.04717673128892642	4.0
+all species, root 1500 Ma	regulatory_networks	Athaliana	-0.17297104249804374	11.0
+all species, root 1500 Ma	regulatory_networks	Creinhardtii	-0.13062889545836673	9.0
+all species, root 1500 Ma	regulatory_networks	Lcruciata	0.15378807722091514	3.0
+all species, root 1500 Ma	regulatory_networks	Mpolymorpha	0.04062267944189643	5.0
+all species, root 1500 Ma	regulatory_networks	Pabies	-0.026424626593599676	7.0
+all species, root 1500 Ma	regulatory_networks	Pamericana	-0.16875054235917442	10.0
+all species, root 1500 Ma	regulatory_networks	Ppatens	0.2990580960217552	1.0
+all species, root 1500 Ma	regulatory_networks	Scucullata	-0.010645109694216462	6.0
+all species, root 1500 Ma	regulatory_networks	Slycopersicum	-0.0541288810329672	8.0
+all species, root 1500 Ma	regulatory_networks	Smoellendorffii	0.24403855629279378	2.0
+all species, node ages at the younger bounds	whole_genome	Afiliculoides	0.04567485177033519	4.0
+all species, node ages at the younger bounds	whole_genome	Athaliana	-0.2692970462066827	10.0
+all species, node ages at the younger bounds	whole_genome	Creinhardtii	-0.09471218090026212	8.0
+all species, node ages at the younger bounds	whole_genome	Lcruciata	0.16086657350741196	3.0
+all species, node ages at the younger bounds	whole_genome	Mpolymorpha	0.004702608494670163	6.0
+all species, node ages at the younger bounds	whole_genome	Pabies	-0.0053542264472832835	7.0
+all species, node ages at the younger bounds	whole_genome	Pamericana	-0.24124390646745092	9.0
+all species, node ages at the younger bounds	whole_genome	Ppatens	0.2063643357586829	2.0
+all species, node ages at the younger bounds	whole_genome	Scucullata	0.0093613718539957	5.0
+all species, node ages at the younger bounds	whole_genome	Slycopersicum	-0.2843072232692001	11.0
+all species, node ages at the younger bounds	whole_genome	Smoellendorffii	0.22539362859393547	1.0
+all species, node ages at the younger bounds	primary_metabolism	Afiliculoides	0.06473185588615007	4.0
+all species, node ages at the younger bounds	primary_metabolism	Athaliana	-0.29078541655853113	11.0
+all species, node ages at the younger bounds	primary_metabolism	Creinhardtii	-0.11681846388015638	8.0
+all species, node ages at the younger bounds	primary_metabolism	Lcruciata	0.21054928729457834	2.0
+all species, node ages at the younger bounds	primary_metabolism	Mpolymorpha	0.05577778038255565	5.0
+all species, node ages at the younger bounds	primary_metabolism	Pabies	-0.1319363476923921	9.0
+all species, node ages at the younger bounds	primary_metabolism	Pamericana	-0.08578084299615046	7.0
+all species, node ages at the younger bounds	primary_metabolism	Ppatens	0.1464523828259443	3.0
+all species, node ages at the younger bounds	primary_metabolism	Scucullata	0.03884148198666021	6.0
+all species, node ages at the younger bounds	primary_metabolism	Slycopersicum	-0.23959422522844595	10.0
+all species, node ages at the younger bounds	primary_metabolism	Smoellendorffii	0.3046783867782348	1.0
+all species, node ages at the younger bounds	C_metabolism	Afiliculoides	0.038763586766489166	4.0
+all species, node ages at the younger bounds	C_metabolism	Athaliana	-0.1359458891524774	10.0
+all species, node ages at the younger bounds	C_metabolism	Creinhardtii	-0.12354150572662204	9.0
+all species, node ages at the younger bounds	C_metabolism	Lcruciata	0.11871251564709068	3.0
+all species, node ages at the younger bounds	C_metabolism	Mpolymorpha	0.03680134802782942	5.0
+all species, node ages at the younger bounds	C_metabolism	Pabies	-0.20900954381406767	11.0
+all species, node ages at the younger bounds	C_metabolism	Pamericana	-0.001857600016050287	6.0
+all species, node ages at the younger bounds	C_metabolism	Ppatens	0.2543629273682681	2.0
+all species, node ages at the younger bounds	C_metabolism	Scucullata	-0.03490629035999753	7.0
+all species, node ages at the younger bounds	C_metabolism	Slycopersicum	-0.1128407573401708	8.0
+all species, node ages at the younger bounds	C_metabolism	Smoellendorffii	0.28184206680628554	1.0
+all species, node ages at the younger bounds	N_metabolism	Afiliculoides	0.04430919381844001	5.0
+all species, node ages at the younger bounds	N_metabolism	Athaliana	0.00907101301670532	6.0
+all species, node ages at the younger bounds	N_metabolism	Creinhardtii	-0.2076574001769712	11.0
+all species, node ages at the younger bounds	N_metabolism	Lcruciata	0.11604656634744398	2.0
+all species, node ages at the younger bounds	N_metabolism	Mpolymorpha	-0.05334048620089274	8.0
+all species, node ages at the younger bounds	N_metabolism	Pabies	-0.16356481989832694	9.0
+all species, node ages at the younger bounds	N_metabolism	Pamericana	-0.17244909217517418	10.0
+all species, node ages at the younger bounds	N_metabolism	Ppatens	0.27332919303020387	1.0
+all species, node ages at the younger bounds	N_metabolism	Scucullata	-0.00897865306733446	7.0
+all species, node ages at the younger bounds	N_metabolism	Slycopersicum	0.09780066654536135	3.0
+all species, node ages at the younger bounds	N_metabolism	Smoellendorffii	0.06543381876053925	4.0
+all species, node ages at the younger bounds	regulatory_networks	Afiliculoides	0.03623519966127117	5.0
+all species, node ages at the younger bounds	regulatory_networks	Athaliana	-0.19348723121024197	10.0
+all species, node ages at the younger bounds	regulatory_networks	Creinhardtii	-0.1313239381802039	9.0
+all species, node ages at the younger bounds	regulatory_networks	Lcruciata	0.1440799131643571	3.0
+all species, node ages at the younger bounds	regulatory_networks	Mpolymorpha	0.03684653230836393	4.0
+all species, node ages at the younger bounds	regulatory_networks	Pabies	-0.058672794366739334	7.0
+all species, node ages at the younger bounds	regulatory_networks	Pamericana	-0.19753940855660768	11.0
+all species, node ages at the younger bounds	regulatory_networks	Ppatens	0.2796876754925609	1.0
+all species, node ages at the younger bounds	regulatory_networks	Scucullata	-0.019742440376007406	6.0
+all species, node ages at the younger bounds	regulatory_networks	Slycopersicum	-0.07893696682844165	8.0
+all species, node ages at the younger bounds	regulatory_networks	Smoellendorffii	0.22648719252221317	2.0
+all species, node ages at the older bounds	whole_genome	Afiliculoides	0.045325919335884896	4.0
+all species, node ages at the older bounds	whole_genome	Athaliana	-0.26210819938607055	10.0
+all species, node ages at the older bounds	whole_genome	Creinhardtii	-0.10312780134552274	8.0
+all species, node ages at the older bounds	whole_genome	Lcruciata	0.1595466556466228	3.0
+all species, node ages at the older bounds	whole_genome	Mpolymorpha	-0.0012873705190396822	7.0
+all species, node ages at the older bounds	whole_genome	Pabies	0.011070780750200737	5.0
+all species, node ages at the older bounds	whole_genome	Pamericana	-0.2275422815722386	9.0
+all species, node ages at the older bounds	whole_genome	Ppatens	0.21265116096487086	2.0
+all species, node ages at the older bounds	whole_genome	Scucullata	0.007560567095643164	6.0
+all species, node ages at the older bounds	whole_genome	Slycopersicum	-0.2737395219879505	11.0
+all species, node ages at the older bounds	whole_genome	Smoellendorffii	0.2302483765802515	1.0
+all species, node ages at the older bounds	primary_metabolism	Afiliculoides	0.06468204627204746	4.0
+all species, node ages at the older bounds	primary_metabolism	Athaliana	-0.2770284692373901	11.0
+all species, node ages at the older bounds	primary_metabolism	Creinhardtii	-0.13164381903214423	9.0
+all species, node ages at the older bounds	primary_metabolism	Lcruciata	0.2087209485785362	2.0
+all species, node ages at the older bounds	primary_metabolism	Mpolymorpha	0.04539541042875936	5.0
+all species, node ages at the older bounds	primary_metabolism	Pabies	-0.10126176229465811	8.0
+all species, node ages at the older bounds	primary_metabolism	Pamericana	-0.06009460711315662	7.0
+all species, node ages at the older bounds	primary_metabolism	Ppatens	0.15855712029067076	3.0
+all species, node ages at the older bounds	primary_metabolism	Scucullata	0.036132315073965623	6.0
+all species, node ages at the older bounds	primary_metabolism	Slycopersicum	-0.21964831685140063	10.0
+all species, node ages at the older bounds	primary_metabolism	Smoellendorffii	0.3141600251287239	1.0
+all species, node ages at the older bounds	C_metabolism	Afiliculoides	0.0392466439029186	4.0
+all species, node ages at the older bounds	C_metabolism	Athaliana	-0.13062798816098203	10.0
+all species, node ages at the older bounds	C_metabolism	Creinhardtii	-0.1282325423968807	9.0
+all species, node ages at the older bounds	C_metabolism	Lcruciata	0.11857276827266366	3.0
+all species, node ages at the older bounds	C_metabolism	Mpolymorpha	0.03366615389064179	5.0
+all species, node ages at the older bounds	C_metabolism	Pabies	-0.19776743202633124	11.0
+all species, node ages at the older bounds	C_metabolism	Pamericana	0.007637693810641388	6.0
+all species, node ages at the older bounds	C_metabolism	Ppatens	0.25910225826477074	2.0
+all species, node ages at the older bounds	C_metabolism	Scucullata	-0.03535448575114041	7.0
+all species, node ages at the older bounds	C_metabolism	Slycopersicum	-0.10535560878498434	8.0
+all species, node ages at the older bounds	C_metabolism	Smoellendorffii	0.28566284204969883	1.0
+all species, node ages at the older bounds	N_metabolism	Afiliculoides	0.04430919381844001	5.0
+all species, node ages at the older bounds	N_metabolism	Athaliana	0.00907101301670532	6.0
+all species, node ages at the older bounds	N_metabolism	Creinhardtii	-0.2076574001769712	11.0
+all species, node ages at the older bounds	N_metabolism	Lcruciata	0.11604656634744398	2.0
+all species, node ages at the older bounds	N_metabolism	Mpolymorpha	-0.05334048620089274	8.0
+all species, node ages at the older bounds	N_metabolism	Pabies	-0.16356481989832694	9.0
+all species, node ages at the older bounds	N_metabolism	Pamericana	-0.17244909217517418	10.0
+all species, node ages at the older bounds	N_metabolism	Ppatens	0.27332919303020387	1.0
+all species, node ages at the older bounds	N_metabolism	Scucullata	-0.00897865306733446	7.0
+all species, node ages at the older bounds	N_metabolism	Slycopersicum	0.09780066654536135	3.0
+all species, node ages at the older bounds	N_metabolism	Smoellendorffii	0.06543381876053925	4.0
+all species, node ages at the older bounds	regulatory_networks	Afiliculoides	0.0356768481968887	4.0
+all species, node ages at the older bounds	regulatory_networks	Athaliana	-0.1876601843726496	11.0
+all species, node ages at the older bounds	regulatory_networks	Creinhardtii	-0.13871573676260793	9.0
+all species, node ages at the older bounds	regulatory_networks	Lcruciata	0.14269902120325972	3.0
+all species, node ages at the older bounds	regulatory_networks	Mpolymorpha	0.03150954140261372	5.0
+all species, node ages at the older bounds	regulatory_networks	Pabies	-0.04502161779655561	7.0
+all species, node ages at the older bounds	regulatory_networks	Pamericana	-0.18619526170169115	10.0
+all species, node ages at the older bounds	regulatory_networks	Ppatens	0.284750602409658	1.0
+all species, node ages at the older bounds	regulatory_networks	Scucullata	-0.021530700910160433	6.0
+all species, node ages at the older bounds	regulatory_networks	Slycopersicum	-0.07024762715823757	8.0
+all species, node ages at the older bounds	regulatory_networks	Smoellendorffii	0.230336979184251	2.0
+Chlamydomonas removed	whole_genome	Afiliculoides	-0.017531234986154193	4.0
+Chlamydomonas removed	whole_genome	Athaliana	-0.3098067693323466	9.0
+Chlamydomonas removed	whole_genome	Lcruciata	0.1064213884374356	3.0
+Chlamydomonas removed	whole_genome	Mpolymorpha	-0.08014812581241545	7.0
+Chlamydomonas removed	whole_genome	Pabies	-0.031808721322180766	5.0
+Chlamydomonas removed	whole_genome	Pamericana	-0.27611492323337067	8.0
+Chlamydomonas removed	whole_genome	Ppatens	0.14471605318524916	2.0
+Chlamydomonas removed	whole_genome	Scucullata	-0.06810571896724112	6.0
+Chlamydomonas removed	whole_genome	Slycopersicum	-0.33943989532007945	10.0
+Chlamydomonas removed	whole_genome	Smoellendorffii	0.17359767709439844	1.0
+Chlamydomonas removed	primary_metabolism	Afiliculoides	-0.011354490949806006	4.0
+Chlamydomonas removed	primary_metabolism	Athaliana	-0.278611975485498	10.0
+Chlamydomonas removed	primary_metabolism	Lcruciata	0.0953803723496768	2.0
+Chlamydomonas removed	primary_metabolism	Mpolymorpha	-0.07664594820464307	6.0
+Chlamydomonas removed	primary_metabolism	Pabies	-0.20095480100928126	8.0
+Chlamydomonas removed	primary_metabolism	Pamericana	-0.08844709535766071	7.0
+Chlamydomonas removed	primary_metabolism	Ppatens	0.0953736422673302	3.0
+Chlamydomonas removed	primary_metabolism	Scucullata	-0.049340457988612266	5.0
+Chlamydomonas removed	primary_metabolism	Slycopersicum	-0.25320346624307444	9.0
+Chlamydomonas removed	primary_metabolism	Smoellendorffii	0.24545394909228296	1.0
+Chlamydomonas removed	C_metabolism	Afiliculoides	-0.027817917524029234	4.0
+Chlamydomonas removed	C_metabolism	Athaliana	-0.2548962377524048	10.0
+Chlamydomonas removed	C_metabolism	Lcruciata	0.028020234466732602	3.0
+Chlamydomonas removed	C_metabolism	Mpolymorpha	-0.1018929282309006	6.0
+Chlamydomonas removed	C_metabolism	Pabies	-0.18844152351084908	9.0
+Chlamydomonas removed	C_metabolism	Pamericana	-0.16077328379621408	7.0
+Chlamydomonas removed	C_metabolism	Ppatens	0.15891513875039098	2.0
+Chlamydomonas removed	C_metabolism	Scucullata	-0.09366087574729566	5.0
+Chlamydomonas removed	C_metabolism	Slycopersicum	-0.18173794961252127	8.0
+Chlamydomonas removed	C_metabolism	Smoellendorffii	0.2667239253366027	1.0
+Chlamydomonas removed	N_metabolism	Afiliculoides	-0.008867819527750467	6.0
+Chlamydomonas removed	N_metabolism	Athaliana	-0.021640179961607636	7.0
+Chlamydomonas removed	N_metabolism	Lcruciata	0.06205206885770964	3.0
+Chlamydomonas removed	N_metabolism	Mpolymorpha	-0.1247518265637593	9.0
+Chlamydomonas removed	N_metabolism	Pabies	0.006966519066365251	5.0
+Chlamydomonas removed	N_metabolism	Pamericana	-0.23930642630130716	10.0
+Chlamydomonas removed	N_metabolism	Ppatens	0.2759675237108651	1.0
+Chlamydomonas removed	N_metabolism	Scucullata	-0.06916849645807867	8.0
+Chlamydomonas removed	N_metabolism	Slycopersicum	0.03773267211247561	4.0
+Chlamydomonas removed	N_metabolism	Smoellendorffii	0.08101596506508221	2.0
+Chlamydomonas removed	regulatory_networks	Afiliculoides	-0.04038572930141612	4.0
+Chlamydomonas removed	regulatory_networks	Athaliana	-0.20995417886271805	10.0
+Chlamydomonas removed	regulatory_networks	Lcruciata	0.03643003534729747	3.0
+Chlamydomonas removed	regulatory_networks	Mpolymorpha	-0.10547626569130325	6.0
+Chlamydomonas removed	regulatory_networks	Pabies	-0.17938537596995913	8.0
+Chlamydomonas removed	regulatory_networks	Pamericana	-0.19501316133455293	9.0
+Chlamydomonas removed	regulatory_networks	Ppatens	0.24761059569078778	1.0
+Chlamydomonas removed	regulatory_networks	Scucullata	-0.12031730612155091	7.0
+Chlamydomonas removed	regulatory_networks	Slycopersicum	-0.0658444187971888	5.0
+Chlamydomonas removed	regulatory_networks	Smoellendorffii	0.13520917697040108	2.0

@@ -1,0 +1,8 @@
+module	pattern	name	Mpolymorpha	Lcruciata	Athaliana	Slycopersicum	Pamericana
+M00039	complete in all angiosperms, in no liverwort	Monolignol biosynthesis, phenylalanine/tyrosine => monolignol	0.8	0.8	1.0	1.0	1.0
+M00113	complete in all angiosperms, in no liverwort	Jasmonic acid biosynthesis	0.75	0.75	1.0	1.0	1.0
+M00138	complete in all angiosperms, in no liverwort	Flavonoid biosynthesis, naringenin => pelargonidin	0.0	0.0	1.0	1.0	1.0
+M00368	complete in all angiosperms, in no liverwort	Ethylene biosynthesis, methionine => ethylene	0.33	0.33	1.0	1.0	1.0
+M00372	complete in all angiosperms, in no liverwort	Abscisic acid biosynthesis, beta-carotene => abscisic acid	0.67	0.67	1.0	1.0	1.0
+M00928	complete in all angiosperms, in no liverwort	Gibberellin A4/A1 biosynthesis, GA12/GA53 => GA4/GA1	0.5	0.5	1.0	1.0	1.0
+M00579	complete in both liverworts, in no angiosperm	Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate	1.0	1.0	0.0	0.0	0.0

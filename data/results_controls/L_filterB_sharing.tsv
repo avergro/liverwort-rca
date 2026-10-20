@@ -1,0 +1,4 @@
+context	filterB	Ppatens	Smoellendorffii	Ppatens_or_Smoellendorffii	Ppatens_and_Smoellendorffii	any_other_non_seed
+primary_metabolism	212	113	107	175	45	212
+C_metabolism	84	46	38	68	16	83
+N_metabolism	56	43	25	51	17	56

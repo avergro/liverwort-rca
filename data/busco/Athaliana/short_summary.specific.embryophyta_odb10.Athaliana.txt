@@ -1,0 +1,17 @@
+# BUSCO version is: 6.0.0 
+# The lineage dataset is: embryophyta_odb10 (Creation date: 2024-01-08, number of genomes: 50, number of BUSCOs: 1614)
+# Summarized benchmarking in BUSCO notation for file ./data/proteomes/filtered/Athaliana.primary.fa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:99.6%[S:98.4%,D:1.2%],F:0.1%,M:0.4%,n:1614	   
+	1607	Complete BUSCOs (C)			   
+	1588	Complete and single-copy BUSCOs (S)	   
+	19	Complete and duplicated BUSCOs (D)	   
+	1	Fragmented BUSCOs (F)			   
+	6	Missing BUSCOs (M)			   
+	1614	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4

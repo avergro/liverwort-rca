@@ -1,0 +1,7 @@
+A	B	n_A	n_B	median_log2_A	median_log2_B	copy_ratio_A	copy_ratio_B	diff	P_perm
+regulatory (KEGG)	metabolic (KEGG)	111	845	-1.737	-0.415	0.3	0.75	-1.322	9.999e-05
+regulatory (GO)	metabolic (GO)	429	1703	-1	-0.415	0.5	0.75	-0.585	9.999e-05
+transcription factors	metabolic (KEGG)	161	879	-1.497	-0.415	0.3543	0.75	-1.082	9.999e-05
+transcription factors	whole genome	163	6705	-1.415	-0.415	0.375	0.75	-1	9.999e-05
+metabolic (KEGG)	whole genome	881	5987	-0.415	-0.415	0.75	0.75	0	1
+regulatory (KEGG)	whole genome	147	6721	-1.415	-0.415	0.375	0.75	-1	9.999e-05

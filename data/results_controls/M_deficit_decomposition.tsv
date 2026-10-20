@@ -1,0 +1,7 @@
+liverwort	angiosperm	gene_difference	copies_in_shared_orthogroups	orthogroups_lacking_but_in_other_non_seed	orthogroups_restricted_to_seed_plants	orthogroups_of_the_liverwort_absent_from_angiosperm
+Mpolymorpha	Athaliana	9758	0.8569	0.1967	0.2472	-0.3008
+Mpolymorpha	Slycopersicum	13986	0.7573	0.2397	0.2105	-0.2076
+Mpolymorpha	Pamericana	15255	0.7709	0.1910	0.2197	-0.1816
+Lcruciata	Athaliana	8373	0.8557	0.2960	0.2881	-0.4397
+Lcruciata	Slycopersicum	12601	0.7604	0.2924	0.2336	-0.2864
+Lcruciata	Pamericana	13870	0.7747	0.2286	0.2417	-0.2450

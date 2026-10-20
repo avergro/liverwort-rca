@@ -1,0 +1,21 @@
+{
+  "title": "Liverwort genomes through economic complexity: code and data",
+  "description": "Code and data for the manuscript \"Fewer copies, not fewer functions? Liverwort genomes through economic complexity\". The analysis compares the orthogroup content of eleven green plant proteomes with revealed comparative advantage (RCA), decomposes gene number into orthogroup coverage and genes per occupied orthogroup, and tests the resulting ranking with bootstrap, species removal, rarefaction, a degree-preserving null model, phylogenetic regression and simulation. The repository mirrors the working layout, so every script runs unchanged from its root; each figure is generated from the result tables by a dedicated script in plots/. Scripts are released under the MIT licence and data files under CC BY 4.0.",
+  "creators": [
+    { "name": "Vergara, Alexander" },
+    { "name": "Vergara, Matías" },
+    { "name": "Gutiérrez, Rodrigo A." }
+  ],
+  "keywords": [
+    "economic complexity",
+    "metabolic complexity",
+    "orthogroups",
+    "liverworts",
+    "Marchantia polymorpha",
+    "comparative genomics",
+    "revealed comparative advantage"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open"
+}

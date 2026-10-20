@@ -1,0 +1,29 @@
+# Conda environment for the full pipeline, including the external tools.
+#
+#     conda env create -f environment.yaml
+#     conda activate liverwort-rca
+#
+# The analyses were run with Python 3.14; if a pinned version cannot be
+# resolved, relax that pin.
+
+name: liverwort-rca
+
+channels:
+  - bioconda
+  - conda-forge
+
+dependencies:
+  - python=3.12
+  - numpy=2.4.3
+  - pandas=3.0.2
+  - scipy=1.17.1
+  - statsmodels=0.14.6
+  - matplotlib-base=3.10.9
+
+  - busco=6.0.0          # proteome completeness (embryophyta_odb10, chlorophyta_odb10)
+  - orthofinder=3.1.4    # orthogroup inference
+  - diamond=2.1.24       # all-against-all search (ultra-sensitive) and allele collapse
+  - famsa=2.4.1          # multiple sequence alignment used by OrthoFinder
+  - fasttree=2.2.0       # gene trees
+  - hmmer=3.4            # KOfam profile search (33_kegg_module_completeness.py) and BUSCO
+  - blast=2.16.0         # OrthoFinder dependency

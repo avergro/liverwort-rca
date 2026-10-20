@@ -1,0 +1,1 @@
+(Creinhardtii:0.622075,(((Ppatens:0.421274,(Mpolymorpha:0.127519,Lcruciata:0.177612)N5:0.266602)N3:0.0768882,((Pabies:0.301141,(Pamericana:0.235896,(Athaliana:0.312219,Slycopersicum:0.258462)N9:0.0812612)N8:0.214498)N6:0.159904,(Afiliculoides:0.211947,Scucullata:0.21253)N7:0.302509)N4:0.07226)N2:0.0714285,Smoellendorffii:0.391966)N1:0.622075)N0;
